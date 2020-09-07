@@ -30,13 +30,13 @@ The regulated entities include Singapore law practices, licensed foreign law pra
 
 Please click [here](https://www.mlaw.gov.sg/law-practice-entities-and-lawyers/licensing-or-registration-of-law-practice-entities/types-of-licence-or-registration/) for more information on the types of licences and registration available, and the application process.
 
-## Practice of Singapore law
+### Practice of Singapore law
 
 The legal profession in Singapore is a fused one: a qualified person is admitted to the Singapore Bar as an Advocate and Solicitor of the supreme Court.
 
 Click [here](https://www.mlaw.gov.sg/admission-to-the-bar/admission-requirements/) for information on admission to the Singapore Bar as an Advocate and Solicitor.
 
-## Practice of foreign law
+### Practice of foreign law
 
 Individuals who are registered to practise law in their overseas principal jurisdictions can register as a foreign lawyer under the Legal Profession Act to practise foreign law in Singapore. The Legal Services Regulatory Authority regulates and licences foreign lawyers and regulated non-practitioners in Singapore. Click [here](https://www.mlaw.gov.sg/files/Types_of_LSRA_Individual_Registration_May_2018.pdf) for information on the types of registration available.
 
