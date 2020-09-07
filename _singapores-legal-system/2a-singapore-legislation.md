@@ -1,6 +1,6 @@
 ---
 title: Singapore Legislation
-permalink: /singapores-legal-system/resources/
+permalink: /singapores-legal-system/resources/singapore-legislation/
 third_nav_title: Useful resources related to Singapore Law
 ---
 
