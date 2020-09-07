@@ -19,7 +19,7 @@ In mediation, the mediator helps parties to settle their disputes through a proc
 
 Since the mediator does not adjudicate on the dispute, parties have full control over the outcome of the dispute. They can agree on legal and non-legal solutions that are forward-looking and suited to their interests and needs. In the event of a non-settlement, the process of mediation often brings added clarity to the scope and nature of the dispute. This can help to streamline any ensuing litigation or arbitration proceedings. 
 
-**Why mediate in Singapore?**
+## Why mediate in Singapore?
 
 Mediation is a widely accepted mode of dispute resolution in Singapore. Its processes are well-understood by the legal and business community, and mediation is strongly supported by the judiciary.
 
@@ -41,3 +41,5 @@ Parties that adopt the Arb-Med-Arb Protocol may convert their mediated settlemen
 Singapore International Arbitration Centre (SIAC) - Singapore International Mediation Centre (SIMC) Arb-Med-Arb Protocol, the arbitrator(s) and the mediator(s) will be separately and independently appointed by SIAC and SIMC respectively, under the applicable arbitration rules and mediation rules of each institution. Unless the parties otherwise agree, the arbitrator(s) and the mediator(s) will generally be different persons. 
 
 Parties wishing to take advantage of this tiered dispute resolution mechanism as administered by SIAC and SIMC, may consider incorporating the **Singapore Arb-Med-Arb Clause* [Link to relevant section in website]** in their contracts.
+
+
