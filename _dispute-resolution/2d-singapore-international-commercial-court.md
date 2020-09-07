@@ -58,4 +58,4 @@ Court procedures in the SICC follow international best practices for commercial 
 Fees will be based on factors including the type of hearing, number of hearing days and the number of judges hearing the case. Detailed fee information can be found in the relevant [Rules of Court](https://www.sicc.gov.sg/legislation-rules-pd/rules-of-court).
 
 
-[Testimonials on Singapore International Commercial Court [to insert 1-2 testimonials]]
+*Testimonials on Singapore International Commercial Court [to insert 1-2 testimonials]
