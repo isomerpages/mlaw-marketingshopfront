@@ -1,7 +1,7 @@
 ---
 title: Singapore Legislation
 permalink: /singapores-legal-system/resources/
-third_nav_title: Resources
+third_nav_title: Useful resources related to Singapore Law
 ---
 
 A non-exhaustive list of useful law related to businesses include:
