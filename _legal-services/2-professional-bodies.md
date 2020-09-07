@@ -1,5 +1,5 @@
 ---
-title: Professional Bodies
+title: Professional bodies for lawyers in Singapore
 permalink: /legal-services/professional-bodies/
 ---
 
