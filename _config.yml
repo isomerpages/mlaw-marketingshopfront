@@ -28,8 +28,6 @@ collections:
     output: true
   dispute-resolution:
     output: true
-  test-training:
-    output: true
 
 
 ##################################################################################################################
