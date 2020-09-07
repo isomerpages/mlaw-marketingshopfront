@@ -7,13 +7,11 @@
 logo: /images/isomer-logo.svg
 
 links:
-  - title: Contact Us
-    url: /contact-us/
   - title: Singapore's Legal System
     collection: singapores-legal-system
   - title: Legal Services
     collection: legal-services
   - title: Dispute Resolution
     collection: dispute-resolution
-  - title: Training
-    collection: test-training
+  - title: Contact Us
+    url: /contact-us/
