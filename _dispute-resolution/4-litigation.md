@@ -2,10 +2,6 @@
 title: Litigation
 permalink: /dispute-resolution/litigation/
 ---
----
-title: Singapore International Commercial Court
-permalink: /dispute-resolution/arbitration/singapore-international-commercial-court/
----
 ## Singapore International Commercial Court 
 
 The [Singapore International Commercial Court (SICC)](https://www.sicc.gov.sg/) offers parties the option of having their international commercial disputes adjudicated by a panel of experienced judges, comprising specialist commercial judges from Singapore and international judges from both civil law and common law traditions. Parties who wish to resolve their disputes at the SICC can do so even where the dispute has no connection with Singapore and is not governed by Singapore law, as long as the original parties submit to its jurisdiction under a written jurisdiction agreement.
