@@ -1,6 +1,6 @@
 ---
 title: Industry specific guidelines and protocols
-permalink: /dispute-resolution/litigation/industry-specific-guidelines-and-protocols/
+permalink: /dispute-resolution/resources/industry-specific-guidelines-and-protocols/
 third_nav_title: Resources
 ---
 ### Intellectual Property Dispute Resolution
