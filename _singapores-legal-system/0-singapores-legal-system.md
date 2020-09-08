@@ -21,6 +21,8 @@ Against the backdrop of COVID-19 pandemic, here are some laws which may address 
 
  - Singapore Insolvency, Restructuring and Dissolution Act 2018 includes provisions relating to debtor-in-possession rescue financing, cross-border debt restructuring, cross-class “cram down” mechanisms and a worldwide stay on proceedings, not only for Sinagpore incorporated debtors, but also foreign debtors. For more information, click here.
 
+*Note: to add on if there are other relevant laws*
+
 ## High-Quality Legal Expertise
 
 With over 1,000 law firms and close to 5,700 lawyers, including around 130 foreign law firms and 1,200 foreign lawyers, Singapore has numerous high-quality law firms and legal professionals to support the international and regional needs of businesses.
@@ -32,6 +34,8 @@ Almost half of the top 100 law firms in the world (based on revenue) have office
 - Restructuring
 - Banking and Finance
 - Merger and Acquisition
+
+*Note: We will discuss with PSPO to explore which sectors to highlight*
 
 Singapore is also an attractive base in Asia for in-house legal teams of multinational companies. In-house legal counsel enjoy legal professional privilege on communications relating to legal advice.
 
