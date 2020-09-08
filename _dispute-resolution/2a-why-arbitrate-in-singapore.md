@@ -1,9 +1,8 @@
 ---
-title: Why Arbitrate in Singapore?
+title: Why parties choose arbitration services in Singapore 
 permalink: /dispute-resolution/arbitration/why-arbitrate-in-singapore/
 third_nav_title: Arbitration
 ---
-## Why parties choose arbitration services in Singapore 
 
 > Singapore is the foremost venue in Asia for international arbitration. Singapore ranks as the most preferred seat in Asia, and the third most preferred seat globally after Paris and London, in the 2018 Queen Mary, University of London (QMUL) International Arbitration Survey, a major empirical survey on the use of international arbitration. 
 
