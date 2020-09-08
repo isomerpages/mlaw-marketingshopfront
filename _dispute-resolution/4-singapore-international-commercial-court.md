@@ -1,12 +1,12 @@
 ---
-title: Litigation
-permalink: /dispute-resolution/litigation/
+title: Singapore International Commercial Court
+permalink: /dispute-resolution/litigation/singapore-international-commercial-court/
+third_nav_title: Litigation
 ---
-## Singapore International Commercial Court 
 
 The [Singapore International Commercial Court (SICC)](https://www.sicc.gov.sg/) offers parties the option of having their international commercial disputes adjudicated by a panel of experienced judges, comprising specialist commercial judges from Singapore and international judges from both civil law and common law traditions. Parties who wish to resolve their disputes at the SICC can do so even where the dispute has no connection with Singapore and is not governed by Singapore law, as long as the original parties submit to its jurisdiction under a written jurisdiction agreement.
 
-**Why Choose SICC?**
+## Why Choose SICC?
 
 The SICC offers innovative features which cater to the needs of international parties and differentiate it from other Courts. 
 The SICC complements existing international arbitration services. Parties may choose to resolve their disputes at SICC if they:
@@ -19,11 +19,11 @@ The SICC complements existing international arbitration services. Parties may ch
 
 •	Prefer that the proceedings take place in open court and published judgments with clear grounds of decision.
 
-**A diverse panel of eminent international and local jurists**
+### A diverse panel of eminent international and local jurists
 
 Disputes before the SICC and any resulting appeals will be heard by judges drawn from a distinguished and diverse panel. The panel is made up of eminent local and international judges and legal experts, with many of the international jurists being current or former judges from various jurisdictions. 
 
-**Enforceability of judgements**
+### Enforceability of judgements
 
 As judgments of the Supreme Court of Singapore, SICC judgments will be [widely enforceable around the world]:
 
@@ -33,13 +33,13 @@ As judgments of the Supreme Court of Singapore, SICC judgments will be [widely e
 
 •	SICC judgments may be recognised and enforced in the Courts of the states which are party to the 2005 Hague Convention on Choice of Court Agreements. This includes the EU member states, Denmark, Mexico and Montenegro. 
 
-**Choice of counsel**
+### Choice of counsel
 
 Parties are not limited to appointing Singapore lawyers and are free to choose foreign counsel to represent them in cases with no substantial connection with Singapore. Foreign counsel may also appear to address the Court on matters of foreign law. 
 
 To appear before the SICC, foreign counsel must [register with the Court](https://www.sicc.gov.sg/registration-of-foreign-lawyers/registration-of-foreign-lawyers) and comply with the [SICC Code of Ethics](https://www.sicc.gov.sg/docs/default-source/guide-to-the-sicc/code-of-ethics_revised.pdf).
 
-**More flexible court procedures**
+### More flexible court procedures
 
 Court procedures in the SICC follow international best practices for commercial disputes, and provide for more flexibility than typically found in national court processes:
 
@@ -53,7 +53,7 @@ Court procedures in the SICC follow international best practices for commercial 
 
 •	**Costs**: Costs are awarded at the discretion of the Court, with the general principle that the unsuccessful party shall pay the reasonable costs of the proceedings to the successful party.
 
-**What are the SICC’s fees?**
+## What are the SICC’s fees?
 
 Fees will be based on factors including the type of hearing, number of hearing days and the number of judges hearing the case. Detailed fee information can be found in the relevant [Rules of Court](https://www.sicc.gov.sg/legislation-rules-pd/rules-of-court).
 
