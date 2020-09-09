@@ -1,6 +1,6 @@
 ---
-title: Professional bodies for lawyers in Singapore
-permalink: /legal-services/professional-bodies/
+title: Professional bodies for lawyers
+permalink: /legal-services/professional-bodies-for-lawyers/
 ---
 
 ## The Law Society of Singapore
