@@ -66,6 +66,8 @@ Parties are not limited to using Singapore institutions. Other top international
 - Permanent Court of Arbitration (PCA)
 - World Intellectual Property Office (WIPO) Arbitration and Mediation Center
 
+![image of Maxwell Chambers](/images/mock-15-maxwell.png)
+
 ## Integrated Dispute Resolution Complex
 
 Parties seeking to resolve their disputes by alternative dispute resolution in Singapore will also enjoy access to state-of-the-art support facilities, such as Maxwell Chambers *(Add hyperlink to website)*
