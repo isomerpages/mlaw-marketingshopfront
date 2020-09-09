@@ -4,7 +4,7 @@ permalink: /dispute-resolution/measures-in-response-to-covid-19/
 ---
 *Note: To explore possiblity of embedding the new video by Maxwell chambers on their hybrid/virtual hearing facilities*
 
-[Maxwell Chambers hearing room](/images/mock-16-maxwell.jpg) 
+![Maxwell Chambers hearing room](/images/mock-16-maxwell.jpg) 
 
 ## Facilities 
 
