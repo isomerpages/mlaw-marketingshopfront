@@ -1,12 +1,14 @@
 ---
-title: Legal Services in Singapore
-permalink: /legal-services/legal-services-in-singapore/
+title: Overview
+permalink: /legal-services/overview/
 ---
 Singapore has a broad base of legal service providers to cater to the regional and international needs of businesses.
 
 Almost half of the top 100 law firms in the world based on revenue have offices in Singapore, allowing access to top-tier international legal advice from renowned legal advisors from many European and Asian jurisdictions.
 
 Singapore law practices are among the largest in South East Asia, and have strong regional expertise. Many of our law practices have access to networks of law firms across the region and globe, or offices in other jurisdictions.
+
+![mock-image of person](/images/mock-07-why-singapore-law.jpg)
 
 ## Market Structure and Landscape
 
@@ -47,5 +49,5 @@ For information on providing alternative dispute resolution services such as arb
 
 ## Useful resources and links
 
-- Programmes for law practices and lawyers *Note: Will link to relevant page on the website*
-- Professional bodies *Note: Will link to relevant page on the website*
+- [Programmes for law practices and lawyers](/legal-services/programmes-for-law-practices-and-lawyers/)
+- [Professional bodies for lawyers](/legal-services/professional-bodies-for-lawyers/) 
