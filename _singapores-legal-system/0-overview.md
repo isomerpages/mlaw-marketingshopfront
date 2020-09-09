@@ -2,6 +2,7 @@
 title: Overview
 permalink: /singapores-legal-system/overview/
 ---
+![mock picture of the supreme court building](/images/mock-03-about-singapore.jpg)
 
 Singapore, a republic with a parliamentary system of government based on the Westminster model, has a world-class legal system rooted in English law and practice. Its strong rule of law, pro-business environment, and high-quality legal expertise and infrastructure have attracted leading law firms, businesses, investors, and entrepreneurs to establish their regional and global operations here.
 
