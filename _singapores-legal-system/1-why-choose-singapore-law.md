@@ -10,6 +10,8 @@ Strongly associated with the strengths of the Singapore legal system, Singapore 
 
 Singapore law is fair and transparent, with reliable and predictable results. As a common law jurisdiction, Singapore’s laws retain the commercial strengths and stability of that legal tradition.
 
+![mock image](/images/mock-05-why-singapore-law.jpg) 
+
 ## Modern and relevant
 
 Responsive to changing global commercial practices, Singapore’s jurisprudence and legislation maintain a strong internationalist outlook, continuing to absorb and modify the common law as well as best practices from other mature legal systems.
@@ -19,6 +21,8 @@ Singapore law is uniquely placed to reflect the commercial context in Asia and i
 ## International standards
 
 Singapore adheres to international commercial standards and has ratified many multilateral commercial law treaties, such as the UN Convention on Contracts for the International Sale of Goods, the New York Convention on Recognition and Enforcement of Foreign Arbitral Awards, the Singapore Convention on Mediation, and the Protocol Relating to the Madrid Agreement Concerning the International Registration of Marks.
+
+![mock image](/images/mock-06-why-singapore-law.jpg) 
 
 ## Business-friendly framework
 
