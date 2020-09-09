@@ -4,7 +4,7 @@ permalink: /dispute-resolution/arbitration/singapore-international-arbitration-c
 third_nav_title: Arbitration
 ---
 
-![mock image of arbitration](https://github.com/isomerpages/mlaw-marketingshopfront/blob/staging/images/mock-18-arbitration.jpg)
+![mock image of arbitration](/images/mock-18-arbitration.jpg)
 
 The [Singapore International Arbitration Centre (SIAC)](https://www.siac.org.sg/) has a proven track record in providing neutral arbitration services to the global business community. 
 
