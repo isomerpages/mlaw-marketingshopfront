@@ -42,6 +42,8 @@ Singapore’s Supreme Court Judges are respected jurists with substantial expert
 
 Singapore Courts interpreting Singapore law contracts will primarily look to the ordinary meaning of the language in contract (i.e. what a reasonable person would have understood the term to mean) instead of giving undue weight to the subjective common intent of the parties. This approach gives commercial parties greater certainty as to how the Singapore Courts will interpret their contracts.
 
+![mock image of old supreme court building](/images/mock-04-about-singapore.jpg) 
+
 ## Fast and Cost-Efficient
 
 The [World Bank Doing Business Report in 2020](https://www.doingbusiness.org/en/ranking) ranked Singapore 1st globally for the efficiency of its judicial system in resolving commercial disputes. Resolving a commercial dispute through the Singapore Courts takes on average 164 days – less than half the time for New York and about a third of the time for London. Singapore law provides clear ethical guidelines on legal fees in addition to judicial control over legal fees, generally leading to costs savings as compared to major centres such as London or New York.
