@@ -4,6 +4,8 @@ permalink: /dispute-resolution/arbitration/singapore-international-arbitration-c
 third_nav_title: Arbitration
 ---
 
+![mock image of arbitration](https://github.com/isomerpages/mlaw-marketingshopfront/blob/staging/images/mock-18-arbitration.jpg)
+
 The [Singapore International Arbitration Centre (SIAC)](https://www.siac.org.sg/) has a proven track record in providing neutral arbitration services to the global business community. 
 
 Over 80% of SIAC’s cases are international in nature, . SIAC arbitration awards have been enforced in many jurisdictions including Australia, China, Hong Kong SAR, India, Indonesia, Jordan, Thailand, UK, USA and Vietnam, amongst other New York Convention signatories. 
