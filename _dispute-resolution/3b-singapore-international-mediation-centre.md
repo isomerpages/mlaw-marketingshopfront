@@ -3,6 +3,9 @@ title: Singapore International Mediation Centre
 permalink: /dispute-resolution/arbitration/singapore-international-mediation-centre/
 third_nav_title: Mediation
 ---
+
+![mock image of e-mediation](/images/mock-20-mediation.jpg)
+
 ## Singapore International Mediation Centre
 
 The [Singapore International Mediation Centre (SIMC)](http://simc.com.sg/) has a proven track record in providing neutral arbitration services to the global business community. 
