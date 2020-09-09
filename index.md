@@ -1,15 +1,15 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Singapore Legal Gateway
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/mlaw-logo.png
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
         title: Singapore Legal Gateway
         subtitle: Find out more about Singapore's legal services here.
-        background: /images/hero-banner.png
+        background: /images/mock-2-about-singapore.jpg
         button: Contact Us
         url: /contact-us/
         key_highlights:
