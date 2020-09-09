@@ -8,6 +8,8 @@ permalink: /dispute-resolution/why-resolve-disputes-in-singapore/
 
 The World Bank Doing Business Report 2020 ranks Singapore first globally in the contract enforcement variable - which measures the efficiency of a judicial system in resolving commercial disputes. Singapore consistently ranks amongst the top of the World Bank’s Doing Business rankings as the world’s easiest place to do business.
 
+![stock image of handshake](/images/mock-13-why-dispute-resolution.jpg)
+
 ## Pro-business environment
 
 With supportive government policies and a pro-business environment, international parties seeking to resolve commercial disputes in Singapore can expect laws that are responsive and keenly attuned to their needs. We keep abreast of commercial developments and international best practice in the knowledge that law, like the businesses it protects, does not stand still.
@@ -37,6 +39,8 @@ make us one of the most well-connected cities in the world. Over 100 airlines fl
 ## Range of Dispute Resolution Services
 
 Singapore’s dispute resolution regime is open and transparent, and parties have access to international judges, arbitrators, mediators and counsel where necessary. Parties who choose Singapore will have a full suite of top-class arbitration, litigation and mediation services to choose from.
+
+![stock image of legal tech](/images/mock-14-why-dispute-resolution.jpg)
 
 ### International Commercial Arbitration Services in Singapore
 
