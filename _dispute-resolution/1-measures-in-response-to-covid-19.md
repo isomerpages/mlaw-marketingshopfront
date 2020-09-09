@@ -4,6 +4,8 @@ permalink: /dispute-resolution/measures-in-response-to-covid-19/
 ---
 *Note: To explore possiblity of embedding the new video by Maxwell chambers on their hybrid/virtual hearing facilities*
 
+[Maxwell Chambers hearing room](/images/mock-16-maxwell.jpg) 
+
 ## Facilities 
 
 In view of the global pandemic, conducting hearings safely is our utmost priority. Maxwell Chambers connects remote parties from around the world, on a 24/7 basis, seamlessly and securely. It provides state-of-the-art video conferencing facilities and a full suite of services, from remote transcription, interpretation, to digital hearing services. renders technical assistance every step of the way to assure parties of a smooth hybrid or virtual hearing. Parties who wish to adopt a hybrid hearing can also make use of the breakout rooms which have safe management measures in place.
