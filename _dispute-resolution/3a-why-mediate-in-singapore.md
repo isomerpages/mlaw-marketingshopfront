@@ -3,6 +3,9 @@ title: Why Mediate in Singapore?
 permalink: /dispute-resolution/arbitration/why-mediate-in-singapore/
 third_nav_title: Mediation
 ---
+
+![mock image of group](/images/mock-19-mediation.jpg)
+
 ## Why parties choose mediation services in Singapore 
 
 **What is mediation?**
