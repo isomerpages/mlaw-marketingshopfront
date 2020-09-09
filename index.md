@@ -9,7 +9,7 @@ sections:
     - hero:
         title: Singapore Legal Gateway
         subtitle: Find out more about Singapore's legal services here.
-        background: /images/mock-2-about-singapore.jpg
+        background: /images/mock-02-about-singapore.jpg
         button: Contact Us
         url: /contact-us/
         key_highlights:
