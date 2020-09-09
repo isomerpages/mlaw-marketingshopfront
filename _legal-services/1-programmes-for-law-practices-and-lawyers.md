@@ -1,5 +1,5 @@
 ---
-title: Programmes for Law Practices and Lawyers
+title: Programmes for law practices and lawyers
 permalink: /legal-services/programmes-for-law-practices-and-lawyers/
 ---
 
