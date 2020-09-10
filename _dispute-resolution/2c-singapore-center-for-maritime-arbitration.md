@@ -5,7 +5,7 @@ third_nav_title: Arbitration
 ---
 ## Singapore Chamber of Maritime Arbitration
 
-[Singapore Chamber of Maritime Arbitration (SCMA)](https://www.scma.org.sg/) is a specialist arbitration institution for the resolution of maritime and international trade disputes. SCMA offers a comprehensive and neutral set of non-administered arbitration rules with optional features. SCMA provides a framework that is cost-effective and flexible to the maritime and international trade communities to resolve their disputes fairly and expeditiously.
+The [Singapore Chamber of Maritime Arbitration (SCMA)](https://www.scma.org.sg/) is a specialist arbitration institution for the resolution of maritime and international trade disputes. SCMA offers a comprehensive and neutral set of non-administered arbitration rules with optional features. SCMA provides a framework that is cost-effective and flexible to the maritime and international trade communities to resolve their disputes fairly and expeditiously.
 
 > Singapore is listed as one of the three arbitral seats in the Baltic and International Maritime Council (BIMCO) Standard Dispute Resolution Clause, the New York Produce Exchange (NYPE) Time Charter Party 2015, and the Singapore Ship Sale Form. 
 
