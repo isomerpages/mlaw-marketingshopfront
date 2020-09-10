@@ -1,6 +1,6 @@
 ---
 title: Model Agreements for Venture Capital Investments
-permalink: /singapores-legal-system/resources/model-agreements-for-venture-capital-investments/
+permalink: /about-singapore/resources/model-agreements-for-venture-capital-investments/
 third_nav_title: Useful resources related to Singapore Law
 ---
 
