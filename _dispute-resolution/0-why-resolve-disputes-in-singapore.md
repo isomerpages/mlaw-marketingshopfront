@@ -14,7 +14,7 @@ The World Bank Doing Business Report 2020 ranks Singapore first globally in the 
 
 With supportive government policies and a pro-business environment, international parties seeking to resolve commercial disputes in Singapore can expect laws that are responsive and keenly attuned to their needs. We keep abreast of commercial developments and international best practice in the knowledge that law, like the businesses it protects, does not stand still.
 
-**For additional resources on Model clauses. Protocols and Guidelines, please click here**
+**For additional resources on Model clauses. Protocols and Guidelines, please click [here](/dispute-resolution/resources/model-clauses-for-commercial-contracts/).**
 
 ## Trusted legal system
 
@@ -44,17 +44,17 @@ Singapore’s dispute resolution regime is open and transparent, and parties hav
 
 ### International Commercial Arbitration Services in Singapore
 
-- Singapore International Arbitration Centre (SIAC) *Link to relevant section of the website*
+- [Singapore International Arbitration Centre (SIAC)](/dispute-resolution/arbitration/singapore-international-arbitration-center/) 
 
-- Singapore Chamber of Maritime Arbitration (SCMA) *Link to relevant section of the website*
+- [Singapore Chamber of Maritime Arbitration (SCMA)](/dispute-resolution/arbitration/singapore-chamber-of-maritime-arbitration/) 
 
 ### International Commercial Litigation Services in Singapore
 
-- Singapore International Commercial Court (SICC) *Link to relevant section of the website*
+- [Singapore International Commercial Court (SICC)](/dispute-resolution/litigation/singapore-international-commercial-court/)
 
 ### International Commercial Mediation Services in Singapore
 
-- Singapore International Mediation Centre (SIMC) *Link to relevant section of the website*
+- [Singapore International Mediation Centre (SIMC)](/dispute-resolution/arbitration/singapore-international-mediation-centre/)
 - Singapore Mediation Centre (SMC) *Link to relevant section of the website*
 
 ### International Institutions with Case Management Services in Singapore
