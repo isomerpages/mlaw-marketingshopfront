@@ -1,6 +1,6 @@
 ---
 title: Singapore Court Judgements
-permalink: /singapores-legal-system/resources/singapore-court-judgements/
+permalink: /about-singapore/resources/singapore-court-judgements/
 third_nav_title: Useful resources related to Singapore Law
 ---
 
