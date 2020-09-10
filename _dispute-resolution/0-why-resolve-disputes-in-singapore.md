@@ -55,7 +55,7 @@ Singapore’s dispute resolution regime is open and transparent, and parties hav
 ### International Commercial Mediation Services in Singapore
 
 - [Singapore International Mediation Centre (SIMC)](/dispute-resolution/mediation/singapore-international-mediation-centre/)
-- [Singapore Mediation Centre (SMC)](/dispute-resolution/mediation/singapore-international-mediation-centre/)*TBC*
+- [Singapore Mediation Centre (SMC)](/dispute-resolution/mediation/singapore-mediation-centre/)*(TBC)*
 
 ### International Institutions with Case Management Services in Singapore
 
