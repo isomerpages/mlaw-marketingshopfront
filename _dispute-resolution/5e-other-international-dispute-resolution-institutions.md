@@ -6,7 +6,7 @@ third_nav_title: Resources
 
 # Other international Dispute Resolution Centres with case management offices in Singapore
 
-## Permanent Court of Arbitration
+## Permanent Court of Arbitration <a name="permanent-court-of-arbitration"></a>
 
 The Permanent Court of Arbitration *[insert link]* (PCA), the oldest global institution for settlement of international disputes, opened its first Asia office in Singapore. This office provides PCA a base to administer its growing number of cases held in Singapore and Asia.
 
