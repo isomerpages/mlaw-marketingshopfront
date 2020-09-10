@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /singapores-legal-system/overview/
+permalink: /about-singapore/overview/
 ---
 ![mock picture of the supreme court building](/images/mock-03-about-singapore.jpg)
 
@@ -49,6 +49,6 @@ The Singapore Judiciary’s professionalism, efficiency, and international outlo
 Click on the links below for more information on:
 
 - Singapore Law as governing law for commercial contracts
-- Legal Services in Singapore
-- Dispute Resolution Services in Singapore
-- Resources
+- [Legal Services in Singapore](/legal-services/overview/)
+- [Dispute Resolution Services in Singapore](/dispute-resolution/why-resolve-disputes-in-singapore/)
+- [Resources](/about-singapore/resources/singapore-legislation/)
