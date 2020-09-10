@@ -61,10 +61,10 @@ Singapore’s dispute resolution regime is open and transparent, and parties hav
 
 Parties are not limited to using Singapore institutions. Other top international institutions which have a case management office in Singapore include:
 
-- American Arbitration Association - International Centre for Dispute Resolution (ICDR)
-- International Chamber of Commerce (ICC) International Court of Arbitration
-- [Permanent Court of Arbitration (PCA)](/dispute-resolution/resources/other-international-dispute-resolution-centres/#permanent-court-of-arbitration)
-- World Intellectual Property Office (WIPO) Arbitration and Mediation Center
+- [American Arbitration Association - International Centre for Dispute Resolution (ICDR)](/dispute-resolution/resources/other-international-dispute-resolution-centres/#aaa-icdr)
+- [International Chamber of Commerce (ICC) International Court of Arbitration](/dispute-resolution/resources/other-international-dispute-resolution-centres/#icc-ica)
+- [Permanent Court of Arbitration (PCA)](/dispute-resolution/resources/other-international-dispute-resolution-centres/#pca)
+- [World Intellectual Property Office (WIPO) Arbitration and Mediation Center](/dispute-resolution/resources/other-international-dispute-resolution-centres/#wipo-amc)
 
 ![image of Maxwell Chambers](/images/mock-15-maxwell.png)
 
