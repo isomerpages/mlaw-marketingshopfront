@@ -63,7 +63,7 @@ Parties are not limited to using Singapore institutions. Other top international
 
 - American Arbitration Association - International Centre for Dispute Resolution (ICDR)
 - International Chamber of Commerce (ICC) International Court of Arbitration
-- Permanent Court of Arbitration (PCA)
+- [Permanent Court of Arbitration (PCA)](/dispute-resolution/resources/other-international-dispute-resolution-centres/#permanent-court-of-arbitration)
 - World Intellectual Property Office (WIPO) Arbitration and Mediation Center
 
 ![image of Maxwell Chambers](/images/mock-15-maxwell.png)
