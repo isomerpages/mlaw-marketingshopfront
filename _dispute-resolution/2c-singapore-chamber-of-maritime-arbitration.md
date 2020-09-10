@@ -1,6 +1,6 @@
 ---
-title: Singapore Centre for Maritime Arbitration
-permalink: /dispute-resolution/arbitration/singapore-center-for-maritime-arbitration/
+title: Singapore Chamber of Maritime Arbitration
+permalink: /dispute-resolution/arbitration/singapore-chamber-of-maritime-arbitration/
 third_nav_title: Arbitration
 ---
 ## Singapore Chamber of Maritime Arbitration
