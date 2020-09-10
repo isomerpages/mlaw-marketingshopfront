@@ -44,7 +44,7 @@ Singapore’s dispute resolution regime is open and transparent, and parties hav
 
 ### International Commercial Arbitration Services in Singapore
 
-- [Singapore International Arbitration Centre (SIAC)](/dispute-resolution/arbitration/singapore-international-arbitration-center/) 
+- [Singapore International Arbitration Centre (SIAC)](/dispute-resolution/arbitration/singapore-international-arbitration-centre/) 
 
 - [Singapore Chamber of Maritime Arbitration (SCMA)](/dispute-resolution/arbitration/singapore-chamber-of-maritime-arbitration/) 
 
