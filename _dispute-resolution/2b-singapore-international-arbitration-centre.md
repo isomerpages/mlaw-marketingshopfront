@@ -1,6 +1,6 @@
 ---
 title: Singapore International Arbitration Centre
-permalink: /dispute-resolution/arbitration/singapore-international-arbitration-center/
+permalink: /dispute-resolution/arbitration/singapore-international-arbitration-centre/
 third_nav_title: Arbitration
 ---
 
