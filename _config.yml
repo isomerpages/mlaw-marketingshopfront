@@ -20,7 +20,7 @@ colors:
 
 
 collections:
-  singapores-legal-system:
+  about-singapore:
     output: true
   singapore-law:
     output: true
