@@ -44,7 +44,7 @@ Individuals who are registered to practise law in their overseas principal juris
 
 Foreign-qualified lawyers who pass the Foreign Practitioner Examinations may be registered to to practise in permitted areas of Singapore law.  Click [here](http://www.sile.edu.sg/foreign-practitioner-examinations) for information on the Foreign Practitioner Examinations.
 
-For information on providing alternative dispute resolution services such as arbitration and mediation, please click here. *Note: Will link to DR section of the Shopfront website*
+For information on providing alternative dispute resolution services such as arbitration and mediation, please click [here](/dispute-resolution/why-resolve-disputes-in-singapore/). 
 
 
 ## Useful resources and links
