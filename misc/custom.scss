@@ -267,7 +267,8 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 	blockquote > p {
 		color: $secondary;
-		font-size: 1rem;
+		font-size: 1.25rem; //self-customisation
+		line-height: 2.2rem; //self-customisation
 	}
 	blockquote > ul {
 		color: $secondary;
