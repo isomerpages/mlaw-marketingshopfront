@@ -3,6 +3,7 @@
 ---
 
 @charset "utf-8";
+	
 
 // Agency brand colors
 $primary: {{- site.colors.primary-color -}};
@@ -266,6 +267,7 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 	blockquote > p {
 		color: $secondary;
+		font-size: 1rem;
 	}
 	blockquote > ul {
 		color: $secondary;
