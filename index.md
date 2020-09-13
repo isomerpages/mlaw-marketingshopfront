@@ -11,7 +11,7 @@ sections:
         subtitle: 
         background: /images/mock-02-about-singapore.jpg
         button: Find out more
-        url: /contact-us/
+        url: /about-singapore/overview/
         key_highlights:
             - title: Highlight A
               description: Important highlight A is important
