@@ -10,7 +10,7 @@ Singapore, a republic with a parliamentary system of government based on the Wes
 
 ## Attuned to the needs of multinational businesses
 
-[Singapore’s legal system](https://www.mlaw.gov.sg/about-us/our-legal-system) [Note: Will link to MinLaw website] is familiar, yet modern and attuned to the needs of multinational businesses. While rooted in the English law and practice, Singapore’s legal system and laws have constantly evolved to incorporate the best practices of other jurisdictions.
+[Singapore’s legal system](https://www.mlaw.gov.sg/about-us/our-legal-system) is familiar, yet modern and attuned to the needs of multinational businesses. While rooted in the English law and practice, Singapore’s legal system and laws have constantly evolved to incorporate the best practices of other jurisdictions.
 
 Singapore’s legal system also retains the common law tradition – judicial precedence is an important feature, which offers greater legal certainty for users.
 
