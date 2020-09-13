@@ -8,9 +8,9 @@ notification: Here's a notification bar you can use!
 sections:
     - hero:
         title: Singapore Legal Gateway
-        subtitle: Find out more about Singapore's legal services here.
+        subtitle: 
         background: /images/mock-02-about-singapore.jpg
-        button: Contact Us
+        button: Find out more
         url: /contact-us/
         key_highlights:
             - title: Highlight A
@@ -22,10 +22,27 @@ sections:
             - title: Page A
               description: Page A is important too
               url: /privacy/
-    - infobar:
-        title: Infobar title
+    - infopic:
+        title: Legal System
         subtitle: Subtitle
         description: About a sentence worth of description here
-        button: Button text
+        button: Read more
+        url: /about-singapore/overview/
+        image: /images/mock-03-about-singapore.jpg
+
+    - infopic:
+        title: Legal Services
+        subtitle: Subtitle
+        description: About a sentence worth of description here
+        button: Read more
+        url: /legal-services/overview
+        image: /images/mock-03-about-singapore.jpg
+        
+    - infopic:
+        title: Dispute Resolution
+        subtitle: Subtitle
+        description: About a sentence worth of description here
+        button: Read more
         url: /faq/
+        image: /images/mock-03-about-singapore.jpg
 ---
