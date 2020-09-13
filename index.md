@@ -23,7 +23,7 @@ sections:
               description: Page A is important too
               url: /privacy/
     - infopic:
-        title: Legal System
+        title: About Singapore
         subtitle: Subtitle
         description: About a sentence worth of description here
         button: Read more
@@ -35,14 +35,14 @@ sections:
         subtitle: Subtitle
         description: About a sentence worth of description here
         button: Read more
-        url: /legal-services/overview
-        image: /images/mock-03-about-singapore.jpg
+        url: /legal-services/overview/
+        image: /images/mock-07-why-singapore-law.jpg
         
     - infopic:
         title: Dispute Resolution
         subtitle: Subtitle
         description: About a sentence worth of description here
         button: Read more
-        url: /faq/
-        image: /images/mock-03-about-singapore.jpg
+        url: /dispute-resolution/why-resolve-disputes-in-singapore/
+        image: /images/mock-13-why-dispute-resolution.jpg
 ---
