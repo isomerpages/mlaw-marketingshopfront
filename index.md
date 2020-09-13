@@ -29,6 +29,7 @@ sections:
         button: Read more
         url: /about-singapore/overview/
         image: /images/mock-03-about-singapore.jpg
+        alt: Mock image
 
     - infopic:
         title: Legal Services
@@ -37,6 +38,7 @@ sections:
         button: Read more
         url: /legal-services/overview/
         image: /images/mock-07-why-singapore-law.jpg
+        alt: Mock image
         
     - infopic:
         title: Dispute Resolution
@@ -45,4 +47,5 @@ sections:
         button: Read more
         url: /dispute-resolution/why-resolve-disputes-in-singapore/
         image: /images/mock-13-why-dispute-resolution.jpg
+        alt: Mock image
 ---
