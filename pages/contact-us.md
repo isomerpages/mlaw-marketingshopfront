@@ -2,23 +2,30 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: We will list various organisation's contacts here. To explore whether we can create buttons and online forms to route the enquiries
 locations:
-  - title: Main Office
+  - title: Maxwell Chambers
+    - phone: "to insert"
+    - email: "to insert"   
     address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+        - "to insert"
+        - "to insert"
+    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA 
+  - title: Singapore International Arbitration Centre
+    address:
+        - "to insert"
+        - "to insert"
+        - "to insert"
     operating_hours:
-      - days: Mon - Fri
+      - days: Mon - Fri (Note: to discuss whether need to include operating hours)
         time: 8.30am - 6.00pm
         description: Closed on Public Holidays
       - days: Sat
         time: 8.30am - 12.00pm
-  - title: Branch Office
+  - title: Singapore International Mediation Centre
     address:
-        - 109 North Bridge Road
-        - Singapore 179097
+        - "to insert"
+        - "to insert"
     maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
 contacts:
   - title: General Enquiries & Feedback
