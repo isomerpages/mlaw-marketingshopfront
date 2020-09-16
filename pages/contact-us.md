@@ -15,7 +15,7 @@ locations:
         - to insert
         - to insert
     operating_hours:
-      - days: Mon - Fri (Note: to discuss whether need to include operating hours)
+      - days: Mon - Fri
         time: 8.30am - 6.00pm
         description: Closed on Public Holidays
       - days: Sat
