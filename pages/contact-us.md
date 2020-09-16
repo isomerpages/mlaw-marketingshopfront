@@ -4,9 +4,7 @@ title: Contact Us
 permalink: /contact-us/
 agency_name: We will list various organisation's contacts here. To explore whether we can create buttons and online forms to route the enquiries
 locations:
-  - title: Maxwell Chambers
-    - phone: "to insert"
-    - email: "to insert"   
+  - title: Maxwell Chambers  
     address:
         - "to insert"
         - "to insert"
