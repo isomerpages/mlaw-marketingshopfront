@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /about-singapore/overview/
+permalink: /legal-system/overview/
 ---
 ![mock picture of the supreme court building](/images/mock-03-about-singapore.jpg)
 
