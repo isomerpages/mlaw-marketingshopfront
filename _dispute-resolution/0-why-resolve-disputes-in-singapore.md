@@ -5,7 +5,8 @@ permalink: /dispute-resolution/why-resolve-disputes-in-singapore/
 
 ## Why resolve disputes in Singapore
 
-*Note: Will explore possibility of embedding the new DR video on this page*
+*Note: Video for illustration purposes, will explore possibility of embedding the new DR video on this page*
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CnO9jgl7kIE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Efficiency, economy and innovation**  are the hallmarks of dispute resolution in Singapore. In a business environment of increasing complexity and uncertainty, Singapore stands out as a trusted and safe venue for dispute resolution.
 
