@@ -1,7 +1,7 @@
 ---
 title: Model Agreements for Venture Capital Investments
-permalink: /about-singapore/resources/model-agreements-for-venture-capital-investments/
-third_nav_title: Useful resources related to Singapore Law
+permalink: /singapore-law/resources/model-agreements-for-venture-capital-investments/
+third_nav_title: Resources
 ---
 
 Venture capital investments are becoming increasingly prevalent in Singapore and Southeast Asia, and this trend is expected to continue. Each investment may be unique, but there is no need for founders and investors (and their respective advisors) to spend time and incur costs by preparing and negotiating each investment from scratch, especially for early stage financing.
