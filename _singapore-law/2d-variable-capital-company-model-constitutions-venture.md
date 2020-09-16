@@ -1,7 +1,7 @@
 ---
 title: Variable Capital Company Model Constitutions Venture
-permalink: /about-singapore/resources/variable-capital-company-model-constitutions-venture/
-third_nav_title: Useful resources related to Singapore Law
+permalink: /singapore-law/resources/variable-capital-company-model-constitutions-venture/
+third_nav_title: Resources
 ---
 The Variable Capital Company (VCC) is a corporate entity which can be set up as a single standalone fund, or as an umbrella fund with two or more sub-funds, each holding different assets. 
 
