@@ -1,6 +1,6 @@
 ---
 title: Why Choose Singapore Law?
-permalink: /legal-system/why-choose-singapore-law/
+permalink: /singapore-law/why-choose-singapore-law/
 ---
 Strongly associated with the strengths of the Singapore legal system, Singapore law is frequently adopted by contracting parties as a neutral choice of law. It may be chosen to govern transactions even if there is no connection between the parties or the transaction, and Singapore.
 
