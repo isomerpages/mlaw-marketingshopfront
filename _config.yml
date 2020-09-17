@@ -4,8 +4,8 @@ favicon: /images/favicon-isomer.ico
 
 # Site colors
 colors:
-  primary-color: '#6031b6'
-  secondary-color: '#4372d6'
+  primary-color: '#a40935'  #edit to minlaw colours
+  secondary-color: '#a40935' #edit to minlaw colours
   media-colors:
     - title: media-color-one
       color: '#49759a'
@@ -20,8 +20,8 @@ colors:
 
 
 collections:
-  legal-system:
-    output: false
+#  legal-system:
+#    output: false
   singapore-law:
     output: true
   legal-services:
