@@ -21,7 +21,7 @@ colors:
 
 collections:
   legal-system:
-    output: true
+    output: false
   singapore-law:
     output: true
   legal-services:
