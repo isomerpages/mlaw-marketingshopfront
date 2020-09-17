@@ -256,7 +256,48 @@ $desktop: 960px + (2 * $gap) !default;
 
 // Post-content
 .content {
-	h1, h2, h3, h4, h5 {
+// Customised the header font sizes h1-h5
+//	h1, h2, h3, h4, h5 {
+//		color: $secondary;
+//		strong {
+//			color: $secondary;
+//		}
+//	}
+	h1 {
+		font-size: 2.75rem; //self-customisation
+		line-height: 3.75rem; //self-customisation
+		color: $secondary;
+		strong {
+			color: $secondary;
+		}
+	}
+	h2 {
+		font-size: 2.2rem; //self-customisation
+		line-height: 3.2rem; //self-customisation
+		color: $secondary;
+		strong {
+			color: $secondary;
+		}
+	}
+	h3 {
+		font-size: 2.0rem; //self-customisation
+		line-height: 3.0rem; //self-customisation
+		color: $secondary;
+		strong {
+			color: $secondary;
+		}
+	}
+	h4 {
+		font-size: 1.8rem; //self-customisation
+		line-height: 2.8rem; //self-customisation
+		color: $secondary;
+		strong {
+			color: $secondary;
+		}
+	}
+	h5 {
+		font-size: 1.6rem; //self-customisation
+		line-height: 2.6rem; //self-customisation
 		color: $secondary;
 		strong {
 			color: $secondary;
@@ -264,6 +305,8 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 	blockquote {
 		border-left-color: $secondary;
+		font-size: 1.25rem; //self-customisation
+		line-height: 2.2rem; //self-customisation
 	}
 	blockquote > p {
 		color: $secondary;
@@ -272,6 +315,8 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 	blockquote > ul {
 		color: $secondary;
+		font-size: 1.25rem; //self-customisation
+		line-height: 2.2rem; //self-customisation
 	}
 }
 
