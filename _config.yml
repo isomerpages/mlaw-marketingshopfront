@@ -24,10 +24,11 @@ collections:
 #    output: false
   singapore-law:
     output: true
-  legal-services:
-    output: true
   dispute-resolution:
     output: true
+  legal-services:
+    output: true
+
 
 
 ##################################################################################################################
