@@ -11,7 +11,7 @@ sections:
         subtitle: 
         background: /images/mock-02-about-singapore.jpg
         button: Find out more
-        url: /about-singapore/overview/
+        url: /legal-system/
         key_highlights:
             - title: Highlight A
               description: Important highlight A is important
@@ -22,23 +22,24 @@ sections:
             - title: Page A
               description: Page A is important too
               url: /privacy/
+    
     - infopic:
-        title: About Singapore
+        title: Legal System
         subtitle: Subtitle
         description: About a sentence worth of description here
         button: Read more
-        url: /about-singapore/overview/
+        url: /legal-system/
         image: /images/mock-03-about-singapore.jpg
         alt: Mock image
-
+        
     - infopic:
-        title: Legal Services
+        title: Singapore Law
         subtitle: Subtitle
         description: About a sentence worth of description here
         button: Read more
-        url: /legal-services/overview/
-        image: /images/mock-07-why-singapore-law.jpg
-        alt: Mock image
+        url: /dispute-resolution/why-resolve-disputes-in-singapore/
+        image: /images/mock-06-why-singapore-law.jpg
+        alt: Mock image  
         
     - infopic:
         title: Dispute Resolution
@@ -48,4 +49,15 @@ sections:
         url: /dispute-resolution/why-resolve-disputes-in-singapore/
         image: /images/mock-13-why-dispute-resolution.jpg
         alt: Mock image
+    
+    - infopic:
+        title: Legal Services
+        subtitle: Subtitle
+        description: About a sentence worth of description here
+        button: Read more
+        url: /legal-services/overview/
+        image: /images/mock-07-why-singapore-law.jpg
+        alt: Mock image
+        
+
 ---
