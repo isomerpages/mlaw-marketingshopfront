@@ -8,15 +8,15 @@ colors:
   secondary-color: '#a40935' #edit to minlaw colours
   media-colors:
     - title: media-color-one
-      color: '#49759a'
+      color: '#696969' #edit to minlaw colours
     - title: media-color-two
-      color: '#744d9f'
+      color: '#800000' #edit to minlaw colours
     - title: media-color-three
-      color: '#00838f'
+      color: '#A0522D' #edit to minlaw colours
     - title: media-color-four
-      color: '#00838f'
+      color: '#866633' #edit to minlaw colours
     - title: media-color-five
-      color: '#00838f'
+      color: '#505050' #edit to minlaw colours
 
 
 collections:
