@@ -2,6 +2,8 @@
 title: Why choose Singapore Law
 
 ---
+This is an older version of the page
+
 Strongly associated with the strengths of the Singapore legal system, Singapore law is frequently adopted by contracting parties as a neutral choice of law. It may be chosen to govern transactions even if there is no connection between the parties or the transaction, and Singapore.
 
 > According to an independent [2019 survey on Governing Law and Jurisdictional Choices in Cross-Border Transactions](https://www.sal.org.sg/Newsroom/News-Releases/NewsDetails/id/1102), Singapore law is the second-most adopted governing law in cross-border transactions in Asia after English law. Familiarity with the chosen governing law and the presence of an established legal system and jurisprudence are the top factors driving the choice of Singapore law even where there is no connection between Singapore and the parties or the transaction.
