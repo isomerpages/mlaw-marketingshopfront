@@ -1,5 +1,5 @@
 ---
-title: Future-Proofing the Legal Industry
+title: Future proofing the Legal Industry
 permalink: /legal-services/future-proofing/
 ---
 
