@@ -16,4 +16,4 @@ The roots of Singapore’s legal system can be traced back to the English legal 
 
 **Related Links**  
 [Other law-related agencies](https://www.mlaw.gov.sg/about-us/our-legal-system/queries-under-other-law-related-agencies/)
-> Singapore’s sound legal framework is underpinned by strong rule of law, low corruption, and a pro-business environment. The [World Justice Project Rule of Law Index 2020](https://worldjusticeproject.org/our-work/research-and-data/wjp-rule-law-index-2020) ranked Singapore top in Asia and 12th worldwide. [Transparency International’s Corruption Perceptions Index 2019](https://www.transparency.org/en/cpi/2019) ranked Singapore the 4th least corrupt country in the world – the only Asian country ranked in the top 10. The [World Bank Group’s Doing Business 2020](https://www.doingbusiness.org/en/ranking) rankings placed Singapore 2nd in the world for ease of doing business. 
+
