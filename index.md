@@ -4,7 +4,7 @@ title: Singapore Legal Gateway
 description: Brief site description here
 image: /images/mlaw-logo.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: This is work in progress. Please do not forward to externals.
 sections:
     - hero:
         title: Singapore Legal Gateway
@@ -17,7 +17,7 @@ sections:
               description: Important highlight A is important
               url: https://google.com
             - title: Find a Lawyer
-              description: Important highlight B is equally important
+              description: Find a lawyer or search for a law practice by specialisation
               url: https://www.lawsociety.org.sg/our-community/find-a-lawyer/
             - title: Page A
               description: Page A is important too
