@@ -91,3 +91,5 @@ Maxwell Chambers Suites also has six specially-designed executive suites for sho
 Maxwell Chambers Suites houses a number of dispute firms and international dispute resolution institutions. Six of the 11 international institutions, including the International Chamber of Commerce’s International Court of Arbitration and the Permanent Court of Arbitration, have their case management offices in the building, giving Maxwell Chambers Suites the highest concentration of case management offices in a facility in the world.
 
 Click [here](/dispute-resolution/measures-in-response-to-covid-19/) for more information on remote hearing arrangements available at Maxwell Chambers and other measures that Singapore dispute resolution institutions have implemented in response to COVID-19 pandemic.
+
+Click [here](#top) to return to the top. 
