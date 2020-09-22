@@ -16,9 +16,9 @@ sections:
             - title: Highlight A
               description: Important highlight A is important
               url: https://google.com
-            - title: Highlight B
+            - title: Find a Lawyer
               description: Important highlight B is equally important
-              url: https://gmail.com
+              url: https://www.lawsociety.org.sg/our-community/find-a-lawyer/
             - title: Page A
               description: Page A is important too
               url: /privacy/
