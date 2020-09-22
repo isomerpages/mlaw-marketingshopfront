@@ -22,7 +22,8 @@ While rooted in the English law and practice, Singapore’s legal system and law
 
 Strongly associated with the strengths of the Singapore legal system, Singapore law is frequently adopted by contracting parties as a neutral choice of law, even if there is no connection between the parties or the transaction, and Singapore.
 
-Singapore’s sound legal framework is underpinned by strong rule of law, low corruption, and a pro-business environment.
+> Singapore’s sound legal framework is underpinned by strong rule of
+> law, low corruption, and a pro-business environment.
 
 Click [here](#top) to return to the top
 
