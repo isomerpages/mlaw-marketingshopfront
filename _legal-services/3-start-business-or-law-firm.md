@@ -2,3 +2,24 @@
 title: Start a Business or Set up a Law Firm
 permalink: /legal-services/start-business-or-law-firm/
 ---
+
+ - Starting a business in Singapore 
+ - Setting up a law firm in Singapore
+
+### Starting a business in Singapore
+
+In Singapore, a foreigner can register a company and own 100% of its shareholding.
+
+Whether you are a global business hoping to set up your headquarters or a representative office in Singapore, or a new start-up company, Singapore is an ideal location, as it has a strong network of comprehensive Double Taxation Avoidance Agreements, Free Trade Agreements and Investment Guarantee Agreements.
+
+Your company will enjoy protection for your ideas and innovation due to Singapore’s strict enforcement of its strong intellectual property laws.
+
+You can register your company (including foreign branch offices) via Bizfile which is an online service provided by the Accounting and Corporate Regulatory Authority.
+
+**Legal professional privilege for in-house counsel**
+
+Singapore is an attractive base in Asia for in-house legal teams of multinational companies. In-house legal counsel enjoy legal professional privilege on communications relating to legal advice.
+
+### Setting up a law firm in Singapore
+
+To add text later
