@@ -1,6 +1,6 @@
 ---
 title: Why Set Up Practice in Singapore
-permalink: /legal-services/why-set-up-practice-in-Singapore.md
+permalink: /legal-services/why-set-up-practice-in-Singapore/
 ---
 
  - World class legal system
