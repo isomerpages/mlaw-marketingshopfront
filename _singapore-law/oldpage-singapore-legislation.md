@@ -1,7 +1,7 @@
 ---
 title: Singapore Legislation
-permalink: /singapore-law/resources/singapore-legislation/
-third_nav_title: Resources
+permalink: /singapore-law/singapore-legislation/
+
 ---
 
 A non-exhaustive list of useful law related to businesses include:
