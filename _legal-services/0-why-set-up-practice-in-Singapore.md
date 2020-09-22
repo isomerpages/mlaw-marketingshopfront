@@ -3,18 +3,11 @@ title: Why Set Up Practice in Singapore
 permalink: /legal-services/why-set-up-practice-in-Singapore.md
 ---
 
-
-· World class legal system
-
-· High quality education system
-
-· Pro-business environment
-
-· Strong legal community
-
-· Diverse range of law practice entities
-
-![legal service](/images/mock-07-why-singapore-law.jpg)
+ - World class legal system
+ - High quality education system
+ - Pro-business environment
+ - Strong legal community
+ - Diverse range of law practice entities
 
 **World class legal system**
 
@@ -49,7 +42,3 @@ In addition, international law practices and networks from myriad jurisdictions 
 Collaborations between Singapore Law Practices and Foreign Law Practices in the form of Joint Law Ventures and Formal Law Alliances offer more options for cross-border legal work, combining local expertise with foreign know-how.
 
 International law practices have also set up Representative Offices in Singapore, which cannot offer legal services but provide client services and business development opportunities for their parent law practices.
-
-_Click  here  to return to the top_
-
-
