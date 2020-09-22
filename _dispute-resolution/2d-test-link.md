@@ -20,3 +20,24 @@ third_nav_title: Arbitration
         <p>This is my accordion content</p>
     </div>
 </div>
+
+<table class="table table-v">
+    <tr>
+        <td>Lorem ipsum dolor.</td>
+        <td>Lorem ipsum dolor.</td>
+        <td>Lorem ipsum dolor.</td>
+        <td>Lorem ipsum dolor.</td>
+    </tr>
+    <tr>
+        <td>Lorem ipsum dolor.</td>
+        <td>Lorem ipsum dolor.</td>
+        <td>Lorem ipsum dolor.</td>
+        <td>Lorem ipsum dolor.</td>
+    </tr>
+    <tr>
+        <td>Lorem ipsum dolor.</td>
+        <td>Lorem ipsum dolor.</td>
+        <td>Lorem ipsum dolor.</td>
+        <td>Lorem ipsum dolor.</td>
+    </tr>
+</table>
