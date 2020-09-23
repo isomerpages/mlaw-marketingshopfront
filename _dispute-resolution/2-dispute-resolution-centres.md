@@ -1,5 +1,5 @@
 ---
-title: Dispute resolution centres
+title: Dispute resolution centres in Singapore
 permalink: /dispute-resolution/dispute-resolution-centres/
 ---
 
@@ -12,7 +12,7 @@ Singapore’s dispute resolution regime is open and transparent, and parties hav
 
 #### COMMERCIAL LITIGATION SERVICES IN SINGAPORE
 
-- **Singapore International Commercial Court (SICC)** [Link to relevant section of the website]
+- **Singapore International Commercial Court (SICC)** 
 
 #### COMMERCIAL MEDIATION SERVICES IN SINGAPORE
 
@@ -31,7 +31,7 @@ Singapore’s dispute resolution regime is open and transparent, and parties hav
 
 ### Integrated Dispute Resolution Complex
 
-Parties seeking to resolve their disputes by alternative dispute resolution in Singapore will also enjoy access to state-of-the-art support facilities at the **Maxwell Chambers** [Add hyperlink to MC website]
+Parties seeking to resolve their disputes by alternative dispute resolution in Singapore will also enjoy access to state-of-the-art support facilities at the **Maxwell Chambers** 
 
 Maxwell Chambers houses purpose-built secured hearing facilities for arbitration and mediation, as well as offices for dispute resolution institutions and firms. Maxwell Chambers Suites also provides a 24-hour business centre with concierge and secretariat services, state-of-the-art IT facilities and high-speed connectivity.
 
@@ -41,4 +41,4 @@ Maxwell Chambers Suites also has six specially-designed executive suites for sho
 
 Maxwell Chambers Suites houses a number of dispute firms and international dispute resolution institutions. Six of the 11 international institutions, including the International Chamber of Commerce’s International Court of Arbitration and the Permanent Court of Arbitration, have their case management offices in the building, giving Maxwell Chambers Suites the highest concentration of case management offices in a facility in the world.
 
-Click here for more information on remote hearing arrangements available at Maxwell Chambers and other measures that Singapore dispute resolution institutions have implemented in response to COVID-19 pandemic.
+Click [here](https://www.maxwellchambers.com/2020/09/01/maxwell-chambers-hybrid-and-virtual-hearing-solutions-video-in-collaboration-with-the-ministry-of-law/) for more information on the virtual and hybrid hearing facilities at Maxwell Chambers.
