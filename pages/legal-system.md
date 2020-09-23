@@ -1,9 +1,20 @@
 ---
-title: Legal System
+title: About Singapore
 permalink: /legal-system/
 ---
 
-Singapore is a republic with a parliamentary system of Government based on the Westminster Model.
+## Global connectivity
+
+Singapore’s prime geographical location and stellar transportation and communication links make us one of the most well-connected cities in the world. Over 100 airlines fly from Singapore’s award-winning Changi Airport to more than 400 cities around the globe. Travel times are short in our compact city, with excellent infrastructure critical to business travellers. 
+
+**Measures to address COVID-19 travel restrictions**
+
+To overcome travel restrictions due to the COVID-19 pandemic, virtual and hybrid hearing arrangements are available at the Maxwell Chambers and the Singapore International Commercial Court.
+
+Click [here](https://www.maxwellchambers.com/2020/06/24/hybrid-and-virtual-hearings/) for more information
+
+
+## Singapore's Legal System
 
 The roots of Singapore’s legal system can be traced back to the English legal system and it has evolved over the years. Our sources of law are derived from our  [Constitution](https://sso.agc.gov.sg/Act/CONS1963),  [legislation](https://sso.agc.gov.sg/), subsidiary legislation (e.g. Rules and Regulations etc) and judge-made law.
 
