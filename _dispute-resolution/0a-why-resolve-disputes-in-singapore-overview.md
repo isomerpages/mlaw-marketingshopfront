@@ -3,7 +3,6 @@ title: Why Resolve Disputes in Singapore
 permalink: /dispute-resolution/why-resolve-disputes-in-singapore/
 ---
 
-## Why Parties Choose To Resolve Disputes In Singapore
 
  - Trusted legal system
  - Efficiency, economy and innovative
