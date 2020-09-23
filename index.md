@@ -2,14 +2,14 @@
 layout: homepage
 title: Singapore Legal Gateway
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/logo-example.jpg
 permalink: /
 notification: This is work in progress. Please do not forward to externals.
 sections:
     - hero:
         title: Singapore Legal Gateway
         subtitle: 
-        background: /images/mock-02-about-singapore.jpg
+        background: /images/panorama-singapore-business-district-skyline-600w-688377853.jpg
         button: Find out more
         url: /legal-system/
         key_highlights:
@@ -29,7 +29,7 @@ sections:
         description: About a sentence worth of description here
         button: Read more
         url: /legal-system/
-        image: /images/mock-03-about-singapore.jpg
+        image: /images/panorama-singapore-business-district-skyline-600w-688377853.jpg
         alt: Mock image
         
     - infopic:
