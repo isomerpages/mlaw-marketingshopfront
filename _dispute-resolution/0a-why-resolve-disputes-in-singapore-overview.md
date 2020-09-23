@@ -4,26 +4,28 @@ permalink: /dispute-resolution/why-resolve-disputes-in-singapore/
 ---
 
 
- - Trusted legal system
- - Efficiency, economy and innovative
- - Enforceability
- - Judicial Support
- - Choice of dispute resolution mechanism, institution and people
- - Diverse range of international expertise
+ - **Trusted legal system**
+ - **Efficiency, economy and innovative**
+ - **Enforceability**
+ - **Judicial Support**
+ - **Choice of dispute resolution mechanism, institution and people**
+ - **Diverse range of international expertise**
 
 
 *Note: Video for illustrative purposes, will explore possibility of embedding the new DR video on this page*
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CnO9jgl7kIE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-** Trusted legal system**
+### Trusted legal system
 
 In a business environment of increasing complexity and uncertainty, Singapore stands out as a reliable venue for dispute resolution.
 
 With a strong reputation for good governance, low corruption, efficiency, rule of law and a trusted legal system, Singapore is an independent, fair and neutral venue with quality jurisprudence.
 
+
 Click [here](*TOP) to return to the top
 
-**Efficiency, economy and innovative**
+
+### Efficiency, economy and innovative
 
 Efficiency, economy and innovation are the hallmarks of dispute resolution in Singapore.
 
@@ -33,9 +35,11 @@ Arbitration costs in Singapore are, in general, lower than most major centres of
 
 With supportive government policies and a pro-business environment, international parties seeking to resolve commercial disputes in Singapore can expect laws that are responsive and keenly attuned to their needs. Singapore keeps abreast of commercial developments and international best practice in the knowledge that law, like the businesses it protects, does not stand still. For example, Singapore enacted new laws to allow for the use of  third-party funding  in international arbitration and mediation proceedings.
 
+
 Click [here](*TOP) to return to the top
 
-**Enforceability****[AA(1]**
+
+### Enforceability
 
 Arbitral awards issued in Singapore are enforceable in over 150 countries, as Singapore is a party to the  New York Convention on the Recognition and Enforcement of Foreign Arbitral Awards.
 
@@ -49,7 +53,8 @@ Singapore has also adopted the United Nations Model Law on International Commerc
 
 Click [here](*TOP) to return to the top
 
-**Judicial support**
+
+### Judicial support
 
 Singapore courts have a strong international outlook, and increasingly consider a wide diversity of foreign judgments in their decisions.
 
@@ -59,7 +64,7 @@ Where the arbitration matters are brought before the High Court, specially-appoi
 
 Click [here](*TOP) to return to the top
 
-**Choice of dispute resolution mechanism, institution and people**
+### Choice of dispute resolution mechanism, institution and people
 
 Singapore has an open regime for international commercial dispute resolution, which offers parties choice of dispute resolution mechanisms, institutions, seats, and legal representation.
 
@@ -71,7 +76,8 @@ Click here for more information
 
 Click [here](*TOP) to return to the top
 
-**Diverse range of international expertise**
+
+### Diverse range of international expertise
 
 Singapore has an exceptionally diverse range of legal expertise who are multilingual and familiar with international norms.
 
