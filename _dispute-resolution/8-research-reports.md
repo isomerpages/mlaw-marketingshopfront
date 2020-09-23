@@ -1,7 +1,9 @@
 ---
-title: Research reports
-permalink: /dispute-resolution/research-reports/
+title: Research
+permalink: /dispute-resolution/research/
 ---
+
+Below is a tentative text. will discuss with SIDRA on content
 
 ### International Dispute Resolution Survey Final Report 2020
 
