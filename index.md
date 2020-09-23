@@ -4,12 +4,12 @@ title: Singapore Legal Gateway
 description: Brief site description here
 image: /images/logo-example.jpg
 permalink: /
-notification: This is work in progress. Please do not forward to externals.
+notification: This is work-in-progress. Please do not forward to externals.
 sections:
     - hero:
         title: Singapore Legal Gateway
         subtitle: 
-        background: /images/panorama-singapore-business-district-skyline-600w-688377853.jpg
+        background: /images/singapore-downtown-skyline-supreme-court-600w-325857437.jpg.jp2
         button: Find out more
         url: /legal-system/
         key_highlights:
@@ -20,7 +20,7 @@ sections:
               description: Find a lawyer or search for a law practice by specialisation
               url: https://www.lawsociety.org.sg/our-community/find-a-lawyer/
             - title: Singapore Convention on Mediation
-              description: Find out more about how Singapore Convention on Mediation enables disputing parties to enforce and invoke settlement agreements across borders
+              description: Find out more about how the Convention enables disputing parties to enforce and invoke settlement agreements across borders
               url: https://www.singaporeconvention.org
     
     - infopic:
