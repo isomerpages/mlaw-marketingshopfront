@@ -6,7 +6,7 @@ permalink: /legal-services/future-proofing/
 
 To help future proof the legal industry, Singapore has various programmes to encourage law practices to adopt technology solutions and to upskill through continuous legal education and specialised programmes.
 
- - **Tech-Celebrate for Law** 
+ - **Tech-celerate for Law** 
  - **Continuing Legal Education** 
  - **Lawyers Go Global** 
  - **China Ready Programme**
