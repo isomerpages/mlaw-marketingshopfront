@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /dispute-resolution/why-resolve-disputes-in-singapore/overview
+permalink: /dispute-resolution/why-resolve-disputes-in-singapore/overview/
 third_nav_title: Why resolve disputes in Singapore
 ---
 
