@@ -6,12 +6,12 @@ permalink: /legal-services/future-proofing/
 
 To help future proof the legal industry, Singapore has various programmes to encourage law practices to adopt technology solutions and to upskill through continuous legal education and specialised programmes.
 
- - Tech-Celebrate for Law 
- - Continuing Legal Education 
- - Lawyers Go Global 
- - China Ready Programme
+ - **Tech-Celebrate for Law** 
+ - **Continuing Legal Education** 
+ - **Lawyers Go Global** 
+ - **China Ready Programme**
+ - **SkillsFuture Study Award for Legal Industry**
  
-to insert photo
 
 ### Tech-celerate for Law
 
@@ -53,3 +53,9 @@ The China Ready Programme aims to expand the pool of Singapore lawyers who under
 This programme is launched by the Ministry of Law in partnership with Han Culture & Education Group.
 
 Click here to find out more.
+
+### SkillsFuture Study Award for Legal Industry
+
+Singapore lawyers who wish to be foreign qualified can apply for this award which is jointly administered by Ministry of Law and SkillsFuture Singapore, to take the New York State Bar Exam and the Qualified Lawyers Transfer Scheme (for qualification as solicitors in England and Wales). 
+
+Click [here](https://programmes.myskillsfuture.sg/Portal/ProgramDetails.aspx?ProgID=P00000059) to find out more.
