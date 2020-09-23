@@ -27,7 +27,8 @@ Singapore’s dispute resolution regime is open and transparent, and parties hav
 - **World Bank International Centre for Settlement of Investment Disputes (ICSID)**
 - **World Intellectual Property Office (WIPO) Arbitration and Mediation Center**
 
-[Insert photo of Maxwell Chambers]
+
+![maxwell chambers](/images/mock-15-maxwell.png)
 
 ## Integrated Dispute Resolution Complex
 
