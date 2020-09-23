@@ -7,7 +7,7 @@
 logo: /images/mlaw-logo.png
 
 links:
-  - title: Legal System
+  - title: Overview
     url: /legal-system/
   - title: Singapore Law 
     collection: singapore-law
@@ -15,5 +15,5 @@ links:
     collection: dispute-resolution
   - title: Legal Services
     collection: legal-services
-  - title: Contact Us
+  - title: Contact
     url: /contact-us/
