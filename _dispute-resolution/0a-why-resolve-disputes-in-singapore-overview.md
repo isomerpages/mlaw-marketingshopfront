@@ -1,22 +1,83 @@
 ---
-title: Overview
-permalink: /dispute-resolution/why-resolve-disputes-in-singapore/overview/
-third_nav_title: Why resolve disputes in Singapore
+title: Why Resolve Disputes in Singapore
+permalink: /dispute-resolution/why-resolve-disputes-in-singapore/
 ---
 
-*Note: Video for illustration purposes, will explore possibility of embedding the new DR video on this page*
+## Why Parties Choose To Resolve Disputes In Singapore
+
+ - Trusted legal system
+ - Efficiency, economy and innovative
+ - Enforceability
+ - Judicial Support
+ - Choice of dispute resolution mechanism, institution and people
+ - Diverse range of international expertise
+
+
+*Note: Video for illustrative purposes, will explore possibility of embedding the new DR video on this page*
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CnO9jgl7kIE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Enforceability**
-- Trusted legal system
-- International standards 
-- Responsive policies and laws 
-- Respected judiciary
+** Trusted legal system**
 
-**Open Regime**
-- Choice of dispute resolution mechanism, institution and people
-- Diverse range of international expertise
+In a business environment of increasing complexity and uncertainty, Singapore stands out as a reliable venue for dispute resolution.
 
-**Efficiency and connectivity**
-- Fast and cost-efficient
-- Global connectivity
+With a strong reputation for good governance, low corruption, efficiency, rule of law and a trusted legal system, Singapore is an independent, fair and neutral venue with quality jurisprudence.
+
+Click [here](*TOP) to return to the top
+
+**Efficiency, economy and innovative**
+
+Efficiency, economy and innovation are the hallmarks of dispute resolution in Singapore.
+
+Based on the World Bank Doing Business Report 2020, resolving a commercial dispute through the Singapore Courts takes just 164 days, the shortest time recorded worldwide – under half the time in New York, and about a third the time in London.
+
+Arbitration costs in Singapore are, in general, lower than most major centres of arbitration. As part of building a robust and vibrant legal services hub, Singapore offers arbitration-specific tax exemptions for non-resident foreign arbitrators.
+
+With supportive government policies and a pro-business environment, international parties seeking to resolve commercial disputes in Singapore can expect laws that are responsive and keenly attuned to their needs. Singapore keeps abreast of commercial developments and international best practice in the knowledge that law, like the businesses it protects, does not stand still. For example, Singapore enacted new laws to allow for the use of  third-party funding  in international arbitration and mediation proceedings.
+
+Click [here](*TOP) to return to the top
+
+**Enforceability****[AA(1]**
+
+Arbitral awards issued in Singapore are enforceable in over 150 countries, as Singapore is a party to the  New York Convention on the Recognition and Enforcement of Foreign Arbitral Awards.
+
+Singapore ratified the Hague Convention on Choice of Courts Agreement in 2016. This Convention ensures that exclusive choice of court agreements in faviour of courts of Contracting States are effectively enforced, and the judgements rendered by the chosen courts are recognised and enforced in Contracting States.
+
+The Singapore Convention on Mediation is the missing piece in the international dispute resolution enforcement framework. This Convention, also known as the United Nations Convention on International Settlement Agreements Resulting from Mediation” was opened for signing on 7 August 2019 and has entered into force on 12 September 2020. It ensures that a settlement reached by parties becomes binding and enforceable in accordance with a simplified and streamlined procedure. It also allows parties to invoke such agreements.
+
+Singapore’s arbitration legislation has also adopted the UNCITRAL Model Law on International Commercial Arbitration of 1985, including provisions which empowering the Court to grant interim orders in aid of foreign arbitration.
+
+Singapore has also adopted the United Nations Model Law on International Commercial Mediation and International Settlement Agreements Resulting from Mediation 2019, which was amended from the UNCITRAL Model Law on International Commercial Conciliation 2002.
+
+Click [here](*TOP) to return to the top
+
+**Judicial support**
+
+Singapore courts have a strong international outlook, and increasingly consider a wide diversity of foreign judgments in their decisions.
+
+There is strong judicial support  where the judicial philosophy is to accord a substantial degree of judicial deference to the outcomes and processes of international commercial arbitration in recognition of party autonomy. In Singapore, our courts have been slow to assume jurisdiction over a matter that the parties have agreed to refer to international arbitration, intervening only where appropriate and necessary to do so, and within the framework provided for by the New York Convention and our International Arbitration Act.
+
+Where the arbitration matters are brought before the High Court, specially-appointed judges, who have the experience to handle a wide range of complex issues, preside over them.
+
+Click [here](*TOP) to return to the top
+
+**Choice of dispute resolution mechanism, institution and people**
+
+Singapore has an open regime for international commercial dispute resolution, which offers parties choice of dispute resolution mechanisms, institutions, seats, and legal representation.
+
+Parties are free to engage lawyers and arbitrators of any nationality and use any governing law. There is no restriction on foreign law firms engaging in and advising on arbitration and mediation in Singapore.
+
+There is a wide selection of dispute resolution centres and courts in Singapore to choose from, including top international dispute resolution centres with case management offices in Singapore.
+
+Click here for more information
+
+Click [here](*TOP) to return to the top
+
+**Diverse range of international expertise**
+
+Singapore has an exceptionally diverse range of legal expertise who are multilingual and familiar with international norms.
+
+A growing number of global law firms have chosen to base international arbitration practice group offices in Singapore. Many leading and established barristers’ chambers now have a permanent presence in Singapore, giving parties a wide choice of experienced counsel to select from.
+
+Majority of law firms included in Chambers & Partners Asia Pacific Guide 2019 rankings  have a presence in Singapore.
+
+Click [here](*TOP) to return to the top
