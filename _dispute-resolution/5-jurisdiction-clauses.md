@@ -2,6 +2,7 @@
 title: Jurisdiction Clauses
 permalink: /dispute-resolution/jurisdiction-clauses/
 ---
+
 ## Jurisdiction Clauses For Commercial Contracts
 
 - **SIAC Model Clause**
@@ -12,7 +13,7 @@ permalink: /dispute-resolution/jurisdiction-clauses/
 
 - **Arb-Med-Arb Model Clause**
 
-**[Insert photo]**
+
 
 ### SIAC Model Clause
 
@@ -24,7 +25,9 @@ _“This contract is governed by the laws of Singapore.”_
 
 Source: [http://www.siac.org.sg/model-clauses/siac-model-clause](http://www.siac.org.sg/model-clauses/siac-model-clause)
 
-_[Click here to return to the top]_
+
+Click [here](*TOP) to return to the top
+
 
 ### SIMC Model Clause
 
@@ -32,7 +35,9 @@ _“All disputes, controversies or differences arising out of or in connection w
 
 Source: [http://simc.com.sg/simc-mediation-clause/](http://simc.com.sg/simc-mediation-clause/)
 
-_[Click here to return to the top]_
+
+Click [here](*TOP) to return to the top
+
 
 ### Arb-Med-Arb Model Clause
 
@@ -48,7 +53,9 @@ _“The parties further agree that following the commencement of arbitration, th
 
 See: [http://simc.com.sg/the-singapore-arb-med-arb-clause/](http://simc.com.sg/the-singapore-arb-med-arb-clause/)
 
-_[Click here to return to the top]_
+
+Click [here](*TOP) to return to the top
+
 
 ### SICC Model Clause
 
@@ -57,3 +64,6 @@ _“Each party irrevocably submits to the exclusive* jurisdiction of the Singapo
 The basic jurisdiction clause may be supplemented or modified in order to take into account any concerns or special requirements that the parties may have, including Governing Law, Consent to Transfer, Waiver of Objections, Compliance, etc.
 
 Source: [https://www.sicc.gov.sg/docs/default-source/guide-to-the-sicc/sicc_model_clauses.pdf](https://www.sicc.gov.sg/docs/default-source/guide-to-the-sicc/sicc_model_clauses.pdf)
+
+
+Click [here](*TOP) to return to the top
