@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Dispute Resolution Institutions in Singapore
+agency_name: #### Dispute Resolution Institutions in Singapore
 locations:
   - title: Maxwell Chambers  
     address:
