@@ -27,5 +27,5 @@ In view of the potential commercial disputes during the COVID-19 period, Singapo
 
 The Protocol is designed to complement legislation on Covid-19. In Singapore, parties who enjoy relief under the [COVID-19 (Temporary Measures) Act 2020](https://www.mlaw.gov.sg/covid19-relief/) (“the Act”), can mediate at any time – even after an Assessor’s determination. Under the protocol, mediation is conducted online. Settlement agreements are enforceable. They may be recorded as court orders under the Mediation Act 2017 or enforced under the [Singapore Convention on Mediation](http://simc.com.sg/the-singapore-convention-on-mediation/) (from 12 September 2020 in countries that have ratified the Convention).
 
-Click [here](*TOP) to return to the top]_
+Click [here](*TOP) to return to the top
 
