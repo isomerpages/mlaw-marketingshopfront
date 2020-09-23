@@ -5,31 +5,31 @@ permalink: /dispute-resolution/services/
 
 Singapore’s dispute resolution regime is open and transparent, and parties have access to international judges, arbitrators, mediators and counsel where necessary. Parties who choose Singapore will have a full suite of top-class arbitration, litigation and mediation services to choose from.
 
-#### COMMERCIAL ARBITRATION SERVICES IN SINGAPORE
+##### COMMERCIAL ARBITRATION SERVICES IN SINGAPORE
 
 - **Singapore International Arbitration Centre (SIAC)**
 - **Singapore Chamber of Maritime Arbitration (SCMA)**
 
-#### COMMERCIAL LITIGATION SERVICES IN SINGAPORE
+##### COMMERCIAL LITIGATION SERVICES IN SINGAPORE
 
 - **Singapore International Commercial Court (SICC)** 
 
-#### COMMERCIAL MEDIATION SERVICES IN SINGAPORE
+##### COMMERCIAL MEDIATION SERVICES IN SINGAPORE
 
 - **Singapore International Mediation Centre (SIMC)**
 - **Singapore Mediation Centre (SMC)**
 
-#### INTERNATIONAL INSTITUTIONS WITH PRESENCE IN SINGAPORE
+##### INTERNATIONAL INSTITUTIONS WITH PRESENCE IN SINGAPORE
 
 - **American Arbitration Association - International Centre for Dispute Resolution (ICDR)**
--  **International Chamber of Commerce (ICC) International Court of Arbitration**
+- **International Chamber of Commerce (ICC) International Court of Arbitration**
 - **Permanent Court of Arbitration (PCA)**
 - **World Bank International Centre for Settlement of Investment Disputes (ICSID)**
 - **World Intellectual Property Office (WIPO) Arbitration and Mediation Center**
 
 [Insert photo of Maxwell Chambers]
 
-### Integrated Dispute Resolution Complex
+## Integrated Dispute Resolution Complex
 
 Parties seeking to resolve their disputes by alternative dispute resolution in Singapore will also enjoy access to state-of-the-art support facilities at the **Maxwell Chambers** 
 
