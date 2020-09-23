@@ -38,7 +38,7 @@ sections:
         description: About a sentence worth of description here
         button: Read more
         url: /dispute-resolution/why-resolve-disputes-in-singapore/
-        image: /images/mock-06-why-singapore-law.jpg
+        image: /images/closeup-open-law-book.jpg.jp2
         alt: Mock image  
         
     - infopic:
@@ -47,7 +47,7 @@ sections:
         description: About a sentence worth of description here
         button: Read more
         url: /dispute-resolution/why-resolve-disputes-in-singapore/
-        image: /images/mock-13-why-dispute-resolution.jpg
+        image: /images/multiracial-businessman-businesswoman-shake-hands.jpg.jp2
         alt: Mock image
     
     - infopic:
@@ -56,7 +56,7 @@ sections:
         description: About a sentence worth of description here
         button: Read more
         url: /legal-services/overview/
-        image: /images/mock-07-why-singapore-law.jpg
+        image: /images/mature-lawyer-notary.jpg.jp2
         alt: Mock image
         
 
