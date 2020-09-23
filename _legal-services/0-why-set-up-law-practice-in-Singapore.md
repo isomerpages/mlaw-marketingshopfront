@@ -15,7 +15,7 @@ Singapore is a republic with a parliamentary system of government based on the W
 Click [here](#top) to return to the top of page
 
 
-### Pro-business environment**
+### Pro-business environment
 
 Its pro-business environment have attracted leading law firms, businesses, investors, and entrepreneurs to establish their regional and global operations here.
 
