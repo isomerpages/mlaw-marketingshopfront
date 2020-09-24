@@ -1,7 +1,8 @@
 ---
-title: About Singapore
-permalink: /legal-system/
+title: Overview
+permalink: /overview/
 ---
+# About Singapore
 
 ## Global connectivity
 
