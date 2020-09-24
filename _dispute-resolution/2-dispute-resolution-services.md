@@ -1,9 +1,27 @@
 ---
 title: Dispute resolution services in Singapore
-permalink: /dispute-resolution/services/
+permalink: /dispute-resolution/dispute-resolution-services/
 ---
 
 Singapore’s dispute resolution regime is open and transparent, and parties have access to international judges, arbitrators, mediators and counsel where necessary. Parties who choose Singapore will have a full suite of top-class arbitration, litigation and mediation services to choose from.
+
+<div class="sgds-card">
+    <div class="sgds-card-image">
+        <figure class="sgds-image is-16by9">
+            <img
+                alt="test"
+                src="https://via.placeholder.com/160x90/868e96/ffffff?text=Image"
+            />
+        </figure>
+    </div>
+    <div class="sgds-card-content">
+        <p><strong>About us</strong></p>
+        <p>A brief description of who we are</p>
+        <p>
+            <a href="#!">See more</a>
+        </p>
+    </div>
+</div>
 
 ##### COMMERCIAL ARBITRATION SERVICES IN SINGAPORE
 
