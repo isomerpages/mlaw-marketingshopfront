@@ -9,7 +9,7 @@ sections:
     - hero:
         title: Singapore Legal Gateway
         subtitle: 
-        background: /images/singapore-downtown-skyline-supreme-court-600w-325857437.jpg.jp2
+        background: /images/stock-photo-singapore-downtown-skyline-with-the-supreme-court-building-325857437.jpg
         button: Find out more
         url: /legal-system/
         key_highlights:
