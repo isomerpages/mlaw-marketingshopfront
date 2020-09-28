@@ -43,3 +43,13 @@ Maxwell Chambers Suites also has six specially-designed executive suites for sho
 Maxwell Chambers Suites houses a number of dispute firms and international dispute resolution institutions. Six of the 11 international institutions, including the International Chamber of Commerce’s International Court of Arbitration and the Permanent Court of Arbitration, have their case management offices in the building, giving Maxwell Chambers Suites the highest concentration of case management offices in a facility in the world.
 
 Click [here](https://www.maxwellchambers.com/2020/09/01/maxwell-chambers-hybrid-and-virtual-hearing-solutions-video-in-collaboration-with-the-ministry-of-law/) for more information on the virtual and hybrid hearing facilities at Maxwell Chambers.
+
+
+#### Testimonials
+
+**Peter Leaver QC (Arbitrator, One Essex Court)**
+
+_“I have sat as an arbitrator in a number of cases at Maxwell Chambers. I have found the facilities to be excellent. From the moment that one arrives at Maxwell Chambers, the staff make every effort to be helpful, and are unfailingly cheerful and welcoming. The facilities in the hearing rooms are very good. The rooms are light and airy and have good acoustics. All in all, I have found Maxwell Chambers to be the equal of any other arbitration facilities at which I have heard cases, and far better than most.”_
+
+**[Source: Maxwell Chambers website]**
+
