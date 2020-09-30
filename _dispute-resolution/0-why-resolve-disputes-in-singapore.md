@@ -15,7 +15,7 @@ permalink: /dispute-resolution/why-resolve-disputes-in-singapore/
 *Note: Video for illustrative purposes, will explore possibility of embedding the new DR video on this page*
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CnO9jgl7kIE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<a name="trusted-legal-system"></a>### Trusted legal system
+### <a name="trusted-legal-system"></a> Trusted legal system
 
 In a business environment of increasing complexity and uncertainty, Singapore stands out as a reliable venue for dispute resolution.
 
