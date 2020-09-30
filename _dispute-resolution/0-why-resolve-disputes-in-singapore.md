@@ -22,7 +22,7 @@ In a business environment of increasing complexity and uncertainty, Singapore st
 With a strong reputation for good governance, low corruption, efficiency, rule of law and a trusted legal system, Singapore is an independent, fair and neutral venue with quality jurisprudence.
 
 
-Click [here](*TOP) to return to the top
+Click [here](#top) to return to the top
 
 
 ### Efficiency, economy and innovative
@@ -36,7 +36,7 @@ Arbitration costs in Singapore are, in general, lower than most major centres of
 With supportive government policies and a pro-business environment, international parties seeking to resolve commercial disputes in Singapore can expect laws that are responsive and keenly attuned to their needs. Singapore keeps abreast of commercial developments and international best practice in the knowledge that law, like the businesses it protects, does not stand still. For example, Singapore enacted new laws to allow for the use of  third-party funding  in international arbitration and mediation proceedings.
 
 
-Click [here](*TOP) to return to the top
+Click [here](#top) to return to the top
 
 
 ### Enforceability
@@ -51,7 +51,7 @@ Singapore’s arbitration legislation has also adopted the UNCITRAL Model Law on
 
 Singapore has also adopted the United Nations Model Law on International Commercial Mediation and International Settlement Agreements Resulting from Mediation 2019, which was amended from the UNCITRAL Model Law on International Commercial Conciliation 2002.
 
-Click [here](*TOP) to return to the top
+Click [here](#top) to return to the top
 
 
 ### Judicial support
@@ -62,7 +62,7 @@ There is strong judicial support  where the judicial philosophy is to accord a s
 
 Where the arbitration matters are brought before the High Court, specially-appointed judges, who have the experience to handle a wide range of complex issues, preside over them.
 
-Click [here](*TOP) to return to the top
+Click [here](#top) to return to the top
 
 ### Choice of dispute resolution mechanism, institution and people
 
@@ -74,8 +74,7 @@ There is a wide selection of dispute resolution centres and courts in Singapore 
 
 Click here for more information
 
-Click [here](*TOP) to return to the top
-
+Click [here](#top) to return to the top
 
 ### Diverse range of international expertise
 
@@ -85,4 +84,21 @@ A growing number of global law firms have chosen to base international arbitrati
 
 Majority of law firms included in Chambers & Partners Asia Pacific Guide 2019 rankings  have a presence in Singapore.
 
-Click [here](*TOP) to return to the top
+Click [here](#top) to return to the top
+
+### International Rankings
+
+**2018 Queen Mary, University of London (QMUL) International Arbitration Survey**
+
+- Singapore ranks as the most preferred seat in Asia
+- Singapore ranks 3rd most preferred seat globally after Paris and London
+
+**Global Arbitration Review**
+
+- Singapore law firms rank among the world’s best international arbitration practices
+-  [add hyperlink to relevant website].
+
+**Global Arbitration Review**
+- Maxwell Chambers was nominated as one of the “Best Developments” in the arbitration industry.
+
+
