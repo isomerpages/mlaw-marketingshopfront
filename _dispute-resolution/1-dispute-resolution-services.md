@@ -50,8 +50,6 @@ Parties and tribunals are able to connect through an integrated platform for cas
 
 Maxwell Chambers has also formed an alliance with international arbitration and alternative dispute resolution hearing centres in the UK and Canada, to work together to provide hybrid hearing solutions and reduce the challenges such as time-zone, distance and other barriers related to planning and conducting hearings and proceedings in the wake of COVID-19.
 
-Click here for more information on Maxwell Chamber’s hybrid hearing facilities and guidelines
-
 ![Maxwell Chambers hearing room](/images/mock-16-maxwell.jpg) 
 *Note: To explore possiblity of embedding the new video by Maxwell chambers on their hybrid/virtual hearing facilities*
 
