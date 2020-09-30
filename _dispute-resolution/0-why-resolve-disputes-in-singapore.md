@@ -70,9 +70,7 @@ Singapore has an open regime for international commercial dispute resolution, wh
 
 Parties are free to engage lawyers and arbitrators of any nationality and use any governing law. There is no restriction on foreign law firms engaging in and advising on arbitration and mediation in Singapore.
 
-There is a wide selection of dispute resolution centres and courts in Singapore to choose from, including top international dispute resolution centres with case management offices in Singapore.
-
-Click here for more information
+There is a [wide selection of dispute resolution centres and courts in Singapore](/dispute-resolution/dispute-resolution-services/) to choose from, including top international dispute resolution centres with case management offices in Singapore.
 
 Click [here](#top) to return to the top
 
