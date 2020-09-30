@@ -1,6 +1,6 @@
 ---
-title: Future proofing the Legal Industry
-permalink: /legal-services/future-proofing/
+title: Sector Initiatives
+permalink: /legal-services/sector-initiatives/
 ---
 
 
