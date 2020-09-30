@@ -1,9 +1,9 @@
 ---
-title: Jurisdiction Clauses
-permalink: /dispute-resolution/jurisdiction-clauses/
+title: Model Clauses
+permalink: /dispute-resolution/model-clauses/
 ---
 
-## Jurisdiction Clauses For Commercial Contracts
+## Model Clauses For Commercial Contracts
 
 - **SIAC Model Clause**
 
