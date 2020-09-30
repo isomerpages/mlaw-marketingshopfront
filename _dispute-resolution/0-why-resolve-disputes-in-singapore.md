@@ -1,5 +1,5 @@
 ---
-title: Why resolve disputes in Singapore
+title: Why Resolve Disputes in Singapore
 permalink: /dispute-resolution/why-resolve-disputes-in-singapore/
 ---
 
