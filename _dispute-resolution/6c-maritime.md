@@ -1,14 +1,14 @@
 ---
 title: Maritime
-permalink: /dispute-resolution/specialised-areas/maritime/
-third_nav_title: Specialised areas
+permalink: /dispute-resolution/industry-specific/maritime/
+third_nav_title: Industry-specific
 ---
 
 ## Maritime Dispute Resolution
 
 Singapore is listed as one of the three arbitral seats in the Baltic and International Maritime Council (BIMCO) Standard Dispute Resolution Clause, the New York Produce Exchange (NYPE) Time Charter Party 2015, and the Singapore Ship Sale Form.
 
-**Hybrid Model**
+### Hybrid Model
 
 The Singapore Chamber of Maritime Arbitration (SCMA) Rules are created by and for the maritime and international trading communities. They are based on a hybrid model of non-administered arbitration with optional features.
 
