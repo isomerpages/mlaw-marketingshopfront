@@ -13,7 +13,7 @@ To help future proof the legal industry, Singapore has various programmes to enc
  - **SkillsFuture Study Award for Legal Industry**
  
 
-### Tech-celerate for Law
+### [Tech-celerate for Law] (https://www.lpi.lawsociety.org.sg/tech-celerate-for-law-pre-approved-vendors-solutions/)
 
 Under Tech-celerate for Law, qualified Singapore Law Practices are able to select and adopt legal technology solutions from 7 pre-scoped categories with up to 80% funding support in the first year of implementatrion. These legal technology solutions range from baseline to advanced categories, with products powered by advanced technologies suc as artificial intelligence.
 
@@ -21,9 +21,9 @@ This programme is launched by the Law Society of Singapore, in partnership with 
 
 Click [here](*TOP) to return to the top of the page.
 
-### Continuing Legal Education
+### [Continuing Legal Education] (https://www.sal.org.sg/lifted)
 
-The Legal Industry Framework for Training and Education (LIFTED) initiative aims to:
+The Legal Industry Framework for Training and Education (LIFTED) initiative, launched by Singapore Academy of Law, aims to:
 
  - Provide a mapping of competencies for legal professionals and
           associate professionals, to provide clear professional
@@ -34,11 +34,10 @@ The Legal Industry Framework for Training and Education (LIFTED) initiative aims
           aims and means of legal education in the light of increasingly
           global nature of legal services.
 
-The Framework is launched by Singapore Academy of Law.
 
 Click [here](*TOP) to return to the top of the page.
 
-### Lawyers Go Global
+### [Lawyers Go Global] (https://www.lawsociety.org.sg/for-lawyers/going-global/)
 
 Lawyers Go Global scheme aims to help small and medium sized law firms, who may have valuable niche expertise but may lack the resources to do their own market research and explore overseas markets on their own. Firms that have ventured abroad can also benefit fron the programme as it can deepen their undertanding of the markets where they operate.
 
