@@ -1,6 +1,6 @@
 ---
-title: Selecting an institution
-permalink: /dispute-resolution/selecting-an-institution/
+title: Dispute resolution services
+permalink: /dispute-resolution/dispute-resolution-services/
 ---
 
 Singapore’s dispute resolution regime is open and transparent, and parties have access to international judges, arbitrators, mediators and counsel where necessary. Parties who choose Singapore will have a full suite of top-class arbitration, litigation and mediation services to choose from.
