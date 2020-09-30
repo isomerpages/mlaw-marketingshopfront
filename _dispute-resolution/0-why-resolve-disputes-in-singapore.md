@@ -86,7 +86,7 @@ Majority of law firms included in Chambers & Partners Asia Pacific Guide 2019 ra
 
 Click [here](#top) to return to the top
 
-### International Rankings
+## INTERNATIONAL RANKINGS
 
 **2018 Queen Mary, University of London (QMUL) International Arbitration Survey**
 
