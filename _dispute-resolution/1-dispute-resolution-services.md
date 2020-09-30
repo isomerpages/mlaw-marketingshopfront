@@ -1,5 +1,5 @@
 ---
-title: Dispute resolution services
+title: Dispute Resolution Services
 permalink: /dispute-resolution/dispute-resolution-services/
 ---
 
