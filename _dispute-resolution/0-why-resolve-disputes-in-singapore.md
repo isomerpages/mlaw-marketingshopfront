@@ -5,7 +5,7 @@ permalink: /dispute-resolution/why-resolve-disputes-in-singapore/
 
 
  - **Trusted legal system**
- - **Efficiency, economy and innovative**
+ - **Efficiency, economy and innovation**
  - **Enforceability**
  - **Judicial Support**
  - **Choice of dispute resolution mechanism, institution and people**
@@ -25,7 +25,7 @@ With a strong reputation for good governance, low corruption, efficiency, rule o
 Click [here](#top) to return to the top
 
 
-### Efficiency, economy and innovative
+### Efficiency, economy and innovation
 
 Efficiency, economy and innovation are the hallmarks of dispute resolution in Singapore.
 
