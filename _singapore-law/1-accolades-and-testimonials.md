@@ -1,6 +1,5 @@
 ---
 title: Accolades and Testimonials
-permalink: /singapore-law/accolades-and-testimonials/
 ---
 
 [**The World Justice Project Rule of Law Index 2020**](https://worldjusticeproject.org/our-work/research-and-data/wjp-rule-law-index-2020)
