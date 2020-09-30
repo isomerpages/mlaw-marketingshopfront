@@ -31,4 +31,4 @@ A premium content section provides subscribers with specialised material for the
 
 To subscribe to the latest legal news, commentaries, judgements and other legal research materials, please refer to the [Singapore Law Watch]  (https://www.singaporelawwatch.sg/) by Singapore Academy of Law.
 
-For more information on Singapore legislation, you may wish to search via Singapore Statutes Online, a free service provided by the Legislation Division of the Attorney-General’s Chambers.
+For more information on Singapore legislation, you may wish to search via [Singapore Statutes Online](https://sso.agc.gov.sg/), a free service provided by the Legislation Division of the Attorney-General’s Chambers.
