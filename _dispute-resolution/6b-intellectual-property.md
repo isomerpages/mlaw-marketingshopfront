@@ -1,7 +1,7 @@
 ---
 title: Intellectual Property
-permalink: /dispute-resolution/specialised-areas/intellectual-property/
-third_nav_title: Specialised areas
+permalink: /dispute-resolution/industry-specific/intellectual-property/
+third_nav_title: Industry-specific
 ---
 
 ## Intellectual Property Dispute Resolution
