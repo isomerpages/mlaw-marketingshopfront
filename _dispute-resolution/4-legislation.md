@@ -1,5 +1,5 @@
 ---
-title: Legislation
+title: Dispute Resolution Legislation
 permalink: /dispute-resolution/legislation/
 ---
 
