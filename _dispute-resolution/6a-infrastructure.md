@@ -1,9 +1,11 @@
 ---
 title: Infrastructure
-permalink: /dispute-resolution/specialised-areas/infrastructure/
-third_nav_title: Specialised areas
+permalink: /dispute-resolution/industry-specific/infrastructure/
+third_nav_title: Industry-specific
 ---
 ### Singapore Infrastructure Dispute-Management Protocol
+
+[This is a tentative text, Will also link to relevant website]
 
 Based on an Asian Development Bank report, Asia will need more than US$1.7 trillion (S$2.3 trillion) of infrastructure per year from 2016 to 2030[1]. As infrastructure projects are typically complex and involve multiple parties, differences and disputes are sometimes unavoidable and can result in delays and higher costs, if not managed well. It was found that infrastructure, mining and oil and gas projects have on average cost 80% more than budgeted and run 20 months late.
 
