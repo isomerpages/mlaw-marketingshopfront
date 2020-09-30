@@ -96,9 +96,6 @@ Click [here](#top) to return to the top
 **Global Arbitration Review**
 
 - Singapore law firms rank among the world’s best international arbitration practices
--  [add hyperlink to relevant website].
-
-**Global Arbitration Review**
-- Maxwell Chambers was nominated as one of the “Best Developments” in the arbitration industry.
+- Maxwell Chambers was nominated as one of the “Best Developments” in the arbitration industry
 
 
