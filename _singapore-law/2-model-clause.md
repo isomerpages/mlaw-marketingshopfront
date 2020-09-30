@@ -1,6 +1,6 @@
 ---
 title: Model Clause
-permalink: /singapore-law/model-clause
+permalink: /singapore-law/model-clause/
 ---
 
 ## Singapore as the Governing Law of the Contract
