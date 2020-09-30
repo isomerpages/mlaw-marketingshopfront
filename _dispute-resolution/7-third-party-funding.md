@@ -1,5 +1,5 @@
 ---
-title: Third party funding
+title: Third Party Funding
 permalink: /dispute-resolution/third-party-funding/
 ---
 
