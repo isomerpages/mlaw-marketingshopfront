@@ -1,5 +1,5 @@
 ---
-title: Why Set Up Law Practice in Singapore
+title: Why Set Up a Law Practice in Singapore
 permalink: /legal-services/why-set-up-in-Singapore/
 ---
 
