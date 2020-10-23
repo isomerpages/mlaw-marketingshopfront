@@ -24,4 +24,4 @@ Click [here](https://www.mlaw.gov.sg/admission-to-the-bar/admission-requirements
 
 Individuals who are registered to practise law in their overseas principal jurisdictions can register as a foreign lawyer under the Legal Profession Act to practise foreign law in Singapore. The Legal Services Regulatory Authority regulates and licences foreign lawyers and regulated non-practitioners in Singapore. Click [here](https://www.mlaw.gov.sg/files/Types_of_LSRA_Individual_Registration_May_2018.pdf) for information on the types of registration available.
 
-Foreign-qualified lawyers who pass the Foreign Practitioner Examinations may be registered to to practise in permitted areas of Singapore law.  Click [here](http://www.sile.edu.sg/foreign-practitioner-examinations)] for information on the Foreign Practitioner Examinations.
+Foreign-qualified lawyers who pass the Foreign Practitioner Examinations may be registered to to practise in permitted areas of Singapore law.  Click [here](http://www.sile.edu.sg/foreign-practitioner-examinations) for information on the Foreign Practitioner Examinations.
