@@ -13,7 +13,7 @@ To help future proof the legal industry, Singapore has various programmes to enc
  - **SkillsFuture Study Award for Legal Industry**
  
 
-### [Tech-celerate for Law] (https://www.lpi.lawsociety.org.sg/tech-celerate-for-law-pre-approved-vendors-solutions/)
+### [Tech-celerate for Law](https://www.lpi.lawsociety.org.sg/tech-celerate-for-law-pre-approved-vendors-solutions/)
 
 Under Tech-celerate for Law, qualified Singapore Law Practices are able to select and adopt legal technology solutions from 7 pre-scoped categories with up to 80% funding support in the first year of implementatrion. These legal technology solutions range from baseline to advanced categories, with products powered by advanced technologies suc as artificial intelligence.
 
@@ -21,7 +21,7 @@ This programme is launched by the Law Society of Singapore, in partnership with 
 
 Click [here](*TOP) to return to the top of the page.
 
-### [Continuing Legal Education] (https://www.sal.org.sg/lifted)
+### [Continuing Legal Education](https://www.sal.org.sg/lifted)
 
 The Legal Industry Framework for Training and Education (LIFTED) initiative, launched by Singapore Academy of Law, aims to:
 
@@ -37,13 +37,13 @@ The Legal Industry Framework for Training and Education (LIFTED) initiative, lau
 
 Click [here](*TOP) to return to the top of the page.
 
-### [Lawyers Go Global] (https://www.lawsociety.org.sg/for-lawyers/going-global/)
+### [Lawyers Go Global](https://www.lawsociety.org.sg/for-lawyers/going-global/)
 
 Lawyers Go Global scheme aims to help small and medium sized law firms, who may have valuable niche expertise but may lack the resources to do their own market research and explore overseas markets on their own. Firms that have ventured abroad can also benefit fron the programme as it can deepen their undertanding of the markets where they operate.
 
 This programme is launched by Ministry of Law, in partnership with Law Society of Singapore and Enterprise Singapore.
 
-Click [here](*TOP) to find out more.
+Click [here](*TOP) to return to the top of the page.
 
 ### China Ready Programme
 
@@ -53,7 +53,7 @@ This programme is launched by the Ministry of Law in partnership with Han Cultur
 
 Click [here](*TOP) to return to the top of the page.
 
-### [SkillsFuture Study Award for Legal Industry] ((https://programmes.myskillsfuture.sg/Portal/ProgramDetails.aspx?ProgID=P00000059) 
+### [SkillsFuture Study Award for Legal Industry](https://programmes.myskillsfuture.sg/Portal/ProgramDetails.aspx?ProgID=P00000059) 
 
 Singapore lawyers who wish to be foreign qualified can apply for this award which is jointly administered by Ministry of Law and SkillsFuture Singapore, to take the New York State Bar Exam and the Qualified Lawyers Transfer Scheme (for qualification as solicitors in England and Wales). 
 
