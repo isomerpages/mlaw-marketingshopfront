@@ -12,6 +12,3 @@ Developed by the Singapore Academy of Law (SAL) and Singapore Venture Capital an
 Click  [here](https://www.singaporelawwatch.sg/About-Singapore-Law/VC-Investment-Model-Agreements)  to find out more
 
 
-## Standard Form Contracts
-
-BIMCO which is the world’s largest organisation for shipowners, charterers, shipbrokers and agents provide standard form contracts in various governing laws, one of which is the Singapore Law.
