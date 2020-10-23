@@ -1,6 +1,6 @@
 ---
-title: Insolvency and Restructuring Law
-permalink: /singapore-law/insolvency-and-restructuring-law/
+title: Restructuring and Insolvency ecosystem
+permalink: /singapore-law/restructuring-and-insolvency-ecosystem/
 ---
 
 *[This content is a placeholder.]*
