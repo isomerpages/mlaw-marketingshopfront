@@ -1,7 +1,9 @@
 ---
-title: Why Set Up a Law Practice in Singapore
-permalink: /legal-services/why-set-up-in-Singapore/
+title: Why use Singapore Law Practices
+permalink: /legal-services/why-use-singapore-law-practices/
 ---
+
+*[This is a draft write-up.]* 
 
  - **World class legal system**
  - **Pro-business environment**
