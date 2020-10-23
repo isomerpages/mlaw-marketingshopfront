@@ -1,6 +1,6 @@
 ---
-title: Intellectual Property Law
-permalink: /singapore-law/intelllectual-property-law/
+title: Protection of Intellectual Property
+permalink: /singapore-law/protection-of-intellectual-property/
 ---
 
 Singapore provides one of the world’s most robust regimes for the protection of a company’s intellectual property (IP).
