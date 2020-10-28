@@ -29,7 +29,7 @@ Singapore was one of the first jurisdictions to provide clear legislative suppor
 Click [here](*TOP) to return to the top
 
 
-### <a name="arbitration-recognition"></a> Will arbitral award issued in Singapore be recognised overseas
+### <a name="arbitration-recognition"></a> Will arbitral awards issued in Singapore be recognised overseas
 
 Singapore is a party to the  New York Convention on the Recognition and Enforcement of Foreign Arbitral Awards.
 
