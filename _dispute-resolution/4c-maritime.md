@@ -3,6 +3,7 @@ title: Maritime Dispute Resolution
 permalink: /dispute-resolution/maritime/
 
 ---
+[This is a tentative text, pending discusssion with SCMA on the content]
 
 Singapore is listed as one of the three arbitral seats in the Baltic and International Maritime Council (BIMCO) Standard Dispute Resolution Clause, the New York Produce Exchange (NYPE) Time Charter Party 2015, and the Singapore Ship Sale Form.
 
