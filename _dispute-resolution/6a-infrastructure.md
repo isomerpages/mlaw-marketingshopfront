@@ -1,7 +1,7 @@
 ---
-title: Infrastructure
-permalink: /dispute-resolution/industry-specific/infrastructure/
-third_nav_title: Industry-specific
+title: Infrastructure Dispute Resolution
+permalink: /dispute-resolution/infrastructure dispute management
+
 ---
 ### Singapore Infrastructure Dispute-Management Protocol
 
