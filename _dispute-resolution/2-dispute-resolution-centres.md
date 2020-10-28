@@ -10,6 +10,7 @@ Singapore’s dispute resolution regime is open and transparent, and parties hav
 #### [Singapore International Arbitration Centre](https://www.siac.org.sg/)
 
 Note: to add a paragraph
+
 Note: to explore possiblity of featuring successful case studies and testimonials
 
 ### [Singapore Chamber of Maritime Arbitration](https://www.scma.org.sg/)
@@ -22,12 +23,14 @@ Note: to explore possiblity of featuring successful case studies and testimonial
 ### [Singapore International Mediation Centre](https://simc.com.sg/) 
 
 Note: to add a paragraph
+
 Note: to explore possiblity of featuring successful case studies and testimonials
 [Example of case study](https://www-ipos-gov-sg-admin.cwp.sg/docs/default-source/protecting-your-ideas/hearings-mediation/successful-simc-mediation-cases.pdf)
 
 ### [Singapore Mediation Centre](https://www.mediation.com.sg/) 
 
 Note: to add a paragraph
+
 Note: to explore possiblity of featuring successful case studies and testimonials 
 
 ## COMMERCIAL LITIGATION 
@@ -35,6 +38,7 @@ Note: to explore possiblity of featuring successful case studies and testimonial
 ### [Singapore International Commercial Court](https://www.sicc.gov.sg/)
 
 Note: to add a paragraph
+
 Note: to explore possiblity of featuring successful case studies and testimonials
 
 ## INTERNATIONAL INSTITUTIONS WITH PRESENCE IN SINGAPORE
