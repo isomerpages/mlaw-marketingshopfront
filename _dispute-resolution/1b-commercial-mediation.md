@@ -6,12 +6,12 @@ third_nav_title: Dispute Resolution Mechanisms
 
 Mediation is a widely accepted mode of dispute resolution in Singapore. Its processes are well-understood by the legal and business community, and mediation is strongly supported by the judiciary.
 
-- What is mediation?
-- What is the difference between arbitration and mediation?
-- What is the "Arb-Med-Arb" Protocol?
+- [What is mediation?](#what-is-mediation)
+- [What is the difference between arbitration and mediation?](#difference-arbitration-mediation)
+- [What is the Singapore "Arb-Med-Arb" Protocol?](#singapore-arb-med-arb)
 
 
-### What is mediation
+### <a name="what-is-mediation"></a>What is mediation
 
 Mediation is a confidential, quick and cost-effective mode of dispute resolution. In mediation, a neutral third party facilitates negotiations and helps parties come to consensus. Rather than imposing a solution, a professional mediator works with the conflicting parties to explore their underlying interests and needs. Parties retain control over the outcome, as any outcomes reached are based on mutual agreement.
 
@@ -21,7 +21,7 @@ As a confidential and flexible process, mediation is well suited to accommodatin
 Click [here](*TOP) to return to the top
 
 
-### What is the difference between arbitration and mediation
+### <a name="difference-arbitration-mediation"></a>What is the difference between arbitration and mediation
 
 In arbitration, the arbitrator looks into the legal rights and wrongs of a dispute and makes a decision. Once the arbitrator has arrived at a decision, it is binding on parties whether they agree with it or not. It is very much like the way a court case is decided by a judge, except that the process does not take place in a courtroom, and it is not open to the public. As in a court case, there is usually a winning and a losing party in arbitration.
 
@@ -33,7 +33,7 @@ Since the mediator does not adjudicate on the dispute, parties have full control
 Click [here](*TOP) to return to the top
 
 
-### - What is the "Arb-Med-Arb" Protocol
+### - <a name="singapore-arb-med-arb"></a>What is the "Arb-Med-Arb" Protocol
 
 The “Arb-Med-Arb” Protocol is a unique hybrid process where parties attempt mediation after the commencement of arbitration proceedings. It combines the efficacy of mediation with the enforceability of the arbitration award.
 
