@@ -3,6 +3,7 @@ title: Practising Law in Singapore
 permalink: /legal-services/practising-law-in-Singapore/
 ---
 
+[This is a draft write-up.]
 
 The  [Legal Services Regulatory Authority](https://eservices.mlaw.gov.sg/lsra/lsra-home)  oversees the regulation of all law practice entities and the registration of foreign lawyers in Singapore.
 
