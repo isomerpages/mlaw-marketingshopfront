@@ -40,7 +40,7 @@ SIDRA is at the vanguard of research and international capacity building in this
 To find out more:
 - For **a more detailed list of SIDRA research publications related to the SCM**, please click [here](https://sidra.smu.edu.sg/research-program/singapore-mediation-convention/publications)
 
-- For **SIDRA webinars related to the SCM**, please click [here](https://sidra.smu.edu.sg/research-program/singapore-mediation-convention/activities-events).
+- For **SIDRA webinars related to the SCM**, please click [here](https://sidra.smu.edu.sg/research-program/singapore-mediation-convention/activities-events)
 
 
 
@@ -55,8 +55,8 @@ SIDRA's research will focus pre-dominantly on Asia and ASEAN within which SIDRA 
 SIDRA will also actively explore collaboration opportunities with suitable organisations and visiting faculty to promulgate its activities and research across BRI jurisdictions, including China.
 
 To find out more:
-- For **SIDRA research publications on the BRI**, please click [here](https://sidra.smu.edu.sg/program/belt-and-road-initiative/publications).
+- For **SIDRA research publications on the BRI**, please click [here](https://sidra.smu.edu.sg/program/belt-and-road-initiative/publications)
 
-- For **SIDRA webinars related to the BRI**, please click [here](https://sidra.smu.edu.sg/program/belt-and-road-initiative/activities-events).
+- For **SIDRA webinars related to the BRI**, please click [here](https://sidra.smu.edu.sg/program/belt-and-road-initiative/activities-events)
 
 Source:[SIDRA website](https://sidra.smu.edu.sg/about-us)
