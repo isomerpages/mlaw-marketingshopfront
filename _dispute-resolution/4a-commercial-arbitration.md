@@ -1,15 +1,15 @@
 ---
 title: Commercial Arbitration
-permalink: /dispute-resolution/rules-and-procedures/commercial-arbitration/
-third_nav_title: Rules and Procedures
+permalink: /dispute-resolution/dispute-resolution-mechanisms/commercial-arbitration/
+third_nav_title: Dispute Resolution Mechanisms
 ---
 
 
-- What is arbitration
-- What is emergency arbitration
-- Will arbitral award issued in Singapore be recognised overseas
-- Will foreign arbitral awards be granted interim orders in Singapore
-- Are there specific rules for cases related to state-investor disputes
+- What is arbitration?
+- What is emergency arbitration?
+- Will arbitral award issued in Singapore be recognised overseas?
+- Will foreign arbitral awards be granted interim orders in Singapore?
+- Are there specific rules for cases related to state-investor disputes?
 
 
 ### What is arbitration
