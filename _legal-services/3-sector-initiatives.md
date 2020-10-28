@@ -3,6 +3,7 @@ title: Sector Initiatives
 permalink: /legal-services/sector-initiatives/
 ---
 
+[Tentative content, pending more input from PSPO]
 
 To help future proof the legal industry, Singapore has various programmes to encourage law practices and lawyers to upskill through continuous legal education and specialised programmes.
  
