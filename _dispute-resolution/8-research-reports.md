@@ -21,8 +21,8 @@ The first major project within this program is the SIDRA Survey on International
 All respondents are users and they are identified either as external legal counsel, in-house legal counsel or C-Suite executives of corporations that engage in cross-border trade. The views are based on user experiences and not just preferences. Once respondents indicated that they had used a particular dispute resolution process, they were then asked to respond to a series of specific questions in relation to that mechanism. If they did not have experience with a particular process, the survey directed them to the next process category. The survey questionaire was distributed internationally in multiple languages of English, Chinese, Arabic, Russian, French and Spanish, to reach a more diverse selection of users compared to those who primarily work in English.
 
 To find out more:
-- **SIDRA International Dispute Resolution Survey Final Report 2020** can be accesssed [here](https://sidra.smu.edu.sg/sites/sidra.smu.edu.sg/files/survey/index.html)
-- For **SIDRA research publications on international dispute resolution**, please click [here](https://sidra.smu.edu.sg/research-program/international-dispute-resolution-survey/publications)
+- **SIDRA International Dispute Resolution Survey Final Report 2020** can be accesssed [here] (https://sidra.smu.edu.sg/sites/sidra.smu.edu.sg/files/survey/index.html)
+- For **SIDRA research publications on international dispute resolution**, please click [here] (https://sidra.smu.edu.sg/research-program/international-dispute-resolution-survey/publications)
 
 
 
@@ -38,9 +38,9 @@ SIDRA is at the vanguard of research and international capacity building in this
 - **International and Comparative Mediation – An Asian Perspective** will feature comparative research on the mediation eco-systems in civil and common law systems in Asia with a focus on China, Japan, Korea, Indonesia, India, Philippines and Singapore.
 
 To find out more:
-- For **a more detailed list of SIDRA research publications related to the SCM**, please click [here](https://sidra.smu.edu.sg/research-program/singapore-mediation-convention/publications).
+- For **a more detailed list of SIDRA research publications related to the SCM**, please click [here] (https://sidra.smu.edu.sg/research-program/singapore-mediation-convention/publications).
 
-- For **SIDRA webinars related to the SCM**, please click [here](https://sidra.smu.edu.sg/research-program/singapore-mediation-convention/activities-events).
+- For **SIDRA webinars related to the SCM**, please click [here] (https://sidra.smu.edu.sg/research-program/singapore-mediation-convention/activities-events).
 
 
 
@@ -57,6 +57,6 @@ SIDRA will also actively explore collaboration opportunities with suitable organ
 To find out more:
 - For **SIDRA research publications on the BRI**, please click [here] (https://sidra.smu.edu.sg/program/belt-and-road-initiative/publications).
 
-- For **SIDRA webinars related to the BRI**, please click [here](https://sidra.smu.edu.sg/program/belt-and-road-initiative/activities-events).
+- For **SIDRA webinars related to the BRI**, please click [here] (https://sidra.smu.edu.sg/program/belt-and-road-initiative/activities-events).
 
-Source:[SIDRA website](https://sidra.smu.edu.sg/about-us)
+Source:[SIDRA website] (https://sidra.smu.edu.sg/about-us)
