@@ -6,15 +6,14 @@ third_nav_title: Dispute Resolution Mechanisms
 
 In Singapore, international commercial cases can be heard before a judge in the Singapore International Commercial Court (SICC).
 
-- What is commercial litigation?
-- What are the differences between commercial litigation and arbitration?
-- Can contracts not governed by Singapore law use commercial litigation services in Singapore?
-- Must parties appoint a Singapore lawyer?
-- What are some key features of SICC court procedures?
-- Are the judgments enforceable in other common law and civil law jurisdictions?
+- [What is commercial litigation?](#what-is-commercial-litigation)
+- [What are the differences between commercial litigation and arbitration?](#differences-litigation-arbitration)
+- [Are the judgments enforceable in other common law and civil law jurisdictions?](#enforcement-litigation)
+- [Can contracts not governed by Singapore law use commercial litigation services in Singapore?](#governing-law-for-litigation)
+- [Must parties appoint a Singapore lawyer?](#lawyers-commercial-litigation)
+- [What are some key features of SICC court procedures?](#key-features-SICC-procedures)
 
-
-### What is commercial litigation
+### <a name="hat-is-commercial-litigation"></a> What is commercial litigation
 
 
 Litigation typically involves a plaintiff and defendant. The judge is responsible for weighing the evidence and making a ruling. Information conveyed in hearings and trials usually enters the public record.
@@ -23,7 +22,7 @@ Litigation typically involves a plaintiff and defendant. The judge is responsibl
 Click [here](*TOP) to return to the top
 
 
-### Differences between commercial litigation and arbitration
+### <a name="differences-litigation-arbitration"></a> Differences between commercial litigation and arbitration
 
 The SICC complements existing international arbitration services. Parties may choose to resolve their disputes at SICC if they:
 
@@ -39,7 +38,22 @@ The SICC complements existing international arbitration services. Parties may ch
 Click [here](*TOP) to return to the top
 
 
-### Governing Law
+### <a name="enforcement-litigation"></a> Enforceability
+
+As judgments of the Supreme Court of Singapore, SICC judgments will be widely enforceable around the world:
+
+- In common law countries and some civil law jurisdictions, enforcement will proceed without review of the merits of the case.
+
+- SICC judgments can also be registered and enforced in the Courts of countries which have reciprocal enforcement arrangements with Singapore, such as Australia, Brunei Darussalam, Hong Kong, India, Malaysia, and the United Kingdom.
+
+- SICC judgments may be recognised and enforced in the Courts of the states which are party to the 2005 Hague Convention on Choice of Court Agreements. This includes the EU member states, Denmark, Mexico and Montenegro.
+
+- To find out more, click [here](https://www.sicc.gov.sg/docs/default-source/guide-to-the-sicc/sicc-enforcement-guide-sep-2018.pdf) for the SICC enforcement guide.
+
+
+Click [here](*TOP) to return to the top
+
+### <a name="governing-law-for-litigation"></a> Governing Law 
 
 Parties who wish to resolve their disputes at the SICC can do so even where the dispute has no connection with Singapore and is not governed by Singapore law, as long as the original parties submit to its jurisdiction under a written jurisdiction agreement.
 
@@ -49,7 +63,7 @@ The SICC offers parties the option of having their international commercial disp
 Click [here](*TOP) to return to the top
 
 
-### Appointment of lawyers
+### <a name="lawyers-commercial-litigation"></a> Appointment of lawyers
 
 Parties are not limited to appointing Singapore lawyers and are free to choose foreign counsel to represent them in cases with no substantial connection with Singapore. Foreign counsel may also appear to address the Court on matters of foreign law.
 
@@ -59,7 +73,7 @@ To appear before the Singapore International Commercial Court (SICC), foreign co
 Click [here](*TOP) to return to the top
 
 
-### Features of SICC court procedures
+### <a name="key-features-SICC-procedures"></a> Features of SICC court procedures
 
 Court procedures in the SICC follow international best practices for commercial disputes, and provide for more flexibility than typically found in national court processes:
 
@@ -77,18 +91,4 @@ Court procedures in the SICC follow international best practices for commercial 
 Click [here](*TOP) to return to the top
 
 
-### Enforceability
-
-As judgments of the Supreme Court of Singapore, SICC judgments will be widely enforceable around the world:
-
-- In common law countries and some civil law jurisdictions, enforcement will proceed without review of the merits of the case.
-
-- SICC judgments can also be registered and enforced in the Courts of countries which have reciprocal enforcement arrangements with Singapore, such as Australia, Brunei Darussalam, Hong Kong, India, Malaysia, and the United Kingdom.
-
-- SICC judgments may be recognised and enforced in the Courts of the states which are party to the 2005 Hague Convention on Choice of Court Agreements. This includes the EU member states, Denmark, Mexico and Montenegro.
-
-- To find out more, click [here](https://www.sicc.gov.sg/docs/default-source/guide-to-the-sicc/sicc-enforcement-guide-sep-2018.pdf) for the SICC enforcement guide.
-
-
-Click [here](*TOP) to return to the top
 
