@@ -1,6 +1,6 @@
 ---
-title: Restructuring and Insolvency regime in Singapore
-permalink: /singapore-law/restructuring-and-insolvency-regime/
+title: Restructuring and Insolvency
+permalink: /singapore-law/restructuring-and-insolvency/
 ---
 
 [This is a tentative content, pending further input from PAD]
