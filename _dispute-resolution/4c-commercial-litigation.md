@@ -1,20 +1,21 @@
 ---
 title: Commercial Litigation
-permalink: /dispute-resolution/rules-and-procedures/commercial-litigation/
-third_nav_title: Rules and Procedures
+permalink: /dispute-resolution/dispute-resolution-mechanisms/commercial-litigation/
+third_nav_title: Dispute Resolution Mechanisms
 ---
 
-- What is commercial litigation
-- Differences between commerial litigation and arbitration
-- Governing law
-- Appointment of lawyers
-- Court procedures
-- Enforcement guide
+In Singapore, international commercial cases can be heard before a judge in the Singapore International Commercial Court (SICC).
+
+- What is commercial litigation?
+- What are the differences between commercial litigation and arbitration?
+- Can contracts not governed by Singapore law use commercial litigation services in Singapore?
+- Must parties appoint a Singapore lawyer?
+- What are some key features of SICC court procedures?
+- Are the judgments enforceable in other common law and civil law jurisdictions?
 
 
 ### What is commercial litigation
 
-In Singapore, international commercial cases can be heard before a judge in the Singapore International Commercial Court (SICC).
 
 Litigation typically involves a plaintiff and defendant. The judge is responsible for weighing the evidence and making a ruling. Information conveyed in hearings and trials usually enters the public record.
 
@@ -58,7 +59,7 @@ To appear before the Singapore International Commercial Court (SICC), foreign co
 Click [here](*TOP) to return to the top
 
 
-### Court procedures
+### Features of SICC court procedures
 
 Court procedures in the SICC follow international best practices for commercial disputes, and provide for more flexibility than typically found in national court processes:
 
@@ -76,7 +77,7 @@ Court procedures in the SICC follow international best practices for commercial 
 Click [here](*TOP) to return to the top
 
 
-### Enforcement guide
+### Enforceability
 
 As judgments of the Supreme Court of Singapore, SICC judgments will be widely enforceable around the world:
 
@@ -86,7 +87,7 @@ As judgments of the Supreme Court of Singapore, SICC judgments will be widely en
 
 - SICC judgments may be recognised and enforced in the Courts of the states which are party to the 2005 Hague Convention on Choice of Court Agreements. This includes the EU member states, Denmark, Mexico and Montenegro.
 
-Click [here](https://www.sicc.gov.sg/docs/default-source/guide-to-the-sicc/sicc-enforcement-guide-sep-2018.pdf) for  the SICC enforcement guide
+- To find out more, click [here](https://www.sicc.gov.sg/docs/default-source/guide-to-the-sicc/sicc-enforcement-guide-sep-2018.pdf) for the SICC enforcement guide.
 
 
 Click [here](*TOP) to return to the top
