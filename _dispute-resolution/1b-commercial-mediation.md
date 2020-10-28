@@ -39,7 +39,7 @@ The “Arb-Med-Arb” Protocol is a unique hybrid process where parties attempt 
 
 - Parties who have an arbitration agreement may wish to refer their dispute to mediation, either before they commence arbitration or in the course of the arbitration. Settlement agreements may also be converted into consent awards under the Arb-Med-Arb Protocol.
 
-- Parties that adopt the Arb-Med-Arb Protocol may convert their mediated settlement agreement into a consent arbitral award that is enforceable in over 150 countries under the Convention on the Recognition and Enforcement of Foreign Arbitral Awards, also known as the New York Con_vention of 1958.
+- Parties that adopt the Arb-Med-Arb Protocol may convert their mediated settlement agreement into a consent arbitral award that is enforceable in over 150 countries under the Convention on the Recognition and Enforcement of Foreign Arbitral Awards, also known as the New York Convention of 1958.
 
 - Under the Singapore International Arbitration Centre (SIAC) - Singapore International Mediation Centre (SIMC) Arb-Med-Arb Protocol, the arbitrator(s) and the mediator(s) will be separately and independently appointed by SIAC and SIMC respectively, under the applicable arbitration rules and mediation rules of each institution. Unless the parties otherwise agree, the arbitrator(s) and the mediator(s) will generally be different persons.
 
