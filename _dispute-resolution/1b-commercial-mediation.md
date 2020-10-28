@@ -33,7 +33,7 @@ Since the mediator does not adjudicate on the dispute, parties have full control
 Click [here](*TOP) to return to the top
 
 
-### - <a name="singapore-arb-med-arb"></a>What is the "Arb-Med-Arb" Protocol
+### <a name="singapore-arb-med-arb"></a> What is the "Arb-Med-Arb" Protocol
 
 The “Arb-Med-Arb” Protocol is a unique hybrid process where parties attempt mediation after the commencement of arbitration proceedings. It combines the efficacy of mediation with the enforceability of the arbitration award.
 
