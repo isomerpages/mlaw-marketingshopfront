@@ -8,16 +8,23 @@ Singapore’s dispute resolution regime is open and transparent, and parties hav
 ##### COMMERCIAL ARBITRATION 
 
 - **Singapore International Arbitration Centre (SIAC)**
+[Note:to add a paragraph]
+
 - **Singapore Chamber of Maritime Arbitration (SCMA)**
+[Note:to add a paragraph]
 
 ##### COMMERCIAL MEDIATION 
 
 - **Singapore International Mediation Centre (SIMC)**
+[Note:to add a paragraph]
+
 - **Singapore Mediation Centre (SMC)**
+[Note:to add a paragraph]
 
 ##### COMMERCIAL LITIGATION 
 
 - **Singapore International Commercial Court (SICC)** 
+[Note:to add a paragraph]
 
 ##### INTERNATIONAL INSTITUTIONS WITH PRESENCE IN SINGAPORE
 
