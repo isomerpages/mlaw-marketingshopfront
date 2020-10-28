@@ -1,5 +1,5 @@
 ---
-title: Dispute Resolution Centres
+title: Dispute Resolution Centres in Singapore
 permalink: /dispute-resolution/dispute-resolution-centres/
 ---
 
