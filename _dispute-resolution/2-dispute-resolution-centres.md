@@ -7,27 +7,27 @@ Singapore’s dispute resolution regime is open and transparent, and parties hav
 
 ## COMMERCIAL ARBITRATION 
 
-#### [Singapore International Arbitration Centre (SIAC)](https://www.siac.org.sg/)
+#### [Singapore International Arbitration Centre](https://www.siac.org.sg/)
 
 [Note:to add a paragraph]
 
-### [Singapore Chamber of Maritime Arbitration (SCMA)](https://www.scma.org.sg/)
+### [Singapore Chamber of Maritime Arbitration](https://www.scma.org.sg/)
 
 [Note:to add a paragraph]
 
 ## COMMERCIAL MEDIATION 
 
-### [Singapore International Mediation Centre (SIMC)](https://simc.com.sg/) 
+### [Singapore International Mediation Centre](https://simc.com.sg/) 
 
 [Note:to add a paragraph]
 
-### [Singapore Mediation Centre (SMC)](https://www.mediation.com.sg/) 
+### [Singapore Mediation Centre](https://www.mediation.com.sg/) 
 
 [Note:to add a paragraph]
 
 ## COMMERCIAL LITIGATION 
 
-### [Singapore International Commercial Court (SICC)](https://www.sicc.gov.sg/)
+### [Singapore International Commercial Court](https://www.sicc.gov.sg/)
 
 [Note:to add a paragraph]
 
