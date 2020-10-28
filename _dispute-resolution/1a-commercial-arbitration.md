@@ -8,7 +8,7 @@ Singapore is the most preferred arbitration seat in Asia, and the 3rd most prefe
 
 - [What is arbitration?](#what-is-arbitration)
 - [What is emergency arbitration?](what-is-emergency-arbitration)
-- [Will arbitral award issued in Singapore be recognised overseas?]z(#arbitration-recognition)
+- [Will arbitral award issued in Singapore be recognised overseas?](#arbitration-recognition)
 - [Will foreign arbitral awards be granted interim orders in Singapore?](#arbitration-interim-measures)
 - [Are there specific rules for cases related to state-investor disputes?](#rule-state-investor-disputes)
 
