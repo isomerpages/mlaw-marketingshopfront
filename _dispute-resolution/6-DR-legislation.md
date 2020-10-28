@@ -1,5 +1,5 @@
 ---
-title: Dispute Resolution Legislation
+title: Dispute Resolution Legislation in Singapore
 permalink: /dispute-resolution/legislation/
 ---
 
