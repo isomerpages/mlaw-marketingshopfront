@@ -59,4 +59,4 @@ To find out more:
 
 - For **SIDRA webinars related to the BRI**, please click [here](https://sidra.smu.edu.sg/program/belt-and-road-initiative/activities-events)
 
-Source:[SIDRA website](https://sidra.smu.edu.sg/about-us)
+Source: [SIDRA website](https://sidra.smu.edu.sg/about-us)
