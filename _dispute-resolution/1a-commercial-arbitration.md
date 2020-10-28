@@ -4,7 +4,7 @@ permalink: /dispute-resolution/dispute-resolution-mechanisms/commercial-arbitrat
 third_nav_title: Dispute Resolution Mechanisms
 ---
 
-Singapore is the most preferred arbitration seat in Asia, and the 3rd most preferred arbitration seat globally after Paris and London.
+Singapore is the most preferred arbitration seat in Asia, and the 3rd most preferred arbitration seat globally after Paris and London, based on the Queen Mary University of London (QMUL) International Arbitration Survey in 2018.
 
 - What is arbitration?
 - What is emergency arbitration?
