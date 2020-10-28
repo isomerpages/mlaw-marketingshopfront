@@ -6,7 +6,18 @@ permalink: /legal-services/practising-law-in-Singapore/
 
 The  [Legal Services Regulatory Authority](https://eservices.mlaw.gov.sg/lsra/lsra-home)  oversees the regulation of all law practice entities and the registration of foreign lawyers in Singapore.
 
-The regulated entities include Singapore law practices, licensed foreign law practices, qualifying foreign law practices, joint law ventures, formal law alliances, group practices and representative offices) in Singapore.
+The regulated entities include:
+- Singapore law practices (SLP)
+- Licensed foreign law practices
+- Qualifying foreign law practices
+- Joint law ventures
+- Formal law alliances
+- Group practices
+- Representative offices
+
+SLPs are subject to threshold requirements under Rule 3 of the Legal Profession (Law Practice Entities Rules) 2015. The threshold requirements include limits on the number of foreign lawyers who can practise in, or be directors, partners or shareholders in, or share in the profits of, the SLP.
+
+To qualify to practise as a sole proprietor, partner or director of an SLP, a lawyer must, since being admitted as a solicitor, have been employed for at least three years.
 
 For more information on the types of licences and registration available, and the application process, please click [here](https://www.mlaw.gov.sg/law-practice-entities-and-lawyers/licensing-or-registration-of-law-practice-entities/types-of-licence-or-registration/) 
 
