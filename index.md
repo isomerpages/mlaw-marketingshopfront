@@ -51,5 +51,9 @@ sections:
         image: /images/mature-lawyer-notary.jpg.jp2
         alt: Mock image
         
-
+    - resources:
+        title: Media
+        subtitle: Learn more
+        button: View More
+        
 ---
