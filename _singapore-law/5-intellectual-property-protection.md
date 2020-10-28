@@ -39,9 +39,3 @@ International surveys consistently rank Singapore’s IP regime as one of the be
 To find out more about the role of IP in spurring innovation, how you can protect your intellectual property, and how you can grow your business with IP, please click [here](https://www.ipos.gov.sg/)
  
 
-
- 
- 
-
-
-Click here for more information
