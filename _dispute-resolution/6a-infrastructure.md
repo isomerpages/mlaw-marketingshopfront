@@ -1,5 +1,5 @@
 ---
-title: Infrastructure Dispute Resolution
+title: Infrastructure Dispute Management
 permalink: /dispute-resolution/infrastructure dispute management
 
 ---
