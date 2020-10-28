@@ -5,7 +5,9 @@ permalink: /dispute-resolution/research/
 
 [This is a tentative text, pending discusssion with SIDRA on the content]
 
-The Singapore International Dispute Resolution Academy (SIDRA) conducts regular research on topics related to:
+The Singapore International Dispute Resolution Academy (SIDRA) is a platform for thought leadership in international dispute resolution theory, practice and policy. A research centre at the Singapore Management University School of Law, SIDRA leads the way through projects, publications and events that promote dynamic and inclusive conversations on how to constructively engage with and resolve differences and disputes at global, regional and national levels. In particular, SIDRA differentiates itself through its focus on applied research that has practical impact on industry.
+
+SIDRA conducts regular research on topics related to:
 - [International dispute resolution](#sidra-international-dispute-resolution)
 - [Singapore Convention on Mediation](#sidra-scm)
 - [Belt and Road Intiative](#sidra-belt-and-road)
@@ -58,5 +60,7 @@ To find out more:
 - For **SIDRA research publications on the BRI**, please click [here](https://sidra.smu.edu.sg/program/belt-and-road-initiative/publications)
 
 - For **SIDRA webinars related to the BRI**, please click [here](https://sidra.smu.edu.sg/program/belt-and-road-initiative/activities-events)
+
+
 
 Source: [SIDRA website](https://sidra.smu.edu.sg/about-us)
