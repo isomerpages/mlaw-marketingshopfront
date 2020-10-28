@@ -4,4 +4,6 @@ permalink: /legal-services/starting-a-law-practice/
 ---
 
 
-To add text later
+[This is a placeholder] 
+
+Singapore Law Practices include sole-proprietorships, partnerships, Limited Liability Law Partnerships, and law corporations.
