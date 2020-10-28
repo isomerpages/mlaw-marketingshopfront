@@ -2,6 +2,7 @@
 title: Integrated Dispute Resolution Facilities
 permalink: /dispute-resolution/integrated-dispute-resolution-facilities/
 ---
+[This is a tentative text, pending discusssion with Maxwell Chambers on the content]
 
 ![maxwell chambers](/images/mock-15-maxwell.png)
 
