@@ -4,7 +4,7 @@ permalink: /legal-services/legal-tech-initiatives.md/
 ---
 
 
-[Placeholder for content]
+[Tentative content, pending more input from PSPO]
 
 The COVID-19 pandemic has precipitated the need for the adoption of technology across all sectors of the economy, including the legal eco-system. Social distancing measures have prompted the need for innovative solutions and workarounds for legal processes that traditionally required physical interactions. Law firms are increasingly adopting cloud-based document management solutions and virtual platforms to continue their work remotely and to complete collaborative tasks.
 
