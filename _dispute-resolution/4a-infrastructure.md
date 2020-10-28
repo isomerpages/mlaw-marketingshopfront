@@ -29,9 +29,9 @@ To find out more:
 
 - To access the **Singapore Infrastructure Dispute Management Protocol**, please click [here](https://www.mlaw.gov.sg/files/news/press-releases/2018/10/SIDP%20Protocol.pdf)
 
-- For information about the SIMC's Specialists (Infrastructure) Panel, please click [here](https://simc.com.sg/mediators/?_sfm_sector=Infrastructure%20%26%20Construction&_sfm_active_since=2014+2020)
+- For information about the **SIMC's Specialists (Infrastructure) Panel**, please click [here](https://simc.com.sg/mediators/?_sfm_sector=Infrastructure%20%26%20Construction&_sfm_active_since=2014+2020)
 
-- For information about the SMC SIDP panel, please click [here](https://www.mediation.com.sg/experts/others/sidp-panels/)
+- For information about the **SMC SIDP panel**, please click [here](https://www.mediation.com.sg/experts/others/sidp-panels/)
 
-- If you are a foreign government or company looking to drive development in your country or a Singapore-based firm looking to access regional infrastructure opportunities, you may wish to find out more about how [Infrastructure Asia](https://www.infrastructureasia.org/) can partner you by connecting you with the relevant domain experts (sub-segment champions) amongst developers, professional services and technical and financing solutions to meet the specific needs of each project, bridging knowledge gaps and uplift capabilities in project development, financing and implementation, or providing expertise on project scoping and conceptual structuring to improve the viability and success of projects.
+- If you are a foreign government or company looking to drive development in your country or a Singapore-based firm looking to access regional infrastructure opportunities, you may wish to click [here](https://www.infrastructureasia.org/) may wish to find out more about how **Infrastructure Asia]** can partner you by connecting you with the relevant domain experts and sub-segment champions amongst developers, professional services and technical and financing solutions to meet the specific needs of each project, bridging knowledge gaps and uplift capabilities in project development, financing and implementation, or providing expertise on project scoping and conceptual structuring to improve the viability and success of projects.
 
