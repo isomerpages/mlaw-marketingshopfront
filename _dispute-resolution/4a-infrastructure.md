@@ -33,4 +33,5 @@ To find out more:
 
 - For information about the SMC SIDP panel, please click [here](https://www.mediation.com.sg/experts/others/sidp-panels/)
 
+- If you are a foreign government or company looking to drive development in your country or a Singapore-based firm looking to access regional infrastructure opportunities, you may wish to find out more about how [Infrastructure Asia](https://www.infrastructureasia.org/) can partner you by connecting you with the relevant domain experts (sub-segment champions) amongst developers, professional services and technical and financing solutions to meet the specific needs of each project, bridging knowledge gaps and uplift capabilities in project development, financing and implementation, or providing expertise on project scoping and conceptual structuring to improve the viability and success of projects.
 
