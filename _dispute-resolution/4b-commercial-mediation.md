@@ -1,14 +1,14 @@
 ---
 title: Commercial Mediation
-permalink: /dispute-resolution/rules-and-procedures/commercial-mediation/
-third_nav_title: Rules and Procedures
+permalink: /dispute-resolution/dispute-resolution-mechanisms/commercial-mediation/
+third_nav_title: Dispute Resolution Mechanisms
 ---
 
 Mediation is a widely accepted mode of dispute resolution in Singapore. Its processes are well-understood by the legal and business community, and mediation is strongly supported by the judiciary.
 
-- What is mediation
-- What is the difference between arbitration and mediation
-- Arb-Med-Arb Protocol
+- What is mediation?
+- What is the difference between arbitration and mediation?
+- What is the "Arb-Med-Arb" Protocol?
 
 
 ### What is mediation
@@ -33,17 +33,17 @@ Since the mediator does not adjudicate on the dispute, parties have full control
 Click [here](*TOP) to return to the top
 
 
-### Arb-Med-Arb Protocol
+### - What is the "Arb-Med-Arb" Protocol
 
 The “Arb-Med-Arb” Protocol is a unique hybrid process where parties attempt mediation after the commencement of arbitration proceedings. It combines the efficacy of mediation with the enforceability of the arbitration award.
 
-_Parties who have an arbitration agreement may wish to refer their dispute to mediation, either before they commence arbitration or in the course of the arbitration._ Settlement agreements may also be converted into consent awards under the Arb-Med-Arb Protocol.
+- Parties who have an arbitration agreement may wish to refer their dispute to mediation, either before they commence arbitration or in the course of the arbitration. Settlement agreements may also be converted into consent awards under the Arb-Med-Arb Protocol.
 
-Parties that adopt the Arb-Med-Arb Protocol may convert their mediated settlement agreement into a consent arbitral award that is enforceable in over 150 countries under the Convention on the Recognition and Enforcement of Foreign Arbitral Awards, also known as the New York Con_vention of 1958.
+- Parties that adopt the Arb-Med-Arb Protocol may convert their mediated settlement agreement into a consent arbitral award that is enforceable in over 150 countries under the Convention on the Recognition and Enforcement of Foreign Arbitral Awards, also known as the New York Con_vention of 1958.
 
-Singapore International Arbitration Centre (SIAC) - Singapore International Mediation Centre (SIMC) Arb-Med-Arb Protocol, the arbitrator(s) and the mediator(s) will be separately and independently appointed by SIAC and SIMC respectively, under the applicable arbitration rules and mediation rules of each institution. Unless the parties otherwise agree, the arbitrator(s) and the mediator(s) will generally be different persons.
+- Under the Singapore International Arbitration Centre (SIAC) - Singapore International Mediation Centre (SIMC) Arb-Med-Arb Protocol, the arbitrator(s) and the mediator(s) will be separately and independently appointed by SIAC and SIMC respectively, under the applicable arbitration rules and mediation rules of each institution. Unless the parties otherwise agree, the arbitrator(s) and the mediator(s) will generally be different persons.
 
-Parties wishing to take advantage of this tiered dispute resolution mechanism as administered by SIAC and SIMC, may consider incorporating the [Singapore Arb-Med-Arb Clause](https://siac.org.sg/model-clauses/the-singapore-arb-med-arb-clause) [Link to relevant section in website] in their contracts.
+- Parties wishing to take advantage of this tiered dispute resolution mechanism as administered by SIAC and SIMC, may consider incorporating the [Singapore Arb-Med-Arb Clause](https://siac.org.sg/model-clauses/the-singapore-arb-med-arb-clause) in their contracts.
 
 
 Click [here](*TOP) to return to the top
