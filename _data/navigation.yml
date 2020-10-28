@@ -15,5 +15,8 @@ links:
     collection: dispute-resolution
   - title: Legal Services
     collection: legal-services
+  - title: Media 
+    collection: Media
+    resource_room: true
   - title: Contact
     url: /contact-us/
