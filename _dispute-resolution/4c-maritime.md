@@ -29,3 +29,5 @@ Users have complete autonomy to appoint arbitrators of their own choice or from 
 ### Cost
 
 There are no fees payable to the SCMA to commence an SCMA arbitration. There is also no mandatory scale of arbitrators’ fees based on the amount in dispute (also known as ad-valorem fees). Parties are free to independently agree upon rates with the arbitrator(s).
+
+Source: [SCMA website](https://www.scma.org.sg/)
