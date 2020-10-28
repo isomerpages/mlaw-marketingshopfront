@@ -3,17 +3,15 @@ title: Model Clauses
 permalink: /dispute-resolution/model-clauses/
 ---
 
-## Model Clauses For Commercial Contracts
+## Model Clauses on Dispute Resolution for Commercial Contracts
 
 - **SIAC Model Clause**
 
 - **SIMC Model Clause**
 
+- **SIAC-SIMC Arb-Med-Arb Model Clause**
+
 - **SICC Model Clause**
-
-- **Arb-Med-Arb Model Clause**
-
-
 
 ### SIAC Model Clause
 
@@ -39,7 +37,7 @@ Source: [http://simc.com.sg/simc-mediation-clause/](http://simc.com.sg/simc-medi
 Click [here](*TOP) to return to the top
 
 
-### Arb-Med-Arb Model Clause
+### SIAC-SIMC Arb-Med-Arb Model Clause
 
 _“Any dispute arising out of or in connection with this contract, including any question regarding its existence, validity or termination, shall be referred to and finally resolved by arbitration administered by the Singapore International Arbitration Centre (“SIAC”) in accordance with the Arbitration Rules of the Singapore International Arbitration Centre (“SIAC Rules”) for the time being in force, which rules are deemed to be incorporated by reference in this clause.”_
 
@@ -51,7 +49,7 @@ _The language of the arbitration shall be ________________._
 
 _“The parties further agree that following the commencement of arbitration, they will attempt in good faith to resolve the Dispute through mediation at the Singapore International Mediation Centre (“SIMC”), in accordance with the SIAC-SIMC Arb-Med-Arb Protocol for the time being in force. Any settlement reached in the course of the mediation shall be referred to the arbitral tribunal appointed by SIAC and may be made a consent award on agreed terms.”_
 
-See: [http://simc.com.sg/the-singapore-arb-med-arb-clause/](http://simc.com.sg/the-singapore-arb-med-arb-clause/)
+Source: [http://simc.com.sg/the-singapore-arb-med-arb-clause/](http://simc.com.sg/the-singapore-arb-med-arb-clause/)
 
 
 Click [here](*TOP) to return to the top
