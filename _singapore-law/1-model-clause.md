@@ -9,3 +9,7 @@ permalink: /singapore-law/model-clause/
 
 **Example of Model Clause for Governing Law:**
 “This agreement shall be governed by and construed in accordance with the laws of the Republic of Singapore.”
+
+|Header|Header| 
+|-|-|
+|Text|Text|
