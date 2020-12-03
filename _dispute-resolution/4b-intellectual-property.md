@@ -9,11 +9,11 @@ IP disputes may be encountered in the course of managing your IP portfolio or do
 <img src = "/images/89F1D00F-3CB8-497C-9796-D2CFBE2BE650.png" usemap = "#image-map">
 <map name = "#image-map">
  <area shape = "rect" coords = "504, 766, 640, 815" href = "https://www.siac.org.sg/our-arbitrators/siac-panel">
- <area shape = "rect" coords = "183, 1006, 308, 1088" href = "https://www.wipo.int/amc/en/center/background.html">
- <area shape = "rect" coords = "183, 1089, 308, 1118" href = "https://www.mediation.com.sg/">
- <area shape = "rect" coords = "183, 1119, 308, 1150" href = "https://simc.com.sg/">
- <area shape = "rect" coords = "505, 1024, 635, 1060" href = "https://www.siac.org.sg/">
- <area shape = "rect" coords = "668, 1038, 775, 1060" href = "https://www.ipos.gov.sg/understanding-innovation-ip/copyright">
+ <area shape = "rect" coords = "183, 1006, 315, 1088" href = "https://www.wipo.int/amc/en/center/background.html">
+ <area shape = "rect" coords = "183, 1089, 315, 1118" href = "https://www.mediation.com.sg/">
+ <area shape = "rect" coords = "183, 1119, 315, 1150" href = "https://simc.com.sg/">
+ <area shape = "rect" coords = "505, 1024, 640, 1060" href = "https://www.siac.org.sg/">
+ <area shape = "rect" coords = "668, 1038, 780, 1060" href = "https://www.ipos.gov.sg/understanding-innovation-ip/copyright">
 </map>
 
 ### Why Resolve IP Disputes in Singapore  
