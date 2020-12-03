@@ -8,10 +8,13 @@ IP disputes may be encountered in the course of managing your IP portfolio or do
 
 <img src = "/images/89F1D00F-3CB8-497C-9796-D2CFBE2BE650.png" usemap = "#image-map">
 <map name = "#image-map">
- <area shape = "rect" coords = "503, 766, 633, 811" href = "https://www.siac.org.sg/our-arbitrators/siac-panel">
- <area shape = "rect">
+ <area shape = "rect" coords = "504, 766, 635, 812" href = "https://www.siac.org.sg/our-arbitrators/siac-panel">
+ <area shape = "rect" coords = "183, 1006, 308, 1082" href = "https://www.wipo.int/amc/en/center/background.html">
+ <area shape = "rect" coords = "183, 1084, 308, 1116" href = "https://www.mediation.com.sg/">
+ <area shape = "rect" coords = "183, 1115, 308, 1147" href = "https://simc.com.sg/">
+ <area shape = "rect" coords = "505, 1024, 631, 1051" href = "https://www.siac.org.sg/">
+ <area shape = "rect" coords = "668, 1038, 770, 1052" href = "https://www.ipos.gov.sg/understanding-innovation-ip/copyright">
 </map>
-![]()
 
 ### Why Resolve IP Disputes in Singapore  
 In addition to the advantages for dispute resolution in general, Singapore also has several compelling advantages for resolving intellectual property disputes.  
