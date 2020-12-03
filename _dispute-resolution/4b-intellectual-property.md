@@ -6,6 +6,11 @@ permalink: /dispute-resolution/intellectual-property-dispute-resolution/
 ### Different Ways of Resolving IP Disputes  
 IP disputes may be encountered in the course of managing your IP portfolio or doing business. The main routes of resolving IP disputes are litigation, arbitration, mediation and negotiation.
 
+<img src = "/images/89F1D00F-3CB8-497C-9796-D2CFBE2BE650.png" usemap = "#image-map">
+<map name = "#image-map">
+ <area shape = "rect" coords = "503, 766, 633, 811" href = "https://www.siac.org.sg/our-arbitrators/siac-panel">
+ <area shape = "rect">
+</map>
 ![]()
 
 ### Why Resolve IP Disputes in Singapore  
