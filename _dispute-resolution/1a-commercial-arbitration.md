@@ -2,15 +2,14 @@
 title: Commercial Arbitration
 permalink: /dispute-resolution/dispute-resolution-mechanisms/commercial-arbitration/
 third_nav_title: Dispute Resolution Mechanisms
----
-
-Singapore is the most preferred arbitration seat in Asia, and the 3rd most preferred arbitration seat globally after Paris and London, based on the Queen Mary University of London (QMUL) International Arbitration Survey in 2018.
-
 accordion:
   - title: What is arbitration?
     content: In arbitration, a neutral third party who is appointed by the parties (or through a process agreed to by the parties) serves as an arbitrator who is responsible for              resolving the dispute. The arbitrator listens as each side argues its case and presents relevant evidence, then renders a binding decision.
   - title: What is emergency arbitration?
     content: Singapore was one of the first jurisdictions to provide clear legislative support for the appointment of an emergency arbitrator, and for any resulting order. The    emergency arbitrator procedure enables parties to obtain urgently required interim relief before a Tribunal is constituted, without the need to go to Court.
+---
+Singapore is the most preferred arbitration seat in Asia, and the 3rd most preferred arbitration seat globally after Paris and London, based on the Queen Mary University of London (QMUL) International Arbitration Survey in 2018.
+
 {% include accordion.html %}
 
 - [What is arbitration?](#what-is-arbitration)
