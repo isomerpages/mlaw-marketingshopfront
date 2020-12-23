@@ -8,7 +8,11 @@ accordion:
   - title: What is emergency arbitration?
     content: Singapore was one of the first jurisdictions to provide clear legislative support for the appointment of an emergency arbitrator, and for any resulting order. The emergency arbitrator procedure enables parties to obtain urgently required interim relief before a Tribunal is constituted, without the need to go to Court.
   - title: Will arbitral award issued in Singapore be recognised overseas?
-    content: Singapore is a party to the  New York Convention on the Recognition and Enforcement of Foreign Arbitral Awards.<br>Arbitral awards issued in Singapore are enforceable in over 150 countries.
+    content: Singapore is a party to the  New York Convention on the Recognition and Enforcement of Foreign Arbitral Awards.<br><br>Arbitral awards issued in Singapore are enforceable in over 150 countries.
+  - title: Will foreign arbitral awards be granted interim orders in Singapore?
+    content: Singapore’s arbitration legislation has adopted the UNCITRAL Model Law on International Commercial Arbitration of 1985, including provisions which empowering the Court to grant interim orders in aid of foreign arbitration.Singapore’s arbitration legislation has adopted the UNCITRAL Model Law on International Commercial Arbitration of 1985, including provisions which empowering the Court to grant interim orders in aid of foreign arbitration.
+  - title: Are there specific rules for cases related to state-investor disputes?
+    content: Singapore International Arbitration Centre is the first commercial arbitral institution to offer a stand-alone set of rules to address the special features and demands of arbitration proceedings involving States, State-controlled entities or intergovernmental organisations, whether arising out of a contract, statute, treaty or other instrument. The 1st edition of the SIAC Investment Arbitration Rules came into effect on 1 January 2017.
   
 ---
 Singapore is the most preferred arbitration seat in Asia, and the 3rd most preferred arbitration seat globally after Paris and London, based on the Queen Mary University of London (QMUL) International Arbitration Survey in 2018.
