@@ -319,6 +319,9 @@ $desktop: 960px + (2 * $gap) !default;
 		font-size: 1.25rem; //self-customisation
 		line-height: 2.2rem; //self-customisation
 	}
+	p {
+		text-align: justify;
+	}
 }
 
 // Media category buttons - not used now but will be used in the future
