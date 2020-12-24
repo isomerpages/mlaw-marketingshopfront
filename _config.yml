@@ -28,6 +28,8 @@ collections:
     output: true
   legal-services:
     output: true
+  restructuring-and-insolvency:
+    output: true
 
 
 
