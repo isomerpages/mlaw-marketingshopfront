@@ -23,7 +23,7 @@ Click [here](*TOP) to return to the top
 
 ### <a name="difference-arbitration-mediation"></a>What is the difference between arbitration and mediation
 
-In arbitration, the arbitrator looks into the legal rights and wrongs of a dispute and makes a decision. Once the arbitrator has arrived at a decision, it is binding on parties whether they agree with it or not. It is very much like the way a court case is decided by a judge, except that the process does not take place in a courtroom, and it is not open to the public. As in a court case, there is usually a winning and a losing party in arbitration.
+In arbitration, the arbitrator looks into the legal rights and wrongs of a dispute and makes a decision. Once the arbitrator has arrived at a decision, it is binding on parties whether they agree with it or not. This is very much how a court case is decided by a judge, except that the process does not take place in a courtroom, and the hearing is not open to the public. As with a court case, there is usually a winning and a losing party in arbitration.
 
 In mediation, the mediator helps parties to settle their disputes through a process of discussion and narrowing of differences. The mediator helps the parties to arrive at an agreed solution. He does not decide the outcome. A successful mediation results in an agreement signed by the parties, whereas a contested arbitration results in a decision by the arbitrator. In mediation, there is no such thing as a winning or losing party because there is no binding decision. Instead, the parties are free to agree on both legal and non-legal solutions to the dispute which best suit their respective interests and needs.
 
@@ -39,7 +39,7 @@ The “Arb-Med-Arb” Protocol is a unique hybrid process where parties attempt 
 
 - Parties who have an arbitration agreement may wish to refer their dispute to mediation, either before they commence arbitration or in the course of the arbitration. Settlement agreements may also be converted into consent awards under the Arb-Med-Arb Protocol.
 
-- Parties that adopt the Arb-Med-Arb Protocol may convert their mediated settlement agreement into a consent arbitral award that is enforceable in over 150 countries under the Convention on the Recognition and Enforcement of Foreign Arbitral Awards, also known as the New York Convention of 1958.
+- Parties that adopt the Arb-Med-Arb Protocol may convert their mediated settlement agreement into a consent arbitral award that is enforceable in over 160 countries under the Convention on the Recognition and Enforcement of Foreign Arbitral Awards, also known as the New York Convention of 1958.
 
 - Under the Singapore International Arbitration Centre (SIAC) - Singapore International Mediation Centre (SIMC) Arb-Med-Arb Protocol, the arbitrator(s) and the mediator(s) will be separately and independently appointed by SIAC and SIMC respectively, under the applicable arbitration rules and mediation rules of each institution. Unless the parties otherwise agree, the arbitrator(s) and the mediator(s) will generally be different persons.
 
