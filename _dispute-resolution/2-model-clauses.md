@@ -19,20 +19,20 @@ _Any dispute arising out of or in connection with this contract, including any q
 
 _The seat of the arbitration shall be [Singapore].*_
 
-_The Tribunal shall consist of _________________** arbitrator(s)._
+_The Tribunal shall consist of `_________________`** arbitrator(s)._
 
-_The language of the arbitration shall be ________________._
+_The language of the arbitration shall be `________________`._
 
 _**APPLICABLE LAW_
 
 _Parties should also include an applicable law clause. The following is recommended:_
 
-_This contract is governed by the laws of _________________.***_
+_This contract is governed by the laws of `_________________`.***_
 
-_______________________________________________
-* Parties should specify the seat of arbitration of their choice. If the parties wish to select an alternative seat to Singapore, please replace “[Singapore]” with the city and country of choice (e.g., “[City, Country]”).
-** State an odd number. Either state one, or state three.
-*** State the country or jurisdiction.
+`_______________________________________________`  
+_\* Parties should specify the seat of arbitration of their choice. If the parties wish to select an alternative seat to Singapore, please replace “[Singapore]” with the city and country of choice (e.g., “[City, Country]”)._   
+_\** State an odd number. Either state one, or state three._    
+_\*** State the country or jurisdiction._  
 
 Source: [http://www.siac.org.sg/model-clauses/siac-model-clause](http://www.siac.org.sg/model-clauses/siac-model-clause)
 
