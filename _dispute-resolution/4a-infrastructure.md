@@ -22,14 +22,15 @@ The SIDP was developed by a Working Group comprising eminent private sector infr
 
 Under the  SIDP, the developers, contractors and other parties of large infrastructure projects will from the start of the project appoint a Dispute Board comprising up to three neutral professionals who are experts in relevant fields such as engineering, quantity surveying and law. The Dispute Board will follow the project from start to finish and proactively help to manage issues that may arise, through a range of customised dispute avoidance and resolution processes.
 
-Parties can opt for a Dispute Board comprising one, two or three expert professionals depending on the complexity and needs of the project. Interested users may choose their Dispute Board members from SIMC’s Specialists (Infrastructure) Panel or SMC's SIDP Panel which experts with the appropriate experience in resolving complex infrastructure disputes.
+Parties can opt for a Dispute Board comprising one, two or three expert professionals depending on the complexity and needs of the project. 
+<!-- Interested users may choose their Dispute Board members from SIMC’s Specialists (Infrastructure) Panel or SMC's SIDP Panel which experts with the appropriate experience in resolving complex infrastructure disputes. -->
 
 
 To find out more:
 
 - To access the **Singapore Infrastructure Dispute Management Protocol**, please click [here](https://www.mlaw.gov.sg/files/news/press-releases/2018/10/SIDP%20Protocol.pdf)
 
-- For information about the **SIMC's Specialists (Infrastructure) Panel**, please click [here](https://simc.com.sg/mediators/?_sfm_sector=Infrastructure%20%26%20Construction&_sfm_active_since=2014+2020)
+<!-- - For information about the **SIMC's Specialists (Infrastructure) Panel**, please click [here](https://simc.com.sg/mediators/?_sfm_sector=Infrastructure%20%26%20Construction&_sfm_active_since=2014+2020) -->
 
 - For information about the **SMC SIDP panel**, please click [here](https://www.mediation.com.sg/experts/others/sidp-panels/)
 
