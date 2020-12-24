@@ -15,11 +15,24 @@ permalink: /dispute-resolution/model-clauses/
 
 ### SIAC Model Clause
 
-_“Any dispute arising out of or in connection with this contract, including any question regarding its existence, validity or termination, shall be referred to and finally resolved by arbitration in Singapore in accordance with the Arbitration Rules of the Singapore International Arbitration Centre for the time being in force, which rules are deemed to be incorporate by reference in this clause.”_
+_Any dispute arising out of or in connection with this contract, including any question regarding its existence, validity or termination, shall be referred to and finally resolved by arbitration administered by the Singapore International Arbitration Centre (“SIAC”) in accordance with the Arbitration Rules of the Singapore International Arbitration Centre ("SIAC Rules") for the time being in force, which rules are deemed to be incorporated by reference in this clause._
 
-_“The seat of the arbitration shall be Singapore.”_
+_The seat of the arbitration shall be [Singapore].*_
 
-_“This contract is governed by the laws of Singapore.”_
+_The Tribunal shall consist of _________________** arbitrator(s)._
+
+_The language of the arbitration shall be ________________._
+
+_**APPLICABLE LAW_
+
+_Parties should also include an applicable law clause. The following is recommended:_
+
+_This contract is governed by the laws of _________________.***_
+
+_______________________________________________
+* Parties should specify the seat of arbitration of their choice. If the parties wish to select an alternative seat to Singapore, please replace “[Singapore]” with the city and country of choice (e.g., “[City, Country]”).
+** State an odd number. Either state one, or state three.
+*** State the country or jurisdiction.
 
 Source: [http://www.siac.org.sg/model-clauses/siac-model-clause](http://www.siac.org.sg/model-clauses/siac-model-clause)
 
