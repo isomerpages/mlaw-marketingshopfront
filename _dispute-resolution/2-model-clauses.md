@@ -9,7 +9,7 @@ permalink: /dispute-resolution/model-clauses/
 
 - **SIMC Model Clause**
 
-- **The Singapore Arb-Med-Arb Clause**
+- **SIAC-SIMC Arb-Med-Arb Model Clause**
 
 - **SICC Model Clause**
 
@@ -66,7 +66,7 @@ _\* Parties should specify the seat of arbitration of their choice. If the parti
 _\** State an odd number. Either state one, or state three._    
 
 Source: [http://simc.com.sg/the-singapore-arb-med-arb-clause/](http://simc.com.sg/the-singapore-arb-med-arb-clause/)  
-https://www.siac.org.sg/model-clauses/the-singapore-arb-med-arb-clause
+[https://www.siac.org.sg/model-clauses/the-singapore-arb-med-arb-clause](https://www.siac.org.sg/model-clauses/the-singapore-arb-med-arb-clause)
 
 Click [here](*TOP) to return to the top
 
