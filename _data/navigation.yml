@@ -9,12 +9,14 @@ logo: /images/mlaw-logo.png
 links:
   - title: Overview
     url: /overview/
-  - title: Singapore Law 
+  - title: SG Law and Legal System
     collection: singapore-law
-  - title: Dispute Resolution
-    collection: dispute-resolution
   - title: Legal Services
     collection: legal-services
+  - title: Dispute Resolution
+    collection: dispute-resolution
+  - title: Restructuring and Insolvency
+    collection: restructuring-and-insolvency
   - title: Media 
     collection: Media
     resource_room: true
