@@ -1,6 +1,6 @@
 ---
-title: Research
-permalink: /singapore-law/research/
+title: Research/Resources
+permalink: /singapore-law/research-resources/
 
 ---
 
