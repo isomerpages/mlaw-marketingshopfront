@@ -39,4 +39,6 @@ forms:
         required: true
 ---
 
-{% if page.forms[0] %}{% include form.html form="1" %}{% endif %}
+{% if page.forms[0] %}
+{% include form.html form="1" %}
+{% endif %}
