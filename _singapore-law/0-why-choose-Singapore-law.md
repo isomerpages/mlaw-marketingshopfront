@@ -2,8 +2,7 @@
 title: Why Choose Singapore Law
 permalink: /singapore-law/why-choose-Singapore-law/
 ---
- Hello
- 
+
  - **Transparent, neutral and predictable**
  - **Modern and relevant**
  - **International standards**
