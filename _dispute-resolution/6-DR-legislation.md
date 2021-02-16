@@ -26,4 +26,6 @@ Singapore’s dispute resolution legislation is regularly reviewed to keep abrea
 **Commercial litigation-related legislation**
 
 - Supreme Court of Judicature Act
+- Rules of Court Cap. 322, R5
+- Choice of Court Agreements Act Cap. 39A
 
