@@ -43,7 +43,11 @@ Click [here](#top) to return to the top
 
 Arbitral awards issued in Singapore are enforceable in over 160 countries, as Singapore is a party to the Convention on the Recognition and Enforcement of Foreign Arbitral Awards (New York Convention).
 
-Singapore ratified the Hague Convention on Choice of Courts Agreement in 2016. This Convention ensures that exclusive choice of court agreements in faviour of courts of Contracting States are effectively enforced, and the judgements rendered by the chosen courts are recognised and enforced in Contracting States.
+Money judgments of the Supreme Court of Singapore, which includes the Singapore International Commercial Court, are widely enforceable throughout the world.
+
+1. In common law countries, and in certain civil law jurisdictions, there is no need for re-litigation of the merits of the case.
+2. Money judgments of the Supreme Court of Singapore can be registered and enforced in the courts of countries which have reciprocal enforcement arrangements with Singapore. 
+3. Singapore ratified the Hague Convention on Choice of Courts Agreement in 2016. This Convention ensures that exclusive choice of court agreements in faviour of courts of Contracting States are effectively enforced, and the judgements rendered by the chosen courts are recognised and enforced in Contracting States.
 
 The Singapore Convention on Mediation is the missing piece in the international dispute resolution enforcement framework. This Convention, also known as the United Nations Convention on International Settlement Agreements Resulting from Mediation opened for signing on 7 August 2019 and entered into force on 12 September 2020. It ensures that a settlement reached by parties is enforceable in accordance with a simplified and streamlined procedure. It also allows parties to invoke such agreements.
 
@@ -60,7 +64,7 @@ Singapore courts have a strong international outlook, and consider a wide divers
 
 There is strong judicial support  where the judicial philosophy is to accord a substantial degree of judicial deference to the outcomes and processes of international commercial arbitration in recognition of party autonomy. In Singapore, our courts have been slow to assume jurisdiction over a matter that the parties have agreed to refer to international arbitration, intervening only where appropriate and necessary to do so, and within the framework provided for by the New York Convention and our International Arbitration Act.
 
-Where the arbitration matters are brought before the High Court, specially-appointed judges, who have the experience to handle a wide range of complex issues, preside over them.
+Where the arbitration matters are brought before the High Court or the Singapore International Commercial Court, specially-appointed judges, who have the experience to handle a wide range of complex issues, preside over them.
 
 Click [here](#top) to return to the top
 
@@ -69,6 +73,11 @@ Click [here](#top) to return to the top
 Singapore has an open regime for international commercial dispute resolution, which offers parties a choice of dispute resolution mechanisms, institutions, seats, and legal representation.
 
 Parties are free to engage lawyers and arbitrators of any nationality and use any governing law. There is no restriction on foreign law firms engaging in and advising on arbitration and mediation in Singapore.
+
+As for litigation, a party to proceedings commenced in the Singapore International Commercial Court (including in appeals arising from such proceedings) may be represented by foreign counsel registered with the Court in certain cases, including:
+
+- Offshore cases (actions which have no substantial connection to Singapore, excluding any proceedings under the International Arbitration Act that are commenced by way of originating process, and an action in rem under the Singapore High Court (Admiralty Jurisdiction) Act);
+- Where leave is granted to make submissions on any question of foreign law.
 
 There is a [wide selection of dispute resolution centres and courts in Singapore](/dispute-resolution/dispute-resolution-services/) to choose from, including top international dispute resolution centres with case management offices in Singapore.
 
