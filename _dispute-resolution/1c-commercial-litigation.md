@@ -4,7 +4,7 @@ permalink: /dispute-resolution/dispute-resolution-mechanisms/commercial-litigati
 third_nav_title: Dispute Resolution Mechanisms
 ---
 
-In Singapore, international commercial cases can be heard before a judge in the Singapore International Commercial Court (SICC).
+In Singapore, international commercial cases can be heard in the Singapore International Commercial Court (SICC) by a diverse panel of eminent international and Singapore judges.
 
 - [What is commercial litigation?](#what-is-commercial-litigation)
 - [What are the differences between commercial litigation and arbitration?](#differences-litigation-arbitration)
@@ -16,7 +16,10 @@ In Singapore, international commercial cases can be heard before a judge in the 
 ### <a name="hat-is-commercial-litigation"></a> What is commercial litigation
 
 
-Litigation typically involves a plaintiff and defendant. The judge is responsible for weighing the evidence and making a ruling. Information conveyed in hearings and trials usually enters the public record.
+Litigation typically involves a plaintiff, who brings the matter before the court, and a defendant. Oftentimes, there could be several parties involved on each side. The judge is responsible for weighing the evidence presented against the applicable law, and making a ruling. Information conveyed in hearings and trials usually enters the public record.
+
+If a party is not satisfied with the decision of the judge based on the findings of fact or the law applied, there is usually one level of appeal which in the SICC’s case, to the Singapore Court of Appeal.
+
 
 
 Click [here](*TOP) to return to the top
@@ -26,13 +29,13 @@ Click [here](*TOP) to return to the top
 
 The SICC complements existing international arbitration services. Parties may choose to resolve their disputes at SICC if they:
 
-- Prefer that all adjudicators are independently appointed. In SICC proceedings, the Chief Justice assigns judges from the panel of International and Singapore judges to each case. In most arbitrations, arbitrators are generally appointed by parties to the arbitration.
+- Prefer that all adjudicators are independently appointed. In SICC proceedings, the Chief Justice assigns experienced specialist judges from the panel of International and Singapore judges to each case. In most arbitrations, arbitrators are generally appointed by parties to the arbitration.
 
 - Desire to have a right of appeal, as decisions of the SICC may, by default, generally be appealed to the Singapore Court of Appeal. Parties may, however, contractually limit or waive their right of appeal.
 
-- Require third parties to be joined in the proceedings, especially in multi-party situations.
+- Require third and related parties to be joined in the proceedings, especially in multi-party situations.
 
-- Prefer that the proceedings take place in open court and published judgments with clear grounds of decision.
+- Prefer that the proceedings take place in open court and  with published judgments containing clear grounds of decision.
 
 
 Click [here](*TOP) to return to the top
@@ -42,11 +45,11 @@ Click [here](*TOP) to return to the top
 
 As judgments of the Supreme Court of Singapore, SICC judgments will be widely enforceable around the world:
 
-- In common law countries and some civil law jurisdictions, enforcement will proceed without review of the merits of the case.
+- In common law countries and many civil law jurisdictions, enforcement will proceed without review of the merits of the case.
 
 - SICC judgments can also be registered and enforced in the Courts of countries which have reciprocal enforcement arrangements with Singapore, such as Australia, Brunei Darussalam, Hong Kong, India, Malaysia, and the United Kingdom.
 
-- SICC judgments may be recognised and enforced in the Courts of the states which are party to the 2005 Hague Convention on Choice of Court Agreements. This includes the EU member states, Denmark, Mexico and Montenegro.
+- SICC judgments may be recognised and enforced in the Courts of the states which are party to the 2005 Hague Convention on Choice of Court Agreements. This includes the EU member states, Mexico and Montenegro.
 
 - To find out more, click [here](https://www.sicc.gov.sg/docs/default-source/guide-to-the-sicc/sicc-enforcement-guide-sep-2018.pdf) for the SICC enforcement guide.
 
@@ -65,7 +68,7 @@ Click [here](*TOP) to return to the top
 
 ### <a name="lawyers-commercial-litigation"></a> Appointment of lawyers
 
-Parties are not limited to appointing Singapore lawyers and are free to choose foreign counsel to represent them in cases with no substantial connection with Singapore. Foreign counsel may also appear to address the Court on matters of foreign law.
+Parties are not limited to appointing Singapore lawyers and are free to choose foreign counsel to represent them in cases with no substantial connection with Singapore. Foreign counsel may also make submissions to the Court on questions of foreign law.
 
 To appear before the Singapore International Commercial Court (SICC), foreign counsel must [register with the Court](https://www.sicc.gov.sg/registration-of-foreign-lawyers/registration-of-foreign-lawyers) and comply with the [SICC Code of Ethics](https://www.sicc.gov.sg/docs/default-source/guide-to-the-sicc/code-of-ethics_revised.pdf).
 
@@ -81,9 +84,9 @@ Court procedures in the SICC follow international best practices for commercial 
 
 - **Rules of evidence:** If all parties agree, they can have the flexibility to apply to the Court to adopt other rules of evidence they are familiar with, such as the International Bar Association Rules on the Taking of Evidence in International Arbitration.
 
-- **Determination of foreign law:** Parties may apply to have questions of foreign law determined on the basis of submissions instead of proof. This means that they will not have to call witnesses to prove what the foreign law is.
+- **Determination of foreign law:** Parties may apply to have questions of foreign law determined on the basis of submissions instead of proof. This means that they will not have to call expert witnesses to prove what the foreign law is.
 
-- **Document production or discovery:** Instead of general discovery, the document production or discovery rules in the SICC are similar to the International Bar Association Rules on the Taking of Evidence in International Arbitration.
+- **Document production or discovery:** Instead of general discovery, the default document production rules in the SICC are similar to those currently used in international arbitration.
 
 - **Costs:** Costs are awarded at the discretion of the Court, with the general principle that the unsuccessful party shall pay the reasonable costs of the proceedings to the successful party.
 
