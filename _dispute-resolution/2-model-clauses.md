@@ -79,7 +79,7 @@ The basic jurisdiction clause may be supplemented or modified in order to take i
 
 There is also another version available for consideration, as well as model clauses for parties to submit to the jurisdiction of the SICC at any other time, such as after a dispute has arisen.
 
-Source: [https://www.sicc.gov.sg/docs/default-source/guide-to-the-sicc/sicc_model_clauses.pdf](https://www.sicc.gov.sg/docs/default-source/guide-to-the-sicc/sicc_model_clauses.pdf)
+Source:[https://www.sicc.gov.sg/docs/default-source/guide-to-the-sicc/sicc_model_clauses.pdf](https://www.sicc.gov.sg/docs/default-source/guide-to-the-sicc/sicc_model_clauses.pdf)
 
 
 Click [here](*TOP) to return to the top
