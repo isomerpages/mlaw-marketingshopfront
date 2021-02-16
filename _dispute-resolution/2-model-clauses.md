@@ -11,7 +11,7 @@ permalink: /dispute-resolution/model-clauses/
 
 - **SIAC-SIMC Arb-Med-Arb Model Clause**
 
-- **SICC Model Clause**
+- **SICC Model Clauses**
 
 ### SIAC Model Clause
 
@@ -76,6 +76,8 @@ Click [here](*TOP) to return to the top
 _“Each party irrevocably submits to the exclusive* jurisdiction of the Singapore International Commercial Court all disputes arising out of or in connection with the present contract, including any question relating to its existence, validity or termination.”_
 
 The basic jurisdiction clause may be supplemented or modified in order to take into account any concerns or special requirements that the parties may have, including Governing Law, Consent to Transfer, Waiver of Objections, Compliance, etc.
+
+There is also another version available for consideration, as well as model clauses for parties to submit to the jurisdiction of the SICC at any other time, such as after a dispute has arisen.
 
 Source: [https://www.sicc.gov.sg/docs/default-source/guide-to-the-sicc/sicc_model_clauses.pdf](https://www.sicc.gov.sg/docs/default-source/guide-to-the-sicc/sicc_model_clauses.pdf)
 
