@@ -69,6 +69,7 @@ The Singapore International Commercial Court (SICC) is a division of the General
 Note: To explore possiblity of featuring successful case studies and testimonials, through links to a pdf or specific pages on SICC website.
 
 Testimonials
+
 I have had the privilege of prosecuting the very first case heard before the SICC upon its formation and a number of cases beyond that as well. The SICC is a stand out for the sheer intellectual ability of its judges and their steadfast commitment to procedural and adjudicative rigor and fairness. One simply could not ask for more. 
 Francis Xavier S.C. , Rajah & Tann Singapore LLP
 
@@ -79,6 +80,7 @@ Toby Landau QC, Essex Court Chambers
 
 
 Case Study 1
+
 Landmark decision by the Court of Appeal on cryptocurrency and computer automated contracts
 Quoine Pte Ltd v B2C2 Ltd  is the first legal dispute in Singapore involving cryptocurrency. The central and most difficult issue in this case was how the doctrine of mistake could be applied in the field of cryptocurrency trading which used deterministic computer algorithms without any direct human involvement (i.e. algorithms which always produce the same output when provided with the same input). Notwithstanding the novel circumstances, the Court of Appeal gave guidance on how existing legal principles governing the doctrine of mistake could still be meaningfully adapted and applied.
 This case involved a dispute between Quoine Pte Ltd (“Quoine”), an operator of a cryptocurrency exchange platform (“Platform”), and B2C2 Ltd (“B2C2”), who traded on said Platform entirely using its algorithmic trading software with little to no human involvement. 
@@ -107,6 +109,7 @@ Mr Jon Chan Wenqiang (Senior Associate, Ravindran Associates LLP) and Mr Alvin T
 
  
 Case Study 2
+
 SICC Provides Guidance On 2002 ISDA Master Agreement - Macquarie Bank Limited v Graceland Industry Pte Ltd [2018] 4 SLR 87
 Before the Singapore International Commercial Court (“SICC”), Macquarie Bank Limited (“Macquarie”) claimed US$1.2 million from Graceland Industry Pte Ltd (“Graceland”) for breach of an over-the-counter commodity swap agreement in respect of 30,000 metric tonnes of urea (the "Transaction"). 
 In holding that Macquarie was entitled to terminate the Transaction and recover a "Close-out Amount" of US$ 1.2 million, the Court provided guidance on the 2002 ISDA Master Agreement which is likely to be welcomed by participants in the derivatives market for the reasons discussed below. 
@@ -134,6 +137,7 @@ Nish Shetty (Partner, Cavenagh Law LLP), Paul Landless (Partner, Clifford Chance
 
  
 Case Study 3
+
 SICC INDICATES WILLINGNESS TO EXERCISE ITS DISCRETION WHEN DETERMINING COSTS TO DETER AN AWARD DEBTOR FROM (MIS)USING THE SET ASIDE APPLICATION  - BYL & Anor v BYN [2020] SGHC(I) 12
 In August 2019, the Plaintiffs applied to the High Court to set aside an award in an arbitration on the basis of an arbitrator's apparent bias. The case was transferred to the SICC and subsequently dismissed. The decision by International Judge Anselmo Reyes in BYL & Anor v BYN, rendered on 11 May 2020, deals with the costs of the Plaintiffs’ unsuccessful setting aside application. Reyes IJ’s decision is significant for two reasons. First, it affirms the SICC’s discretion and willingness to depart from the High Court’s scale of costs (even in relation to transfer cases), which – if applied – would have entitled the successful party to a costs order of no more than S$15,000 (approximately US$10,000) regardless of the complexity and quantum of the issues raised in the set aside proceedings. Second, it underscores the importance of providing sufficient particulars to justify the costs claimed, without which they will be rejected. 
 The decision articulates, and also addresses, the concern of many users of arbitration, namely that the lack of a realistic costs order in set aside applications in Singapore may have inadvertently provided mischievous unsuccessful parties with a low-cost opportunity to delay performance. As noted by Reyes IJ, without a meaningful costs order, “the successful party would in effect be subsidising the unsuccessful party’s attempt to avoid having to honour an award”. His decision is therefore very much welcomed.  
