@@ -7,8 +7,8 @@
 logo: /images/mlaw-logo.png
 
 links:
-  - title: Overview
-    url: /overview/
+  - title: About Singapore
+    collection: about-singapore
   - title: SG Law and Legal System
     collection: singapore-law
   - title: Legal Services
