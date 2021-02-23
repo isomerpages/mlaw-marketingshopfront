@@ -20,8 +20,8 @@ colors:
 
 
 collections:
-#  legal-system:
-#    output: false
+  about-singapore:
+    output: true
   singapore-law:
     output: true
   dispute-resolution:
