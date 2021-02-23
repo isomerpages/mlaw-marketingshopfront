@@ -4,7 +4,6 @@ permalink: /singapore-law/legal-history-of-singapore
 ---
 
 
-
 **Milestones in Singapore's Legal History**
 
 
@@ -26,6 +25,7 @@ permalink: /singapore-law/legal-history-of-singapore
 
 
 
+ 
 
  
 
