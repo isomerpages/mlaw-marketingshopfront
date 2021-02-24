@@ -59,7 +59,7 @@ _The Tribunal shall consist of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** arbitrator(s).
 
 _The language of the arbitration shall be \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_._
 
-_The parties further agree that following the commencement of arbitration, they will attempt in good faith to resolve the Dispute through mediation at the Singapore International Mediation Centre (“SIMC”), in accordance with the SIAC-SIMC Arb-Med-Arb Protocol for the time being in force. Any settlement reached in the course of the mediation shall be referred to the arbitral tribunal appointed by SIAC and may be made a consent award on agreed terms._
+_"The parties further agree that following the commencement of arbitration, they will attempt in good faith to resolve the Dispute through mediation at the Singapore International Mediation Centre (“SIMC”), in accordance with the SIAC-SIMC Arb-Med-Arb Protocol for the time being in force. Any settlement reached in the course of the mediation shall be referred to the arbitral tribunal appointed by SIAC and may be made a consent award on agreed terms."_
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_      
 _\* Parties should specify the seat of arbitration of their choice. If the parties wish to select an alternative seat to Singapore, please replace “[Singapore]” with the city and country of choice (e.g., “[City, Country]”)._   
