@@ -24,7 +24,7 @@ SCMA also maintains specialised arbitration rules to cater to the swift resoluti
 
 ### Freedom of Appointment
 
-Users have complete autonomy to appoint arbitrators of their choice or from SCMA’s Panel of Arbitrators or otherwise. Users frequently request the assistance of the SCMA Chairman to break a deadlock in an arbitrator appointment or determine a challenge to an arbitrator.
+Users have complete autonomy to appoint arbitrators of their choice from SCMA’s Panel of Arbitrators or otherwise. Users frequently request the assistance of the SCMA Chairman to break a deadlock in an arbitrator appointment or determine a challenge to an arbitrator.
 
 ### Cost
 
