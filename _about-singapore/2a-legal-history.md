@@ -70,10 +70,6 @@ The Governor and the Resident Councillor acted as two judges of the court. The t
 
 
 
-​
-
-
-
 
 **The Third Charter of Justice**
 
@@ -89,8 +85,6 @@ Under the Third Charter of Justice, the Court of Judicature was reorganised into
 
 
 
-
-​
 
 
 
@@ -134,8 +128,6 @@ The Court of Criminal Appeal Ordinance came into force on 1 September 1934 to pr
 
 
 
-
-​
 
 
 
@@ -194,8 +186,6 @@ Singapore's judicial system was altered once again following her merger with Mal
 
 
 
-
-​
 
 
 
