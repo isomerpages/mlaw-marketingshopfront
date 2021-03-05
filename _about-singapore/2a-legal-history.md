@@ -1,7 +1,7 @@
 ---
 title: About Singapore
 permalink: /about-singapore/our-legal-system
-third_nav_title: Legal History of Singapore
+third_nav_title: Our Legal System
 ---
 
 **Milestones in Singapore's Legal History**
