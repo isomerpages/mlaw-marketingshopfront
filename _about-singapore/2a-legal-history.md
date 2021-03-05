@@ -40,8 +40,6 @@ The Founding of Singapore and The First Charter of Justice Singapore was founded
 
 
 
-​
-
 
 
 
@@ -152,7 +150,6 @@ The Syonan Supreme Court or "Syonan Koto-Hoin" was opened on 29 May 1942. A cour
 
 
 
-​
 
 
 
