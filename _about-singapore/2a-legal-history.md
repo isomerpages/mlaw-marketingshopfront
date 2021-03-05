@@ -1,8 +1,8 @@
 ---
 title: Legal History of Singapore
-permalink: /singapore-law/legal-history-of-singapore
+permalink: /about-singapore/our-legal-system
+third_nav_title: Legal History of Singapore
 ---
-
 
 **Milestones in Singapore's Legal History**
 
