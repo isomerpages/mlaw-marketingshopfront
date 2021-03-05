@@ -1,1 +1,238 @@
+---
+title: Legal History of Singapore
+permalink: /singapore-law/legal-history-of-singapore
+---
 
+
+**Milestones in Singapore's Legal History**
+
+
+
+
+ - The Founding of Singapore and The First Charter of Justice Singapore
+
+ - The Second Charter of Justice
+
+ - The Third Charter of Justice
+
+ - New Developments in the judicial system: 1868 - 1941
+
+ - The Japanese Occupation
+
+ - Developments during the Post-War Years Leading to Independence
+
+ - Post-Independence Developments
+
+
+
+
+
+
+
+
+**The Founding of Singapore and The First Charter of Justice Singapore**
+
+
+
+
+The Founding of Singapore and The First Charter of Justice Singapore was founded on 6 February 1819, when a treaty of friendship and alliance was signed by Sir Thomas Stamford Raffles, Sultan Hussein of Johor and Temenggong Abdu'r Rahman. In 1807, the Crown granted the East India Company the First Charter of Justice, which set up a Court of Judicature in Penang.
+
+
+
+
+​
+
+
+
+
+**The Second Charter of Justice**
+
+
+
+
+In 1825, Statute 6 Geo IV c 85 was passed by the British Parliament, enabling the King to make provision for the administration of justice in the British colonies of Singapore and Malacca. These, together with the Prince of Wales' Island (now known as 'Penang') formed the Straits Settlements. 
+
+
+
+
+The Second Charter of Justice was issued on 27 November 1826. This Charter abolished the Recorder's Court, which served only the Prince of Wales' Island, and established the Court of Judicature of Prince of Wales' Island, Singapore and Malaya. 
+
+
+
+
+In criminal proceedings, the court was "to administer criminal justice in such­ Manner and Form" as the courts in England, with "due attention being (given) to the several Religions, Manners and Usages of the native Inhabitants". The court was to "give and pass Judgment and Sentence according to Justice and Right" in civil proceedings. 
+
+
+
+
+The Governor and the Resident Councillor acted as two judges of the court. The third judge was the Recorder, who was based on the Prince of Wales' Island and had to travel on circuit to Malacca and Singapore from his home base. He was assisted in his duties by the Resident Councillors and the Governor, who sat as lay Judges.
+
+
+
+
+​
+
+
+
+
+**The Third Charter of Justice**
+
+
+
+
+The Third Charter of Justice of 12 August 1855 was granted to cope with the increase in the judicial workload which resulted from Singapore's rapid development. 
+
+
+
+
+Under the Third Charter of Justice, the Court of Judicature was reorganised into two divisions. The first division had jurisdiction over Singapore and Malacca and comprised the Recorder of Singapore, the Governor and the Resident Councillors of Singapore and Malacca. The second division had jurisdiction over the Prince of Wales' Island and Province Wellesley, and comprised the Recorder of Prince of Wales' Island, the Governor and the Resident Councillor of the Prince of Wales' Island.
+
+
+
+
+​
+
+
+
+
+**New Developments in the judicial system: 1868 - 1941**
+
+
+
+
+The Judicial Duties Act of 1867 brought about further changes to our judicial system. The Governor of the Straits Settlements ceased to be a Judge of the Court of Judicature, although the Resident Councillors continued to sit under their new title of Lieutenant-Governors. 
+
+
+
+
+This Act also changed the titles of other officers: the "Recorder of Singapore" became the "Chief Justice of the Straits Settlements" while the "Recorder of Prince of Wales' Island" became the "Judge of Prince of Wales' Island". Sir Peter Benson Maxwell, then the Recorder of Singapore, became the first Chief Justice of The Straits Settlements in 1867.
+
+
+
+
+The Supreme Court Ordinance 1868 abolished the Court of Judicature of Prince of Wales' Island, Singapore and Malacca, replacing it with the Supreme Court of the Straits Settlements.
+
+
+
+
+In turn, the Courts Ordinance of 1873 reconstituted the Court, so that it now consisted of the Chief Justice, the Judge of Penang, a Senior and a Junior Puisne Judge. One division of the Court sat in Singapore and Malacca, whilst another sat in Penang. In addition, the Ordinance conferred on the Supreme Court of the Straits Settlements the jurisdiction to sit as a Court of Appeal, with final appeals lying to the Judicial Committee of the Privy Council. Previously, appeals had lain only to the King-in-Council. 
+
+
+
+
+Further changes to the structure of the judicial system were brought by the Courts Ordinance of 1878. This Ordinance was passed in response to the United Kingdom Judicature Acts of 1873-75, which modified the court structure in England. Under the Ordinance, the jurisdiction for the Supreme Court of the Straits Settlements was brought in line with that of the new English High Court. 
+
+
+
+
+The Courts Ordinance of 1907 allowed Judicial Commissioners of the Federated Malay States to be appointed from time to time to perform the duties of a Judge of the Supreme Court of the Straits Settlements. 
+
+
+
+
+The Court of Criminal Appeal Ordinance came into force on 1 September 1934 to provide for the establishment of a Court of Criminal Appeal. This was necessary as, up till then, the Court of Appeal had exercised only appellate civil jurisdiction.
+
+
+
+
+​
+
+
+
+
+**The Japanese Occupation**
+
+
+
+
+Our courts ceased to function when the Japanese invaded Singapore in 1942 and established a Military Court of Justice to administer Military Ordinances and the laws of the Japanese army.
+
+
+
+
+The courts were re-opened by a Proclamation dated 27 May 1942, which stated that the courts were to follow the former system of laws insofar as they did not interfere with the Military Administration. 
+
+
+
+
+The Syonan Supreme Court or "Syonan Koto-Hoin" was opened on 29 May 1942. A court of appeal was also created, but it never sat.
+
+
+
+
+​
+
+
+
+
+**Developments during the Post-War Years Leading to Independence**
+
+
+
+
+Following the surrender of the Japanese on 12 September 1945, Singapore was temporarily administered by the British Military Administration. The British Military Administration proclaimed that all Japanese Proclamations and Decrees ceased to have effect, and that "all laws and customs existing immediately prior to the Japanese occupation will be respected". 
+
+
+
+
+The British Military Administration came to an end on 31 March 1946. The Straits Settlements were disbanded and Singapore was made a separate Crown Colony on 1 April 1946. The Supreme Court, consisting of a High Court and a Court of Appeal, was constituted by the Singapore Colony Order in Council. The Court of Criminal Appeal continued to function. Final appeals lay to the Judicial Committee of the Privy Council in England. 
+
+
+
+
+On 2 May 1955, Mr Tan Ah Tah became the first local-born person to be appointed a Judge of the Supreme Court. Mr Frederick Arthur Chua (appointed on 15 February 1957) and Mr Wee Chong Jin (appointed on 15 August 1957) were appointed thereafter. Mr Wee Chong Jin was also the first local-born member of the Singapore Bar to be appointed to the Supreme Court Bench. Mr Tan Ah Tah and Mr Frederick Arthur Chua were both from the Colonial Legal Service.
+
+
+
+
+On 5 January 1963, Mr Wee Chong Jin became the first Asian to be appointed the Chief Justice of the State of Singapore. His appointment marked a break in the long-standing tradition (since 1867) of appointing British Chief Justices for Singapore, the last of whom was Sir Alan Rose.
+
+
+
+
+Singapore's judicial system was altered once again following her merger with Malaysia on 16 September 1963. The Federation of Malaya Act came into force on 16 September 1963, establishing the Federal Court of Malaysia and the structure of the Malaysian judicial system. The Malaysian Courts of Judicature Act 1964 repealed the provisions relating to the Singapore Supreme Court in Singapore's Courts Ordinance as well as the whole of the Singapore's Court of Criminal Appeal Ordinance. The Supreme Court of the Colony of Singapore was replaced by the High Court of Malaysia in Singapore, while the Court of Appeal was assimilated into the Federal Court. The Judicial Committee of the Privy Council continued to be the final appellate court.
+
+
+
+
+​
+
+
+
+
+**Post-Independence Developments**
+
+
+
+
+Although Singapore became independent on 9 August 1965, the ties between the judicial systems of Singapore and Malaysia were not severed until 1969. The Supreme Court of Judicature Act 1969, re-established the Supreme Court of Singapore, comprising the High Court, the Court of Appeal and the Court of Criminal Appeal. 
+
+
+
+
+Jury trials were abolished in 1969, by an amendment to the Criminal Procedure Code which provided for trials of capital offences to be heard by two judges. This arrangement continued until 18 April 1992, when the Criminal Procedure Code was amended to allow for trials of capital offences to be heard before a single Judge.
+
+
+
+
+The next important milestone for Singapore's judicial system was the introduction of Judicial Commissioners to the Supreme Court Bench, with the first Judicial Commissioner, Mr Chan Sek Keong, being appointed on 1 July 1986. A Judicial Commissioner is appointed for specific periods of time and may exercise the powers and perform the functions of a Judge. In this capacity, he enjoys the same immunities as a Judge.
+
+
+
+
+On 28 September 1990, Mr Wee Chong Jin retired as Chief Justice, and Mr Yong Pung How, took over as the head of the Judiciary.
+
+
+
+
+The first female to be appointed to the Supreme Court Bench was Ms Lai Siu Chiu, who was appointed a Judicial Commissioner on 2 May 1991. Thereafter, Ms Judith Prakash was appointed a Judicial Commissioner on 1 April 1992. They were appointed Judges of the High Court on 2 May 1994 and 1 April 1995 respectively. 
+
+
+
+
+In 1993, the existing appellate court, which comprised the Court of Appeal and the Court of Criminal Appeal, was reconstituted into a single Court of Appeal for both civil and criminal appeals. The present Court of Appeal normally comprises the Chief Justice and the Judges of Appeal, who rank above the High Court judges. A Judge of the High Court may also, on the request of the Chief Justice, sit as a Judge of the Court of Appeal.
+
+
+
+
+The first Judges of Appeal to be appointed were Justice M Karthigesu and Justice L P Thean, both of whom were appointed as Judges of Appeal on 1 July 1993.
