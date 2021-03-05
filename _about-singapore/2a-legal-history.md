@@ -1,6 +1,6 @@
 ---
-title: About Singapore
-permalink: /about-singapore/our-legal-system
+title: Legal History of Singapore
+permalink: /about-singapore/our-legal-system/legal-history-of-singapore
 third_nav_title: Our Legal System
 ---
 
