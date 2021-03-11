@@ -7,10 +7,23 @@ permalink: /singapore-law/overview-of-singapore-business-laws
 # Overview of Singapore Business Laws
 The following are basic legislative acts that affect all Singapore companies when they conduct business in the country.
 
+
+## Setting up Business
+There are a few options foreign companies can choose from when setting up business in Singapore. 
+
+**Branch of Foreign Company**
+A business entity that could be set up is a branch of a foreign company. Unlike a local entity incorporated in Singapore with its own legal personality and liabilities, abranch is an extension of its head office incorporated overseas. As such, liabilities of the branch office in Singapore are extended to its parent company. A branch office is not eligible for same tax benefits or rebates offered to a local entity. 
+
+**Representative Office (RO)**
+An RO can be registered in Singapore as a temporary arrangement for conducting market research and feasibility studies. The key benefit of an RO: it allows a foreign entity to assess Singapore’s business environment before setting up permanently. As an RO cannot generate income or solicit business, it will not have to pay taxes. An RO that decides to continue its presence in Singapore should register as a legal business with ACRA and, if necessary, obtain the relevant licence to perform any regulated activity. To open an RO in the manufacturing, international trade, wholesale, trade and trade-related business sectors, approach Enterprise Singapore (ESG). To register an RO in the legal sector, visit the Legal Services Regulatory Authority (LSRA), a department under the Ministry of Law. A bank or insurance company should approach the Monetary Authority of Singapore (MAS) to discuss their plans for an RO. 
+
+Click to find additional information and related government agencies (link to pdf)
+
+
 ## Employment
 The main laws governing employment law in Singapore are the:
-•	Employment Act.
-•	Retirement and Re-Employment Act.
+-	Employment Act.
+-	Retirement and Re-Employment Act.
 
 These Acts are administered by the Ministry of Manpower. There is also advice and some non-statutory guidelines issued by the Tripartite Alliance for Fair and Progressive Employment Practices (TAFEP), which authorities encourage employers to observe.
 
