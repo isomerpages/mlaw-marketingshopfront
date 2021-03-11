@@ -13,7 +13,7 @@ There are a few options foreign companies can choose from when setting up busine
 
 **Branch of Foreign Company**
 
-A business entity that could be set up is a branch of a foreign company. Unlike a local entity incorporated in Singapore with its own legal personality and liabilities, abranch is an extension of its head office incorporated overseas. As such, liabilities of the branch office in Singapore are extended to its parent company. A branch office is not eligible for same tax benefits or rebates offered to a local entity. 
+A business entity that could be set up is a branch of a foreign company. Unlike a local entity incorporated in Singapore with its own legal personality and liabilities, a branch is an extension of its head office incorporated overseas. As such, liabilities of the branch office in Singapore are extended to its parent company. A branch office is not eligible for the same tax benefits or rebates offered to a local entity. 
 
 **Representative Office (RO)**
 
@@ -24,8 +24,11 @@ Click to find additional information and related government agencies (link to pd
 
 ## Employment
 The main laws governing employment law in Singapore are the:
--	Employment Act.
--	Retirement and Re-Employment Act.
+
+-	Employment Act
+
+-	Retirement and Re-Employment Act
+
 
 These Acts are administered by the Ministry of Manpower. There is also advice and some non-statutory guidelines issued by the Tripartite Alliance for Fair and Progressive Employment Practices (TAFEP), which authorities encourage employers to observe.
 
@@ -33,7 +36,7 @@ The employment relationship between employers and such employees will be governe
 
 The **Employment Act** covers all employees (excluding public servants, domestic workers and seafarers) irrespective of their nationality. The Act is applicable to all employees who the employer appoints by means of an employment contract stating the terms and conditions of employment. The provisions of the Employment Act are not applicable to an independent contractor who the employer appoints on the basis of a fee to complete a specific assignment for the company. Any contract entered by the employer with the independent contractor forms a client-contractor relationship that is not covered under the scope of this Act.
 
-The employment contract is an important legal document of a company as it defines the relationship between the employer and the employee. The general principles of contract law in Singapore are applicable to this contract. Like all contracts entered into by parties in Singapore, the employment contract is enforceable by law. Typically, the contract defines details such as employee’s scope of work, salary details, overtime payment, rest days, leaves etc. The Employment Act guarantees certain benefits to employees. These benefits include annual paid leaves, sick leaves, maternity benefits, paid public holidays etc. Employers must ensure that they fulfil all such requirements in the Act and also draft the terms of the contract accordingly.¬¬
+The employment contract is an important legal document of a company as it defines the relationship between the employer and the employee. The general principles of contract law in Singapore are applicable to this contract. Like all contracts entered into by parties in Singapore, the employment contract is enforceable by law. Typically, the contract defines details such as employee’s scope of work, salary details, overtime payment, rest days, leaves etc. The Employment Act guarantees certain benefits to employees. These benefits include annual paid leaves, sick leaves, maternity benefits, paid public holidays etc. Employers must ensure that they fulfil all such requirements in the Act and also draft the terms of the contract accordingly.
 
 
 ## Tax
