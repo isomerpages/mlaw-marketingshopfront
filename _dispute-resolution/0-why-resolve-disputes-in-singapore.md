@@ -47,7 +47,7 @@ Money judgments of the Supreme Court of Singapore, which includes the Singapore 
 
 1. In common law countries, and in certain civil law jurisdictions, there is no need for re-litigation of the merits of the case.
 2. Money judgments of the Supreme Court of Singapore can be registered and enforced in the courts of countries which have reciprocal enforcement arrangements with Singapore. 
-3. Singapore ratified the Hague Convention on Choice of Courts Agreement in 2016. This Convention ensures that exclusive choice of court agreements in faviour of courts of Contracting States are effectively enforced, and the judgements rendered by the chosen courts are recognised and enforced in Contracting States.
+3. Singapore ratified the Hague Convention on Choice of Courts Agreement in 2016. This Convention ensures that exclusive choice of court agreements in faviour of courts of Contracting States are effectively enforced, and the judgments rendered by the chosen courts are recognised and enforced in Contracting States.
 
 The Singapore Convention on Mediation is the missing piece in the international dispute resolution enforcement framework. This Convention, also known as the United Nations Convention on International Settlement Agreements Resulting from Mediation opened for signing on 7 August 2019 and entered into force on 12 September 2020. It ensures that a settlement reached by parties is enforceable in accordance with a simplified and streamlined procedure. It also allows parties to invoke such agreements.
 
