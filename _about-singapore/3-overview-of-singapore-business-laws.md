@@ -3,6 +3,7 @@ title: Overview of Singapore Business Laws
 permalink: /singapore-law/overview-of-singapore-business-laws
 ---
 
+(this is a draft write up)
 
 # Overview of Singapore Business Laws
 The following are basic legislative acts that affect all Singapore companies when they conduct business in the country.
@@ -25,9 +26,8 @@ Click to find additional information and related government agencies (link to pd
 ## Employment
 The main laws governing employment law in Singapore are the:
 
--	Employment Act
-
--	Retirement and Re-Employment Act
+- Employment Act
+- Retirement and Re-Employment Act
 
 
 These Acts are administered by the Ministry of Manpower. There is also advice and some non-statutory guidelines issued by the Tripartite Alliance for Fair and Progressive Employment Practices (TAFEP), which authorities encourage employers to observe.
@@ -45,9 +45,11 @@ The Income Tax Act of Singapore is the main governing statute for corporate taxa
 Singapore companies are required to complete their corporate tax returns by submitting annually two filings with IRAS (the Inland Revenue Authority of Singapore, the main government agency that levies and collects taxes in Singapore). These filings are as follows:
 
 **Estimated Chargeable Income (ECI)**
+
 All Singapore companies must file their Estimated Chargeable Income (ECI) within three months after the end of their financial year, for each financial year. ECI is the company’s estimated income after deducting tax-allowable expenses for the preceding financial year. Besides stating the ECI, a business is required to declare the company's revenue on the ECI Form.
 
 **Corporate Income Tax Return**
+
 Companies are required to file a Corporate Income Tax Return with IRAS after submitting the ECI. The deadline is either November 30 for paper filing or December 15 for e-filing. The Income Tax Return provides a calculation of the actual tax that is to be paid to the tax authority. Companies must file their tax returns in any year based on the profits in the preceding year.
 
 
@@ -79,12 +81,15 @@ The law prohibits mergers or acquisitions that result in a substantial lessening
 Intellectual property (IP) refers to any man-made creation for which exclusive rights are recognized by the government. In Singapore, there are three mechanisms by which IP rights can be registered: a patent, a copyright or a trademark.
 
 **Patent Law**
+
 Singapore protects inventive designs and processes through the Patents Act. Singapore patents are protected internationally under the Patent Cooperation Treaty (PCT). Applications for patent protection in Singapore must be filed at the Intellectual Property Office of Singapore (IPOS). Application for patent protection overseas under the Patent Co-operation Treaty must also be filed at the IPOS. For applications for patent protection overseas filed by any person resident in Singapore, written authorisation must be obtained from the Registrar of Patents or a patent application must first be filed in Singapore.
 
 **Copyright Law**
+
 Singapore’s Copyright Act protects original works as varied as novels, computer programs, films, paintings, sheet music and performances. It does not include ideas, procedures, methods, discoveries because it is the expression, not the underlying idea or discovery, that is covered. The author, or owner, of copyrighted material has the exclusive right to publish, perform, broadcast or adapt the work. He or she can assign all or part of the rights to others, so long as the agreement is in writing. He or she can also license the work to others; the license need not be in writing and can be exclusive or non-exclusive. The protections Singapore affords through copyright and the length of those protections varies by the type of work it is. In general, copyright ownership belongs to the person who created the work. However, works created during the course of employment may be owned by the employer if the terms of employment provide that. Commissioned works belong to the individual or group that commissioned them.
 
 **Trademark Law**
+
 A trademark is a symbol, such as a brand name or logo that a business uses to distinguish its goods and services. In Singapore, you can register a trademark so that it is protected under the Trade Marks Act. Alternatively, you can seek protection without registering it under the common law right of “passing off.”
 
 
@@ -92,11 +97,13 @@ A trademark is a symbol, such as a brand name or logo that a business uses to di
 All Singapore companies are obliged to protect the Personal Data (PD) of their clients, employees, or any other individuals’ data the company may process. The two basic regulations that affect Singapore business in this area are the Personal Data Protection Act (PDPA) and the General Data Protection Regulation (GDPR).
 
 **Personal Data Protection Act (PDPA)**
+
 PDPA is Singapore’s law governing the collection, use, and disclosure (collectively called “processing”) of personal data by organisations in Singapore. The main purpose of the act is to ensure that a) all personal data is processed in a manner that respects the privacy and ownership rights of individuals; and b) organisations use such data for legitimate business purposes only.
 
 PDPA relies on two main pillars for protecting consumers: the Do Not Call (DNC) Registry and general data protection provisions. Singapore companies are required to obtain the consent of an individual before they can collect, use, or disclose any personal information related to that individual. To comply with the law, Singapore businesses have to check their phone or fax based marketing efforts against the DNC Registry before engaging in marketing or else risk fines. 
 
 **General Data Protection Regulation (GDPR)**
+
 GDPR is a European Union regulation on data protection and privacy. The document has extraterritorial implications, i.e. it also applies to companies that are not residents of any of the EU states. The GDPR applies to companies that are registered outside the EU but collect or process the PD of persons (residents) of the EU. So if your Singapore company collects and processes PD of clients, employees, or other persons who are residents of the EU, you must comply with the GDPR requirements.
 
 ## Sources:
