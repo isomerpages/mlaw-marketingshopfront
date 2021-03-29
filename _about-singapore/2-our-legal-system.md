@@ -240,3 +240,5 @@ In 1993, the existing appellate court, which comprised the Court of Appeal and t
 
 
 The first Judges of Appeal to be appointed were Justice M Karthigesu and Justice L P Thean, both of whom were appointed as Judges of Appeal on 1 July 1993.
+
+(Source: Content is adapted from the websites of Ministry of Law and Supreme Court of Singapore)
