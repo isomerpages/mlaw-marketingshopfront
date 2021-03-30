@@ -15,4 +15,4 @@ In addition, international law practices and networks from myriad jurisdictions 
 
 Collaborations between Singapore Law Practices and Foreign Law Practices in the form of Joint Law Ventures and Formal Law Alliances offer more options for cross-border legal work, combining local expertise with foreign know-how.
 
-Click here to return to the top of page
+Click [here](#top) to return to the top of page
