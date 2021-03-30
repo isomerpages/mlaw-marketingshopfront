@@ -6,7 +6,7 @@ permalink: /dispute-resolution/integrated-dispute-resolution-facilities/
 
 ![maxwell chambers](/images/mock-15-maxwell.png)
 
-Parties seeking to resolve their disputes by alternative dispute resolution in Singapore can enjoy access to state-of-the-art support facilities at the **Maxwell Chambers** 
+Parties seeking to resolve their disputes by alternative dispute resolution in Singapore can enjoy access to state-of-the-art support facilities at the **Maxwell Chambers**.
 
 Maxwell Chambers is the world’s first integrated Alternative Dispute Resolution (ADR) complex, housing both best-in-class hearing facilities as well as top international ADR institutions. 
 
