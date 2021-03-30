@@ -79,7 +79,7 @@ As for litigation, a party to proceedings commenced in the Singapore Internation
 - Offshore cases (actions which have no substantial connection to Singapore, excluding any proceedings under the International Arbitration Act that are commenced by way of originating process, and an action in rem under the Singapore High Court (Admiralty Jurisdiction) Act);
 - Where leave is granted to make submissions on any question of foreign law.
 
-There is a [wide selection of dispute resolution centres and courts in Singapore](/dispute-resolution/dispute-resolution-services/) to choose from, including top international dispute resolution centres with case management offices in Singapore.
+There is a [wide selection of dispute resolution centres and courts in Singapore](/dispute-resolution/integrated-dispute-resolution-facilities/) to choose from, including top international dispute resolution centres with case management offices in Singapore.
 
 Click [here](#top) to return to the top
 
