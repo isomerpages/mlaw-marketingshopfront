@@ -4,6 +4,8 @@ permalink: /singapore-law/research-resources/
 
 ---
 
+### Research/Resources
+
 [LawNet](https://www.lawnet.sg/lawnet/web/lawnet/home), a service of the Singapore Academy of Law, provides a complete suite of information for legal research.
 
 Users can conduct research on Singapore primary legal materials (Singapore Law Reports, unreported judgments and legislation) and secondary materials (such as Parliamentary reports, legal news, textbooks and journals). 
