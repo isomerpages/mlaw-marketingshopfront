@@ -13,5 +13,5 @@ Singapore’s prime geographical location and stellar transportation and communi
 
 To overcome travel restrictions due to the COVID-19 pandemic, virtual and hybrid hearing arrangements are available at the Maxwell Chambers and the Singapore International Commercial Court.
 
-Click [here](https://www.maxwellchambers.com/2020/06/24/hybrid-and-virtual-hearings/) for more information
+Click [here](https://www.maxwellchambers.com/2020/06/24/hybrid-and-virtual-hearings/) for more information.
 
