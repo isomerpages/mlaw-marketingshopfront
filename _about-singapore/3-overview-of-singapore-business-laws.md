@@ -3,7 +3,7 @@ title: Overview of Singapore Business Laws
 permalink: /singapore-law/overview-of-singapore-business-laws
 ---
 
-(this is a draft write up)
+(This is a draft write up)
 
 # Overview of Singapore Business Laws
 The following are basic legislative acts that affect all Singapore companies when they conduct business in the country.
@@ -18,7 +18,7 @@ A business entity that could be set up is a branch of a foreign company. Unlike 
 
 **Representative Office (RO)**
 
-An RO can be registered in Singapore as a temporary arrangement for conducting market research and feasibility studies. The key benefit of an RO: it allows a foreign entity to assess Singapore’s business environment before setting up permanently. As an RO cannot generate income or solicit business, it will not have to pay taxes. An RO that decides to continue its presence in Singapore should register as a legal business with ACRA and, if necessary, obtain the relevant licence to perform any regulated activity. To open an RO in the manufacturing, international trade, wholesale, trade and trade-related business sectors, approach Enterprise Singapore (ESG). To register an RO in the legal sector, visit the Legal Services Regulatory Authority (LSRA), a department under the Ministry of Law. A bank or insurance company should approach the Monetary Authority of Singapore (MAS) to discuss their plans for an RO. 
+An RO can be registered in Singapore as a temporary arrangement for conducting market research and feasibility studies. The key benefit of an RO: it allows a foreign entity to assess Singapore’s business environment before setting up permanently. As an RO cannot generate income or solicit business, it will not have to pay taxes. An RO that decides to continue its presence in Singapore should register as a legal business with ACRA and, if necessary, obtain the relevant licence to perform any regulated activity. To open an RO in the manufacturing, international trade, wholesale, trade and trade-related business sectors, approach Enterprise Singapore (ESG). To register an RO in the legal sector, visit the [Legal Services Regulatory Authority (LSRA)](https://eservices.mlaw.gov.sg/lsra/search-lawyer-or-law-firm/), a department under the Ministry of Law. A bank or insurance company should approach the [Monetary Authority of Singapore (MAS)](https://www.mas.gov.sg/regulation/Banking/set-up-bank-representative-office) to discuss their plans for an RO. 
 
 Click to find additional information and related government agencies (link to pdf)
 
@@ -26,11 +26,11 @@ Click to find additional information and related government agencies (link to pd
 ## Employment
 The main laws governing employment law in Singapore are the:
 
-- Employment Act
-- Retirement and Re-Employment Act
 
+- [Employment Act](https://sso.agc.gov.sg/Act/EmA1968)
+- [Retirement and Re-Employment Act](https://sso.agc.gov.sg/Act/RRA1993)
 
-These Acts are administered by the Ministry of Manpower. There is also advice and some non-statutory guidelines issued by the Tripartite Alliance for Fair and Progressive Employment Practices (TAFEP), which authorities encourage employers to observe.
+These Acts are administered by the Ministry of Manpower. There is also advice and some non-statutory guidelines issued by the [Tripartite Alliance for Fair and Progressive Employment Practices (TAFEP)](https://www.tal.sg/tafep), which authorities encourage employers to observe. 
 
 The employment relationship between employers and such employees will be governed by the Employment Act. The main purpose of the Employment Act is to maintain good employment standards and safeguard working conditions for employees. The Act extends to the entire employment process, starting from the appointment up to an employee’s dismissal or termination. 
 
@@ -40,7 +40,7 @@ The employment contract is an important legal document of a company as it define
 
 
 ## Tax
-The Income Tax Act of Singapore is the main governing statute for corporate taxation. The law provides for a single-tier corporate tax system. This means that tax paid by a company on its profits is the only tax on such income (i.e. dividends are tax-free to shareholders). A company does not pay taxes on capital gains or on foreign-sourced income that was already subjected to taxation overseas. Thus, the main tax a Singapore company should file is the corporate tax at the rate of 17%, which most often is significantly lower due to numerous tax incentives and tax exemptions available to Singapore-resident companies.
+The [Income Tax Act](https://sso.agc.gov.sg/Act/ITA1947) of Singapore is the main governing statute for corporate taxation. The law provides for a single-tier corporate tax system. This means that tax paid by a company on its profits is the only tax on such income (i.e. dividends are tax-free to shareholders). A company does not pay taxes on capital gains or on foreign-sourced income that was already subjected to taxation overseas. Thus, the main tax a Singapore company should file is the corporate tax at the rate of 17%, which most often is significantly lower due to numerous tax incentives and tax exemptions available to Singapore-resident companies.
 
 Singapore companies are required to complete their corporate tax returns by submitting annually two filings with IRAS (the Inland Revenue Authority of Singapore, the main government agency that levies and collects taxes in Singapore). These filings are as follows:
 
@@ -56,7 +56,8 @@ Companies are required to file a Corporate Income Tax Return with IRAS after sub
 ## Competition 
 All Singapore companies in the course of their activity must follow market-based competition regulations. This branch of law promotes and seeks to maintain market competition by regulating anti-competitive conduct by any business. Competition law is known also as “antitrust law” or "anti-monopoly law". The basic statute that regulates this field in Singapore is the Competition Act. The Act prevents unfair trade practices and restricts the formation of cartels and monopoly activity in trade.
 
-Restrictive agreements and practices are governed by the Competition Act, which is administered and enforced by the Competition and Consumer Commission of Singapore (CCCS) (formerly known as the Competition Commission of Singapore), a statutory body established under the Competition Act.
+Restrictive agreements and practices are governed by the [Competition Act](https://sso.agc.gov.sg/Act/CA2004), which is administered and enforced by the [Competition and Consumer Commission of Singapore (CCCS)](https://www.cccs.gov.sg/) (formerly known as the Competition Commission of Singapore), a statutory body established under the Competition Act.
+
 In order to achieve fair competition between market participants, the act prohibits companies from the following three basic activities:
 
 1. Agreements that have as their object (or result) the prevention, restriction or distortion of competition in Singapore.
@@ -82,19 +83,19 @@ Intellectual property (IP) refers to any man-made creation for which exclusive r
 
 **Patent Law**
 
-Singapore protects inventive designs and processes through the Patents Act. Singapore patents are protected internationally under the Patent Cooperation Treaty (PCT). Applications for patent protection in Singapore must be filed at the Intellectual Property Office of Singapore (IPOS). Application for patent protection overseas under the Patent Co-operation Treaty must also be filed at the IPOS. For applications for patent protection overseas filed by any person resident in Singapore, written authorisation must be obtained from the Registrar of Patents or a patent application must first be filed in Singapore.
+Singapore protects inventive designs and processes through the [Patents Act](https://sso.agc.gov.sg/Act/PA1994). Singapore patents are protected internationally under the [Patent Cooperation Treaty (PCT)](https://www.wipo.int/pct/en/). Applications for patent protection in Singapore must be filed at the [Intellectual Property Office of Singapore (IPOS)](https://www.ipos.gov.sg/). Application for patent protection overseas under the Patent Co-operation Treaty must also be filed at the IPOS. For applications for patent protection overseas filed by any person resident in Singapore, written authorisation must be obtained from the Registrar of Patents or a patent application must first be filed in Singapore.
 
 **Copyright Law**
 
-Singapore’s Copyright Act protects original works as varied as novels, computer programs, films, paintings, sheet music and performances. It does not include ideas, procedures, methods, discoveries because it is the expression, not the underlying idea or discovery, that is covered. The author, or owner, of copyrighted material has the exclusive right to publish, perform, broadcast or adapt the work. He or she can assign all or part of the rights to others, so long as the agreement is in writing. He or she can also license the work to others; the license need not be in writing and can be exclusive or non-exclusive. The protections Singapore affords through copyright and the length of those protections varies by the type of work it is. In general, copyright ownership belongs to the person who created the work. However, works created during the course of employment may be owned by the employer if the terms of employment provide that. Commissioned works belong to the individual or group that commissioned them.
+Singapore’s [Copyright Act](https://sso.agc.gov.sg/Act/CA1987) protects original works as varied as novels, computer programs, films, paintings, sheet music and performances. It does not include ideas, procedures, methods, discoveries because it is the expression, not the underlying idea or discovery, that is covered. The author, or owner, of copyrighted material has the exclusive right to publish, perform, broadcast or adapt the work. He or she can assign all or part of the rights to others, so long as the agreement is in writing. He or she can also license the work to others; the license need not be in writing and can be exclusive or non-exclusive. The protections Singapore affords through copyright and the length of those protections varies by the type of work it is. In general, copyright ownership belongs to the person who created the work. However, works created during the course of employment may be owned by the employer if the terms of employment provide that. Commissioned works belong to the individual or group that commissioned them.
 
 **Trademark Law**
 
-A trademark is a symbol, such as a brand name or logo that a business uses to distinguish its goods and services. In Singapore, you can register a trademark so that it is protected under the Trade Marks Act. Alternatively, you can seek protection without registering it under the common law right of “passing off.”
+A trademark is a symbol, such as a brand name or logo that a business uses to distinguish its goods and services. In Singapore, you can register a trademark so that it is protected under the [Trade Marks Act](https://sso.agc.gov.sg/Act/TMA1998). Alternatively, you can seek protection without registering it under the common law right of “passing off.”
 
 
 ## Data Protection 
-All Singapore companies are obliged to protect the Personal Data (PD) of their clients, employees, or any other individuals’ data the company may process. The two basic regulations that affect Singapore business in this area are the Personal Data Protection Act (PDPA) and the General Data Protection Regulation (GDPR).
+All Singapore companies are obliged to protect the Personal Data (PD) of their clients, employees, or any other individuals’ data the company may process. The two basic regulations that affect Singapore business in this area are the [Personal Data Protection Act (PDPA)](https://www.pdpc.gov.sg/Overview-of-PDPA/The-Legislation/Personal-Data-Protection-Act) and the [General Data Protection Regulation (GDPR)](https://www.pdpc.gov.sg/help-and-resources/2017/10/eu-gdpr).
 
 **Personal Data Protection Act (PDPA)**
 
