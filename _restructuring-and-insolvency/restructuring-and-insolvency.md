@@ -3,7 +3,8 @@ title: Legislation Related to Restructuring and Insolvency
 permalink: /restructuring-and-insolvency/legislation-related-to-restructuring-and-insolvency
 ---
 
-The personal and corporate insolvency and debt restructuring framework in Singapore is set out in the Insolvency, Restructuring and Dissolution Act 2018 (IRDA), which commenced on 30 Jul 2020.  
+The personal and corporate insolvency and debt restructuring framework in Singapore is set out in the [Insolvency, Restructuring and Dissolution Act 2018 (IRDA)](https://sso.agc.gov.sg/Acts-Supp/40-2018/Published/20181107?DocDate=20181107), which commenced on 30 Jul 2020.  
+
 The IRDA and its subsidiary legislation ensure that Singapore’s insolvency and restructuring laws remain progressive and modern, whilst balancing the interests of debtors, creditors and other stakeholders. Building on the Bankruptcy Act amendments in 2015 and Companies Act amendments in 2017 which enhanced Singapore’s personal insolvency and corporate rescue and debt restructuring frameworks respectively, the IRDA further strengthens Singapore’s insolvency and restructuring regime. 
 
 The IRDA introduced notable new features on corporate debt restructuring and insolvency, including:
@@ -14,9 +15,11 @@ The IRDA introduced notable new features on corporate debt restructuring and ins
 
 
 These enhancements to the corporate insolvency and restructuring framework will benefit businesses experiencing financial difficulties as well as their creditors, create new opportunities for insolvency professionals (including lawyers and accountants), distressed debt funds and financial institutions, and further strengthen Singapore’s position as an international centre for debt restructuring.
+
 The IRDA also establishes a new licensing and regulatory regime for insolvency practitioners. This regime requires insolvency practitioners to uphold professional standards when performing insolvency and debt restructuring work in Singapore.
-In response to the COVID-19 pandemic, amendments were introduced to the IRDA to establish the Simplified Insolvency Programme in January 2021. Administered by the Official Receiver, the programme provides two temporary bespoke processes for eligible financially distressed micro and small companies with a low-cost, faster and more efficient avenue to restructure their debts or wind up their businesses. Please refer to the following website for more information on the Simplified Insolvency Programme:
-	https://io.mlaw.gov.sg/corporate-insolvency/sip-faq/ 
+
+In response to the COVID-19 pandemic, amendments were introduced to the IRDA to establish the Simplified Insolvency Programme in January 2021. Administered by the Official Receiver, the programme provides two temporary bespoke processes for eligible financially distressed micro and small companies with a low-cost, faster and more efficient avenue to restructure their debts or wind up their businesses. Please click [here](https://io.mlaw.gov.sg/corporate-insolvency/sip-faq/) for more information on the Simplified Insolvency Programme.
+	
 
 
 
