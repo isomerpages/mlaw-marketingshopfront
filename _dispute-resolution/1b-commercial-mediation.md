@@ -43,7 +43,7 @@ The “Arb-Med-Arb” Protocol is a unique hybrid process where parties attempt 
 
 - Under the Singapore International Arbitration Centre (SIAC) - Singapore International Mediation Centre (SIMC) Arb-Med-Arb Protocol, the arbitrator(s) and the mediator(s) will be separately and independently appointed by SIAC and SIMC respectively, under the applicable arbitration rules and mediation rules of each institution. Unless the parties otherwise agree, the arbitrator(s) and the mediator(s) will generally be different persons.
 
-- Parties wishing to take advantage of this tiered dispute resolution mechanism as administered by SIAC and SIMC, may consider incorporating the [Singapore Arb-Med-Arb Clause](https://siac.org.sg/model-clauses/the-singapore-arb-med-arb-clause) in their contracts.
+- Parties wishing to take advantage of this tiered dispute resolution mechanism as administered by SIAC and SIMC, may consider incorporating the [Singapore Arb-Med-Arb Clause](https://simc.com.sg/dispute-resolution/arb-med-arb/) in their contracts.
 
 
 Click [here](*TOP) to return to the top
