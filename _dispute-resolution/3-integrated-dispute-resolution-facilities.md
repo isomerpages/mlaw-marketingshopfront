@@ -32,11 +32,4 @@ With effect from May 2020, Maxwell Chambers has entered into an International Ar
 
 Click [here](https://www.maxwellchambers.com/2020/09/01/maxwell-chambers-hybrid-and-virtual-hearing-solutions-video-in-collaboration-with-the-ministry-of-law/) for more information on the virtual and hybrid hearing facilities at Maxwell Chambers.
 
-
-#### Testimonials
-
-
-
-> _“I have sat as an arbitrator in a number of cases at Maxwell Chambers. I have found the facilities to be excellent. From the moment that one arrives at Maxwell Chambers, the staff make every effort to be helpful and are unfailingly cheerful and welcoming. The facilities in the hearing rooms are very good. The rooms are light and airy and have good acoustics. All in all, I have found Maxwell Chambers to be the equal of any other arbitration facilities at which I have heard cases, and far better than most.” **Peter Leaver QC (Arbitrator, One Essex Court)**_
-
 Source: [Maxwell Chambers website](https://www.maxwellchambers.com/)
