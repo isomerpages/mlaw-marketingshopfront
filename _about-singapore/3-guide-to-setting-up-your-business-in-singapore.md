@@ -1,13 +1,14 @@
 ---
-title: Overview of Singapore Business Laws
-permalink: /about-singapore/overview-of-singapore-business-laws
+title: Guide to Setting Up Your Business in Singapore
+permalink: /about-singapore/guide-to-setting-up-your-business-in-singapore
 ---
 
 (This is a draft write up)
 
-# Overview of Singapore Business Laws
-The following are basic legislative acts that affect all Singapore companies when they conduct business in the country.
+# Guide to Setting Up Your Business in Singapore
+For many years, the business world has regarded Singapore as a stable, thriving and efficient entry point into the Asian market. Singapore's strategic location at the crossroads of East and West has positioned the city-state as a major global business hub. Singapore’s location, infrastructure, workforce, legal system and business-friendly environment are fundamental factors attracting firms to set up business in Singapore.
 
+The following are basic legislative acts that may be of interest to parties keen on setting up business in Singapore.
 
 ## Setting up Business
 There are a few options foreign companies can choose from when setting up business in Singapore. 
