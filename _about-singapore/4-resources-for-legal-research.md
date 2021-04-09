@@ -1,10 +1,12 @@
 ---
-title: Research/Resources
-permalink: /about-singapore/research-resources/
+title: Resources for Legal Research
+permalink: /about-singapore/resources-for-legal-research/
 
 ---
 
-### Research/Resources
+### Resources for Legal Research
+
+For more information on Singapore legislation, you may wish to search via [Singapore Statutes Online](https://sso.agc.gov.sg/), a free service provided by the Legislation Division of the Attorney-General’s Chambers.
 
 [LawNet](https://www.lawnet.sg/lawnet/web/lawnet/home), a service of the Singapore Academy of Law, provides a complete suite of information for legal research.
 
@@ -33,4 +35,4 @@ A premium content section provides subscribers with specialised material for the
 
 To subscribe to the latest legal news, commentaries, judgements and other legal research materials, please refer to the [Singapore Law Watch](https://www.singaporelawwatch.sg/) by Singapore Academy of Law.
 
-For more information on Singapore legislation, you may wish to search via [Singapore Statutes Online](https://sso.agc.gov.sg/), a free service provided by the Legislation Division of the Attorney-General’s Chambers.
+
