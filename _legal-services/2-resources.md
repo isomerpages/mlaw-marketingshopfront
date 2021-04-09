@@ -5,7 +5,7 @@ permalink: /legal-services/resources
 
 **Legal services**
 
-Legal services such as patent application to safeguard innovative solutions or a non-disclosure agreement for confidentiality may be required for businesses.  To address demand for legal services, there are more than 900 law practices in Singapore, covering a range of practice areas including corporate and commercial law, and intellectual property law. The [Legal Service Regulatory Authority (LSRA)](https://eservices.mlaw.gov.sg/lsra/search-lawyer-or-law-firm/) offers an integrated search function listing all lawyers, individuals and law practice entities registered with the LRSA and/or the Supreme Court of Singapore. 
+To address demand for legal services, there are more than 1000 law practices in Singapore, covering a range of practice areas including corporate and commercial law, and intellectual property law. The [Legal Service Regulatory Authority (LSRA)](https://eservices.mlaw.gov.sg/lsra/search-lawyer-or-law-firm/) offers an integrated search function listing all lawyers, individuals and law practice entities registered with the LRSA and/or the Supreme Court of Singapore. 
 
 
 **Financial services**
