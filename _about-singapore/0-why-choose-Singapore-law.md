@@ -84,9 +84,9 @@ Click [here](#top) to return to the top
 
  - Singapore ranks 1st  in Asia and 12th  worldwide.
 
-[**Transparency International’s Corruption Perceptions Index 2019**](https://www.transparency.org/en/cpi/2019)
+[**Transparency International’s Corruption Perceptions Index 2020**](https://www.transparency.org/en/cpi/2020/)
 
-Singapore is the 4th  least corrupt country in the world, and the only Asian country in the top 10 countries in this ranking.
+Singapore is the 3rd  least corrupt country in the world, and the only Asian country in the top 10 countries in this ranking.
 
 [**World Bank Group’s Doing Business 2020**](https://www.doingbusiness.org/en/ranking)
 
@@ -94,6 +94,6 @@ Singapore is the 4th  least corrupt country in the world, and the only Asian cou
 
  - Singapore ranks 1st  globally in the “contract enforcement” variable, which measures the efficiency of a judicial system in resolving commercial disputes.
 
-[**World Economic Forum’s Global Competitiveness index 2019**](http://www3.weforum.org/docs/WEF_TheGlobalCompetitivenessReport2019.pdf)
+[**World Economic Forum’s Global Competitiveness index 2020**](http://www3.weforum.org/docs/WEF_TheGlobalCompetitivenessReport2020.pdf)
 
- - Singapore ranks 2nd  in the world for intellectual property protection
+ - Globally, Singapore ranks 3rd in digital legal framework, 6th in ICT adoption and 6th in digital skills.
