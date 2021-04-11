@@ -1,6 +1,6 @@
 ---
 title: About
-permalink: /about-singapore/our-legal-system/about
+permalink: /about-singapore/our-legal-system
 third_nav_title: Our Legal System
 ---
 
