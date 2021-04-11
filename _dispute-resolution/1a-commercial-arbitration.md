@@ -20,6 +20,8 @@ accordion:
     content: <br>The Singapore International Arbitration Centre is the first commercial arbitral institution to offer a stand-alone set of rules to address the special features and demands of arbitration proceedings involving States, State-controlled entities or intergovernmental organisations, whether arising out of a contract, statute, treaty or other instrument. The 1st edition of the SIAC Investment Arbitration Rules came into effect on 1 January 2017.
     
 ---
+Singapore is the most preferred arbitration seat in Asia, and the 3rd most preferred arbitration seat globally after London and Paris, based on the Queen Mary University of London (QMUL) International Arbitration Survey in 2018.
+
 {% include accordion.html %}  
 
 - [What is arbitration?](#what-is-arbitration)
