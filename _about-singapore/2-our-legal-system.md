@@ -1,6 +1,6 @@
 ---
-title: About
-permalink: /about-singapore/our-legal-system
+title: Our Legal System
+permalink: /about-singapore/our-legal-system/
 third_nav_title: Our Legal System
 ---
 
@@ -21,10 +21,9 @@ The roots of Singapore’s legal system can be traced back to the English legal 
 
 
 
+
+---
 ## Milestones in Singapore's Legal History ##
-
-
-
 accordion:
     
     
@@ -164,6 +163,7 @@ In 1993, the existing appellate court, which comprised the Court of Appeal and t
 
 
 The first Judges of Appeal to be appointed were Justice M Karthigesu and Justice L P Thean, both of whom were appointed as Judges of Appeal on 1 July 1993.
+---
 
 
 
@@ -171,8 +171,7 @@ The first Judges of Appeal to be appointed were Justice M Karthigesu and Justice
 
 
 
-
-**The Founding of Singapore and The First Charter of Justice Singapore**
+### <a name="the-founding-of-singapore-and-the-first-charter-of-justice-singapore"></a> The Founding of Singapore and The First Charter of Justice Singapore
 
 
 
@@ -185,7 +184,7 @@ The Founding of Singapore and The First Charter of Justice Singapore was founded
 
 
 
-**The Second Charter of Justice**
+### <a name="the-second-charter-of-justice"></a> The Second Charter of Justice
 
 
 
@@ -211,7 +210,7 @@ The Governor and the Resident Councillor acted as two judges of the court. The t
 
 
 
-**The Third Charter of Justice**
+### <a name="the-third-charter-of-justice"></a> The Third Charter of Justice
 
 
 
@@ -229,7 +228,7 @@ Under the Third Charter of Justice, the Court of Judicature was reorganised into
 
 
 
-**New Developments in the judicial system: 1868 - 1941**
+### <a name="new-developments-in-the-judicial-system"></a> New Developments in the judicial system: 1868 - 1941
 
 
 
@@ -272,7 +271,7 @@ The Court of Criminal Appeal Ordinance came into force on 1 September 1934 to pr
 
 
 
-**The Japanese Occupation**
+### <a name="the-japanese-occupation"></a> The Japanese Occupation
 
 
 
@@ -296,7 +295,7 @@ The Syonan Supreme Court or "Syonan Koto-Hoin" was opened on 29 May 1942. A cour
 
 
 
-**Developments during the Post-War Years Leading to Independence**
+### <a name="developments-during-the-post-war-years-leading-to-independence"></a> Developments during the Post-War Years Leading to Independence
 
 
 
@@ -329,7 +328,7 @@ Singapore's judicial system was altered once again following her merger with Mal
 
 
 
-**Post-Independence Developments**
+### <a name="post-independence-developments"></a> Post-Independence Developments
 
 
 
