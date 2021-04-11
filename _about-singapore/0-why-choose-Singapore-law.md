@@ -3,13 +3,6 @@ title: Why Choose Singapore Law
 permalink: /about-singapore/why-choose-Singapore-law/
 ---
 
- - **Transparent, neutral and predictable**
- - **Modern and relevant**
- - **International standards**
- - **Business-friendly framework**
- - **Respected judiciary**
- - **Fast and Cost-Efficient**
-
 
 ### Transparent, neutral and predictable
 
