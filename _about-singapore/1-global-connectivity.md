@@ -7,6 +7,8 @@ Singapore’s prime geographical location and stellar transportation and communi
 
 COVID-19 has undeniably affected international travel and exchanges. Singapore is committed to strengthen connectivity amidst COVID-19 disruptions and has formulated contigency plans to minimise impact.
 
+
+
 **Measures to address COVID-19 travel restrictions**
 
 To overcome travel restrictions due to the COVID-19 pandemic, virtual and hybrid hearing arrangements are available at the Maxwell Chambers and the Singapore International Commercial Court.
