@@ -6,7 +6,7 @@ permalink: /about-singapore/why-choose-Singapore-law/
 - [Transparent, neutral and predictable?](#transparent-neutral-and-predictable)
 - [Modern and relevant?](#modern-and-relevant)
 - [International standards?](#international-standards)
-- [Business-friendly framework?](#Business-friendly framework)
+- [Business-friendly framework?](#Business-friendly-framework)
 - [Respected judiciary?](#Respected-judiciary) 
 - [Fast and Cost-Efficient?](#Fast-and-Cost-Efficient) 
 
