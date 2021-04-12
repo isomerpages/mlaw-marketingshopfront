@@ -11,6 +11,7 @@ permalink: /about-singapore/why-choose-Singapore-law/
 - [Fast and Cost-Efficient?](#Fast-and-Cost-Efficient) 
 
 
+
 ### <a name="transparent-neutral-and-predictable"></a> Transparent, neutral and predictable
 
 > Singapore’s sound legal framework is underpinned by strong rule of
@@ -23,6 +24,7 @@ While rooted in the English law and practice, Singapore’s legal system and law
 Strongly associated with the strengths of the Singapore legal system, Singapore law is frequently adopted by contracting parties as a neutral choice of law, even if there is no connection between the parties or the transaction, and Singapore.
 
 Click [here](#top) to return to the top
+
 
 
 ### <a name="modern-and-relevant"></a> Modern and relevant
@@ -41,11 +43,13 @@ Against the backdrop of COVID-19 pandemic, here are some laws which may address 
 Click [here](#top) to return to the top
 
 
+
 ### <a name="international-standards"></a> International standards
 
 Singapore adheres to international commercial standards and has ratified many multilateral commercial law treaties, such as the Hague Convention on Choice of Court Agreements, the New York Convention on Recognition and Enforcement of Foreign Arbitral Awards, the Singapore Convention on Mediation,  the UN Convention on Contracts for the International Sale of Goods, the Protocol Relating to the Madrid Agreement Concerning the International Registration of Marks and various other international agreements.
 
 Click [here](#top) to return to the top
+
 
 
 ### <a name="business-friendly-framework"></a> Business-friendly framework
@@ -62,6 +66,7 @@ Singapore laws include an established and well-developed body of commercial laws
  Click [here](#top) to return to the top
  
  
+ 
 ### <a name="respected-judiciary"></a> Respected judiciary
 
 Singapore’s Supreme Court Judges are respected jurists with substantial expertise in adjudicating complex cross-border commercial disputes. Singapore has an established and developed body of jurisprudence with a strong foundation, and a legislative framework for commercial law that is modern and effective.
@@ -70,6 +75,8 @@ Singapore Courts interpreting Singapore law contracts will primarily look to the
 
 Click [here](#top) to return to the top
 
+
+
 ### <a name="fast-and-cost-efficient"></a> Fast and cost-efficient
 
 Resolving a commercial dispute through the Singapore Courts takes on average 164 days – less than half the time in New York and about a third of the time in London.
@@ -77,6 +84,8 @@ Resolving a commercial dispute through the Singapore Courts takes on average 164
 Singapore law provides clear ethical guidelines on legal fees in addition to judicial control over legal fees, generally leading to costs savings as compared to major centres such as London or New York.
 
 Click [here](#top) to return to the top
+
+
 
 ## INTERNATIONAL RANKINGS ##
 
