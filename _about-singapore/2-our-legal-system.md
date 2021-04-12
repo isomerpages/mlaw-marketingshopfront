@@ -4,7 +4,7 @@ permalink: /about-singapore/our-legal-system/
 ---
 
 
-### Singapore's Legal System
+## Singapore's Legal System
 
 The roots of Singapore’s legal system can be traced back to the English legal system and it has evolved over the years. Our sources of law are derived from our  [Constitution](https://sso.agc.gov.sg/Act/CONS1963),  [legislation](https://sso.agc.gov.sg/), subsidiary legislation (e.g. Rules and Regulations etc) and judge-made law.
 
@@ -22,7 +22,7 @@ The roots of Singapore’s legal system can be traced back to the English legal 
 
 
 ---
-### Milestones in Singapore's Legal History 
+## Milestones in Singapore's Legal History 
  
 
 ### <a name="the-founding-of-singapore-and-the-first-charter-of-justice-singapore"></a> The Founding of Singapore and The First Charter of Justice Singapore
