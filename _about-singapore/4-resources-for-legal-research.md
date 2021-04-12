@@ -4,7 +4,6 @@ permalink: /about-singapore/resources-for-legal-research/
 
 ---
 
-## Resources for Legal Research
 
 ### Singapore Statutes Online
 
