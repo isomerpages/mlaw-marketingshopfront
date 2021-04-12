@@ -3,9 +3,7 @@ title: Legal Tech Landscape in Singapore
 permalink: /other-legal-services/legal-tech-landscape-in-singapore/
 ---
 
-# Legal Tech Landscape in Singapore
-
-## A Global Hub for Legal Tech
+### A Global Hub for Legal Tech
 
 Singapore boasts the largest legaltech ecosystem in Southeast Asia with 25 LegalTech firms in 2019 [Note: I don’t have the latest figures]. 
 
@@ -13,7 +11,7 @@ Singapore’s legaltech ecosystem is at a mature stage of development, attribute
 
 The [Future Law Innovation Programme (FLIP)](https://www.flip.org.sg/) by the Singapore Academy of Law (SAL) aims to drive innovation and encourage adoption of new technology across the legal sector. It facilitated the use of dedicated co-working space to incubate legal technology start-ups.
 
-## Tech-celerate for Law
+### Tech-celerate for Law
 
 Tech-celerate for Law was a joint effort between the [Law Society of Singapore](https://www.lawsociety.org.sg/), the Ministry of Law, [Enterprise Singapore](https://www.enterprisesg.gov.sg/) and the [Infocomm Media Development Authority](https://www.imda.gov.sg/) to support Singapore law practices in their digitalisation journey. Through the Tech-celerate scheme, Singapore law practices were empowered to adopt both the baseline and advanced technology solutions required to upgrade their service offerings and deliver enhanced legal services. 
 
@@ -21,13 +19,13 @@ These solutions were pre-scoped by industry and technical experts to ensure rele
 
 [Note: pls take note of end date of Tech-celerate]
 
-## Tech.Pass
+### Tech.Pass
 
 A targeted programme to attract founders, leaders and technical experts with experience in established or fast-growing tech companies, so as to contribute to the development of Singapore’s tech ecosystem. Tech.Pass will allow pass holders flexibility in the participation of activities such as starting and operating a business, being an investor, employee, consultant or director in one or more Singapore-based companies, mentoring start-ups and lecturing at local universities.
 
 Click here to learn more about [Tech.Pass](https://www.edb.gov.sg/en/how-we-help/incentives-and-schemes/tech-pass.html).
 
-## Technology and Innovation Roadmap
+### Technology and Innovation Roadmap
 
 The Technology & Innovation Roadmap (TIR) is a sector-wide plan by the Ministry of Law (MinLaw) to promote innovation, technology adoption and development in Singapore’s legal industry up to 2030. It identifies technologies that will impact and change legal services, and explores ways to support development and adoption of such technologies. The roadmap is the result of a series of four inter-connected workshops conducted between April to October 2019, facilitated by the Agency for Science, Technology and Research (A * STAR) and brought together participants from across the legal industry and adjacent industries and disciplines.
 
