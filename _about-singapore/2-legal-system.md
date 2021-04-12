@@ -1,49 +1,18 @@
 ---
 title: Our Legal System
 permalink: /about-singapore/our-legal-system/
----
+accordion:
 
-
-## Singapore's Legal System
-
-The roots of Singapore’s legal system can be traced back to the English legal system and it has evolved over the years. Our sources of law are derived from our  [Constitution](https://sso.agc.gov.sg/Act/CONS1963),  [legislation](https://sso.agc.gov.sg/), subsidiary legislation (e.g. Rules and Regulations etc) and judge-made law.
-
--   The  **Constitution**  is the supreme law of the land and lays down the basic framework for the three organs of state, namely, the Executive, the Legislature and the Judiciary.
--   The  **Executive**  includes the  [Elected President](https://www.istana.gov.sg/), the  [Cabinet](https://www.pmo.gov.sg/the-cabinet)  and the  [Attorney-General](https://www.agc.gov.sg/). The President is elected by the people and is empowered to veto government budgets and appointments to public office. The Cabinet comprises the  [Prime Minister](https://www.pmo.gov.sg/)and Ministers appointed from among the Members of Parliament and is responsible for the general direction and control of the Government and is accountable to  [Parliament](https://www.parliament.gov.sg/). The Attorney-General is the principal legal advisor to the government and has the power and discretion to prosecute offenders.
--   The  **Legislature**  comprises the President and Parliament and is the legislative authority responsible for enacting legislation. Parliament is made up of elected, non-constituency and nominated Members of Parliament. The President’s assent is required for all bills passed by Parliament and he may in his discretion withhold assent to certain bills.
--   The  **Judiciary**  consists of the  [Supreme Court](https://www.supremecourt.gov.sg/)  and the  [State Courts](https://www.statecourts.gov.sg/)  and the head of the Judiciary is the Chief Justice. Judicial power in Singapore is vested in the Supreme Court and in such subordinate courts as may be provided for by any written law for the time being in force.
-
-  
-
-**Related Links**  
-[Other law-related agencies](https://www.mlaw.gov.sg/about-us/our-legal-system/queries-under-other-law-related-agencies/)
-
-
-
-
----
-## Milestones in Singapore's Legal History 
- 
-
-### <a name="the-founding-of-singapore-and-the-first-charter-of-justice-singapore"></a> The Founding of Singapore and The First Charter of Justice Singapore
-
-
-
-
-The Founding of Singapore and The First Charter of Justice Singapore was founded on 6 February 1819, when a treaty of friendship and alliance was signed by Sir Thomas Stamford Raffles, Sultan Hussein of Johor and Temenggong Abdu'r Rahman. In 1807, the Crown granted the East India Company the First Charter of Justice, which set up a Court of Judicature in Penang.
+  - title: The Founding of Singapore and The First Charter of Justice Singapore
+    content: <br>The Founding of Singapore and The First Charter of Justice Singapore was founded on 6 February 1819, when a treaty of friendship and alliance was signed by Sir Thomas Stamford Raffles, Sultan Hussein of Johor and Temenggong Abdu'r Rahman. In 1807, the Crown granted the East India Company the First Charter of Justice, which set up a Court of Judicature in Penang.
 
 
 
 
 
 
-
-### <a name="the-second-charter-of-justice"></a> The Second Charter of Justice
-
-
-
-
-In 1825, Statute 6 Geo IV c 85 was passed by the British Parliament, enabling the King to make provision for the administration of justice in the British colonies of Singapore and Malacca. These, together with the Prince of Wales' Island (now known as 'Penang') formed the Straits Settlements. 
+  - title: The Second Charter of Justice
+    content: <br>In 1825, Statute 6 Geo IV c 85 was passed by the British Parliament, enabling the King to make provision for the administration of justice in the British colonies of Singapore and Malacca. These, together with the Prince of Wales' Island (now known as 'Penang') formed the Straits Settlements. 
 
 
 
@@ -63,13 +32,8 @@ The Governor and the Resident Councillor acted as two judges of the court. The t
 
 
 
-
-### <a name="the-third-charter-of-justice"></a> The Third Charter of Justice
-
-
-
-
-The Third Charter of Justice of 12 August 1855 was granted to cope with the increase in the judicial workload which resulted from Singapore's rapid development. 
+  - title: The Third Charter of Justice
+    content: <br>The Third Charter of Justice of 12 August 1855 was granted to cope with the increase in the judicial workload which resulted from Singapore's rapid development. 
 
 
 
@@ -81,13 +45,8 @@ Under the Third Charter of Justice, the Court of Judicature was reorganised into
 
 
 
-
-### <a name="new-developments-in-the-judicial-system"></a> New Developments in the judicial system: 1868 - 1941
-
-
-
-
-The Judicial Duties Act of 1867 brought about further changes to our judicial system. The Governor of the Straits Settlements ceased to be a Judge of the Court of Judicature, although the Resident Councillors continued to sit under their new title of Lieutenant-Governors. 
+  - title: New Developments in the judicial system: 1868 - 1941
+    content: <br>The Judicial Duties Act of 1867 brought about further changes to our judicial system. The Governor of the Straits Settlements ceased to be a Judge of the Court of Judicature, although the Resident Councillors continued to sit under their new title of Lieutenant-Governors. 
 
 
 
@@ -124,13 +83,8 @@ The Court of Criminal Appeal Ordinance came into force on 1 September 1934 to pr
 
 
 
-
-### <a name="the-japanese-occupation"></a> The Japanese Occupation
-
-
-
-
-Our courts ceased to function when the Japanese invaded Singapore in 1942 and established a Military Court of Justice to administer Military Ordinances and the laws of the Japanese army.
+  - title: The Japanese Occupation
+    content: <br>Our courts ceased to function when the Japanese invaded Singapore in 1942 and established a Military Court of Justice to administer Military Ordinances and the laws of the Japanese army.
 
 
 
@@ -148,13 +102,8 @@ The Syonan Supreme Court or "Syonan Koto-Hoin" was opened on 29 May 1942. A cour
 
 
 
-
-### <a name="developments-during-the-post-war-years-leading-to-independence"></a> Developments during the Post-War Years Leading to Independence
-
-
-
-
-Following the surrender of the Japanese on 12 September 1945, Singapore was temporarily administered by the British Military Administration. The British Military Administration proclaimed that all Japanese Proclamations and Decrees ceased to have effect, and that "all laws and customs existing immediately prior to the Japanese occupation will be respected". 
+  - title: Developments during the Post-War Years Leading to Independence
+    content: <br>Following the surrender of the Japanese on 12 September 1945, Singapore was temporarily administered by the British Military Administration. The British Military Administration proclaimed that all Japanese Proclamations and Decrees ceased to have effect, and that "all laws and customs existing immediately prior to the Japanese occupation will be respected". 
 
 
 
@@ -181,13 +130,8 @@ Singapore's judicial system was altered once again following her merger with Mal
 
 
 
-
-### <a name="post-independence-developments"></a> Post-Independence Developments
-
-
-
-
-Although Singapore became independent on 9 August 1965, the ties between the judicial systems of Singapore and Malaysia were not severed until 1969. The Supreme Court of Judicature Act 1969, re-established the Supreme Court of Singapore, comprising the High Court, the Court of Appeal and the Court of Criminal Appeal. 
+  - title: Post-Independence Developments
+    content: <br>Although Singapore became independent on 9 August 1965, the ties between the judicial systems of Singapore and Malaysia were not severed until 1969. The Supreme Court of Judicature Act 1969, re-established the Supreme Court of Singapore, comprising the High Court, the Court of Appeal and the Court of Criminal Appeal. 
 
 
 
@@ -220,3 +164,30 @@ In 1993, the existing appellate court, which comprised the Court of Appeal and t
 The first Judges of Appeal to be appointed were Justice M Karthigesu and Justice L P Thean, both of whom were appointed as Judges of Appeal on 1 July 1993.
 
 (Source: Content is adapted from the websites of Ministry of Law and Supreme Court of Singapore)
+
+---
+
+
+## Singapore's Legal System
+
+The roots of Singapore’s legal system can be traced back to the English legal system and it has evolved over the years. Our sources of law are derived from our  [Constitution](https://sso.agc.gov.sg/Act/CONS1963),  [legislation](https://sso.agc.gov.sg/), subsidiary legislation (e.g. Rules and Regulations etc) and judge-made law.
+
+-   The  **Constitution**  is the supreme law of the land and lays down the basic framework for the three organs of state, namely, the Executive, the Legislature and the Judiciary.
+-   The  **Executive**  includes the  [Elected President](https://www.istana.gov.sg/), the  [Cabinet](https://www.pmo.gov.sg/the-cabinet)  and the  [Attorney-General](https://www.agc.gov.sg/). The President is elected by the people and is empowered to veto government budgets and appointments to public office. The Cabinet comprises the  [Prime Minister](https://www.pmo.gov.sg/)and Ministers appointed from among the Members of Parliament and is responsible for the general direction and control of the Government and is accountable to  [Parliament](https://www.parliament.gov.sg/). The Attorney-General is the principal legal advisor to the government and has the power and discretion to prosecute offenders.
+-   The  **Legislature**  comprises the President and Parliament and is the legislative authority responsible for enacting legislation. Parliament is made up of elected, non-constituency and nominated Members of Parliament. The President’s assent is required for all bills passed by Parliament and he may in his discretion withhold assent to certain bills.
+-   The  **Judiciary**  consists of the  [Supreme Court](https://www.supremecourt.gov.sg/)  and the  [State Courts](https://www.statecourts.gov.sg/)  and the head of the Judiciary is the Chief Justice. Judicial power in Singapore is vested in the Supreme Court and in such subordinate courts as may be provided for by any written law for the time being in force.
+
+  
+
+**Related Links**  
+[Other law-related agencies](https://www.mlaw.gov.sg/about-us/our-legal-system/queries-under-other-law-related-agencies/)
+
+
+
+
+---
+## Milestones in Singapore's Legal History 
+{% include accordion.html %}  
+
+
+
