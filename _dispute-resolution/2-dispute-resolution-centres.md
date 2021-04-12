@@ -8,9 +8,9 @@ Singapore’s dispute resolution regime is open and transparent, and parties hav
 
 ## COMMERCIAL ARBITRATION 
 
-#### [Singapore International Arbitration Centre](https://www.siac.org.sg/)
+### Singapore International Arbitration Centre
 
-The Singapore International Arbitration Centre (SIAC) is an independent, not-for-profit organisation with an established track record for providing best-in-class
+The [Singapore International Arbitration Centre (SIAC)](https://www.siac.org.sg/) is an independent, not-for-profit organisation with an established track record for providing best-in-class
 arbitration services, priced highly competitively, to the global business community.
 
 SIAC’s Board of Directors and Court of Arbitration consist of eminent lawyer and professionals from all around the world. It has an experienced international panel
@@ -27,9 +27,9 @@ The highest sum in dispute for a single administered case at SIAC was SGD 5.02 b
 SIAC set a new record in 2020, with 1005 new cases as of 30 October 2020, which included two sets of related cases. This is the first time SIAC’s caseload has crossed the 1000-case threshold.
 
 
-### [Singapore Chamber of Maritime Arbitration](https://www.scma.org.sg/)
+### Singapore Chamber of Maritime Arbitration
 
-The Singapore Chamber of Maritime Arbitration provides a framework for maritime arbitration that is responsive to the needs of industry users. Its global and regional members hail from all sectors of maritime, trade and arbitration communities. SCMA attracts disputants in the region by providing tailored solutions to suit the region’s interests.
+The [Singapore Chamber of Maritime Arbitration](https://www.scma.org.sg/) provides a framework for maritime arbitration that is responsive to the needs of industry users. Its global and regional members hail from all sectors of maritime, trade and arbitration communities. SCMA attracts disputants in the region by providing tailored solutions to suit the region’s interests.
 
 The Secretariat helms the promotion and development of SCMA across the region. The Secretariat also leads educational and training symposiums to foster thought leadership and encourage pragmatic solutions for maritime and trade businesses.
 
@@ -40,9 +40,9 @@ As part of SCMA’s commitment to meet the needs of its members and users, in 20
 
 ## COMMERCIAL MEDIATION 
 
-### [Singapore International Mediation Centre](https://simc.com.sg/) 
+### Singapore International Mediation Centre
 
-The Singapore International Mediation Centre (SIMC) is a not-for-profit organisation that offers professional dispute resolution services tailored to the evolving needs of businesses in Asia. SIMC works across multiple jurisdictions covering both common and civil law traditions. Its panel of over 70 international independent mediators have extensive experience resolving cross-border disputes and are highly regarded for delivering successful outcomes in complex, high-stakes commercial disputes. 
+The [Singapore International Mediation Centre (SIMC)](https://simc.com.sg/) is a not-for-profit organisation that offers professional dispute resolution services tailored to the evolving needs of businesses in Asia. SIMC works across multiple jurisdictions covering both common and civil law traditions. Its panel of over 70 international independent mediators have extensive experience resolving cross-border disputes and are highly regarded for delivering successful outcomes in complex, high-stakes commercial disputes. 
 
 SIMC has a successful settlement rate that ranges between 70 and 80 per cent.  As an institutional provider of mediation, SIMC provides end-to-end case management to facilitate successful outcomes for parties.  The mediations may be conducted in-person in Singapore or overseas, and also online across multiple time-zones. SIMC is a designated mediation service provider under the Singapore Mediation Act 2017, under which its mediated settlement agreements may be recorded as court orders.
 
@@ -51,9 +51,9 @@ Note: To explore possiblity of featuring successful case studies and testimonial
 [Example of case study](https://www-ipos-gov-sg-admin.cwp.sg/docs/default-source/protecting-your-ideas/hearings-mediation/successful-simc-mediation-cases.pdf)
 
 
-### [Singapore Mediation Centre](https://www.mediation.com.sg/) 
+### Singapore Mediation Centre 
 
-The Singapore Mediation Centre (SMC) is one of Singapore’s leading providers of alternative dispute resolution services. This includes its core services of mediation, adjudication, neutral evaluation, and resolving disputes involving families, infrastructure projects and Internet domain names.
+The [Singapore Mediation Centre (SMC)](https://www.mediation.com.sg/) is one of Singapore’s leading providers of alternative dispute resolution services. This includes its core services of mediation, adjudication, neutral evaluation, and resolving disputes involving families, infrastructure projects and Internet domain names.
 
 SMC has mediated more than 4,500 matters worth over S$10 billion since its launch on 16 August 1997. About 70% of SMC’s cases are settled with 90% of them resolved within one day, attesting to the effectiveness of mediation. SMC is one of four designated mediation service providers under the Singapore Mediation Act 2017, which means that mediation settlements administered by SMC can be converted into a court order that is immediately enforceable.
 
@@ -62,9 +62,9 @@ Note: To explore possiblity of featuring successful case studies and testimonial
 
 ## COMMERCIAL LITIGATION 
 
-### [Singapore International Commercial Court](https://www.sicc.gov.sg/)
+### Singapore International Commercial Court
 
-The Singapore International Commercial Court (SICC) is a division of the General Division of the Singapore High Court. It offers court-based adjudication of international commercial disputes, even when such disputes have no connection with Singapore and are not governed by Singapore law. It is a superior court of law built on the foundations of a legal and judicial system that has been highly regarded and favourably ranked in international surveys.
+The [Singapore International Commercial Court (SICC)](https://www.sicc.gov.sg/) is a division of the General Division of the Singapore High Court. It offers court-based adjudication of international commercial disputes, even when such disputes have no connection with Singapore and are not governed by Singapore law. It is a superior court of law built on the foundations of a legal and judicial system that has been highly regarded and favourably ranked in international surveys.
 
 Note: To explore possiblity of featuring successful case studies and testimonials, through links to a pdf or specific pages on SICC website.
 [Example of case study](/files/sicc-testimonials-case-studies.pdf)
