@@ -1,7 +1,6 @@
 ---
 title: Legal System
 permalink: /about-singapore/legal-system/
-third_nav_title: Legal system
 accordion:
 
   - title: The Founding of Singapore and The First Charter of Justice Singapore
