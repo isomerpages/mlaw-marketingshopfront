@@ -43,9 +43,6 @@ The roots of Singapore’s legal system can be traced back to the English legal 
 [Other law-related agencies](https://www.mlaw.gov.sg/about-us/our-legal-system/queries-under-other-law-related-agencies/)
 
 
-
-
----
 ## Milestones in Singapore's Legal History 
 
 {% include accordion.html %}  
