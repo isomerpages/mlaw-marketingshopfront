@@ -10,7 +10,11 @@ For many years, the business world has regarded Singapore as a stable, thriving 
 The following are basic legislative acts that may be of interest to parties keen on setting up business in Singapore.
 
 ### Setting up Business
-There are a few options foreign companies can choose from when setting up business in Singapore. 
+There are a few options foreign companies can choose from when setting up business in Singapore.
+
+**Financial services**
+
+The [MAS](https://www.mas.gov.sg/) website provides an overview on the finance landscape here. Most businesses start with opening a corporate bank account.  In Singapore, established local banks operate alongside international brand names. Different banks offer their own unique set of advantages. To choose the right bank for your business, refer to [MAS’ financial instituitions directory](https://eservices.mas.gov.sg/fid) for a list of local and international banks operating in Singapore.
 
 **Branch of Foreign Company**
 
