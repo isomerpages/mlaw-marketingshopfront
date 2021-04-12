@@ -41,11 +41,6 @@ A premium content section provides subscribers with specialised material for the
 - State Courts’ Sentencing Information & Research Repository (SIR)
 - Supreme Court’s Taxation database
 
-### Singapore Academy of Law
-
-The [Singapore Academy of Law (SAL)](https://www.sal.org.sg/) is a promotion and development agency for Singapore’s legal industry. It serves as a knowledge hub for the legal community, providing practitioners with world-class information and insights that underpin excellence in Singapore law. 
-
-SAL acquires and curates knowledge and disseminate it through multiple platforms on a daily, weekly and monthly basis. 
 
 ### Singapore Law Watch
 
