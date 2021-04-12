@@ -97,7 +97,7 @@ Click [here](#top) to return to the top
 
 Singapore is the 3rd  least corrupt country in the world, and the only Asian country in the top 10 countries in this ranking.
 
-[**World Bank Group’s Doing Business 2020**](https://www.doingbusiness.org/en/ranking)
+[**World Bank Group’s Doing Business 2020**](https://www.doingbusiness.org/en/rankings)
 
  - Singapore ranks 2nd  in the world for ease of doing business.
 
