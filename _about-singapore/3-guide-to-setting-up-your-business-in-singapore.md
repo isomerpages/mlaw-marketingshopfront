@@ -5,12 +5,11 @@ permalink: /about-singapore/guide-to-setting-up-your-business-in-singapore
 
 (This is a draft write up)
 
-# Guide to Setting Up Your Business in Singapore
 For many years, the business world has regarded Singapore as a stable, thriving and efficient entry point into the Asian market. Singapore's strategic location at the crossroads of East and West has positioned the city-state as a major global business hub. Singapore’s location, infrastructure, workforce, legal system and business-friendly environment are fundamental factors attracting firms to set up business in Singapore.
 
 The following are basic legislative acts that may be of interest to parties keen on setting up business in Singapore.
 
-## Setting up Business
+### Setting up Business
 There are a few options foreign companies can choose from when setting up business in Singapore. 
 
 **Branch of Foreign Company**
@@ -24,7 +23,7 @@ An RO can be registered in Singapore as a temporary arrangement for conducting m
 Click to find additional information and related government agencies (link to pdf)
 
 
-## Employment
+### Employment
 The main laws governing employment law in Singapore are the:
 
 
@@ -40,7 +39,7 @@ The **Employment Act** covers all employees (excluding public servants, domestic
 The employment contract is an important legal document of a company as it defines the relationship between the employer and the employee. The general principles of contract law in Singapore are applicable to this contract. Like all contracts entered into by parties in Singapore, the employment contract is enforceable by law. Typically, the contract defines details such as employee’s scope of work, salary details, overtime payment, rest days, leaves etc. The Employment Act guarantees certain benefits to employees. These benefits include annual paid leaves, sick leaves, maternity benefits, paid public holidays etc. Employers must ensure that they fulfil all such requirements in the Act and also draft the terms of the contract accordingly.
 
 
-## Tax
+### Tax
 The [Income Tax Act](https://sso.agc.gov.sg/Act/ITA1947) of Singapore is the main governing statute for corporate taxation. The law provides for a single-tier corporate tax system. This means that tax paid by a company on its profits is the only tax on such income (i.e. dividends are tax-free to shareholders). A company does not pay taxes on capital gains or on foreign-sourced income that was already subjected to taxation overseas. Thus, the main tax a Singapore company should file is the corporate tax at the rate of 17%, which most often is significantly lower due to numerous tax incentives and tax exemptions available to Singapore-resident companies.
 
 Singapore companies are required to complete their corporate tax returns by submitting annually two filings with IRAS (the Inland Revenue Authority of Singapore, the main government agency that levies and collects taxes in Singapore). These filings are as follows:
@@ -54,7 +53,7 @@ All Singapore companies must file their Estimated Chargeable Income (ECI) within
 Companies are required to file a Corporate Income Tax Return with IRAS after submitting the ECI. The deadline is either November 30 for paper filing or December 15 for e-filing. The Income Tax Return provides a calculation of the actual tax that is to be paid to the tax authority. Companies must file their tax returns in any year based on the profits in the preceding year.
 
 
-## Competition 
+### Competition 
 All Singapore companies in the course of their activity must follow market-based competition regulations. This branch of law promotes and seeks to maintain market competition by regulating anti-competitive conduct by any business. Competition law is known also as “antitrust law” or "anti-monopoly law". The basic statute that regulates this field in Singapore is the Competition Act. The Act prevents unfair trade practices and restricts the formation of cartels and monopoly activity in trade.
 
 Restrictive agreements and practices are governed by the [Competition Act](https://sso.agc.gov.sg/Act/CA2004), which is administered and enforced by the [Competition and Consumer Commission of Singapore (CCCS)](https://www.cccs.gov.sg/) (formerly known as the Competition Commission of Singapore), a statutory body established under the Competition Act.
@@ -79,7 +78,7 @@ Typical examples of conduct that may be considered an “abuse of a dominant pos
 The law prohibits mergers or acquisitions that result in a substantial lessening of competition within any of the goods or services markets. However, certain mergers are excluded from these restrictions. These include transactions that are approved by regulatory authorities, are under the jurisdiction of any regulatory authority, belong to specified activities set out in the law (such as services of general economic interest which result in economic efficiencies that outweigh their adverse effects), etc.
 
 
-## Intellectual Property
+### Intellectual Property
 Intellectual property (IP) refers to any man-made creation for which exclusive rights are recognized by the government. In Singapore, there are three mechanisms by which IP rights can be registered: a patent, a copyright or a trademark.
 
 **Patent Law**
