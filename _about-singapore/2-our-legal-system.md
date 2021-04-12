@@ -1,7 +1,7 @@
 ---
-title: Legal System
-permalink: /about-singapore/legal-system/
-third_nav_title: Legal System
+title: Our Legal System
+permalink: /about-singapore/our-legal-system/
+third_nav_title: Our Legal System
 accordion:
 
   - title: The Founding of Singapore and The First Charter of Justice Singapore
@@ -47,6 +47,7 @@ The roots of Singapore’s legal system can be traced back to the English legal 
 
 ---
 ## Milestones in Singapore's Legal History 
+
 {% include accordion.html %}  
 
 
