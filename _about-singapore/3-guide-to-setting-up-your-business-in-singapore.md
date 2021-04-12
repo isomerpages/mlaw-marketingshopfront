@@ -94,7 +94,7 @@ Singapore’s [Copyright Act](https://sso.agc.gov.sg/Act/CA1987) protects origin
 A trademark is a symbol, such as a brand name or logo that a business uses to distinguish its goods and services. In Singapore, you can register a trademark so that it is protected under the [Trade Marks Act](https://sso.agc.gov.sg/Act/TMA1998). Alternatively, you can seek protection without registering it under the common law right of “passing off.”
 
 
-## Data Protection 
+### Data Protection 
 All Singapore companies are obliged to protect the Personal Data (PD) of their clients, employees, or any other individuals’ data the company may process. The two basic regulations that affect Singapore business in this area are the [Personal Data Protection Act (PDPA)](https://www.pdpc.gov.sg/Overview-of-PDPA/The-Legislation/Personal-Data-Protection-Act) and the [General Data Protection Regulation (GDPR)](https://www.pdpc.gov.sg/help-and-resources/2017/10/eu-gdpr).
 
 **Personal Data Protection Act (PDPA)**
@@ -107,7 +107,7 @@ PDPA relies on two main pillars for protecting consumers: the Do Not Call (DNC) 
 
 GDPR is a European Union regulation on data protection and privacy. The document has extraterritorial implications, i.e. it also applies to companies that are not residents of any of the EU states. The GDPR applies to companies that are registered outside the EU but collect or process the PD of persons (residents) of the EU. So if your Singapore company collects and processes PD of clients, employees, or other persons who are residents of the EU, you must comply with the GDPR requirements.
 
-## Sources:
+### Sources:
 1.	https://www.corporateservices.com/singapore/business-laws-of-singapore/#taxes
 2.	https://www.startupdecisions.com.sg/singapore/business-laws/#:~:text=All%20Singapore%20companies%20must%20comply,they%20will%20not%20be%20enforceable.
 3.	https://uk.practicallaw.thomsonreuters.com/4-524-0309?transitionType=Default&contextData=(sc.Default)&firstPage=true  
