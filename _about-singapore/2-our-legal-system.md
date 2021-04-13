@@ -23,10 +23,9 @@ accordion:
 
   - title: Post-Independence Developments
     content: <br>Although Singapore became independent on 9 August 1965, the ties between the judicial systems of Singapore and Malaysia were not severed until 1969. The Supreme Court of Judicature Act 1969, re-established the Supreme Court of Singapore, comprising the High Court, the Court of Appeal and the Court of Criminal Appeal. <br>Jury trials were abolished in 1969, by an amendment to the Criminal Procedure Code which provided for trials of capital offences to be heard by two judges. This arrangement continued until 18 April 1992, when the Criminal Procedure Code was amended to allow for trials of capital offences to be heard before a single Judge.<br>The next important milestone for Singapore's judicial system was the introduction of Judicial Commissioners to the Supreme Court Bench, with the first Judicial Commissioner, Mr Chan Sek Keong, being appointed on 1 July 1986. A Judicial Commissioner is appointed for specific periods of time and may exercise the powers and perform the functions of a Judge. In this capacity, he enjoys the same immunities as a Judge.<br>On 28 September 1990, Mr Wee Chong Jin retired as Chief Justice, and Mr Yong Pung How, took over as the head of the Judiciary.<br>The first female to be appointed to the Supreme Court Bench was Ms Lai Siu Chiu, who was appointed a Judicial Commissioner on 2 May 1991. Thereafter, Ms Judith Prakash was appointed a Judicial Commissioner on 1 April 1992. They were appointed Judges of the High Court on 2 May 1994 and 1 April 1995 respectively. <br>In 1993, the existing appellate court, which comprised the Court of Appeal and the Court of Criminal Appeal, was reconstituted into a single Court of Appeal for both civil and criminal appeals. The present Court of Appeal normally comprises the Chief Justice and the Judges of Appeal, who rank above the High Court judges. A Judge of the High Court may also, on the request of the Chief Justice, sit as a Judge of the Court of Appeal.<br>The first Judges of Appeal to be appointed were Justice M Karthigesu and Justice L P Thean, both of whom were appointed as Judges of Appeal on 1 July 1993.<br>(Source: Content is adapted from the websites of Ministry of Law and Supreme Court of Singapore)
-
 ---
 
-{% include accordion.html %}  
+
 
 ## Singapore's Legal System
 
