@@ -6,6 +6,11 @@ accordion:
   - title: The Founding of Singapore and The First Charter of Justice Singapore
     content: <br>The Founding of Singapore and The First Charter of Justice Singapore was founded on 6 February 1819, when a treaty of friendship and alliance was signed by Sir Thomas Stamford Raffles, Sultan Hussein of Johor and Temenggong Abdu'r Rahman. In 1807, the Crown granted the East India Company the First Charter of Justice, which set up a Court of Judicature in Penang.
 
+
+  - title: The Second Charter of Justice
+    content: <br>In 1825, Statute 6 Geo IV c 85 was passed by the British Parliament, enabling the King to make provision for the administration of justice in the British colonies of Singapore and Malacca. These, together with the Prince of Wales' Island (now known as 'Penang') formed the Straits Settlements. <br>The Second Charter of Justice was issued on 27 November 1826. This Charter abolished the Recorder's Court, which served only the Prince of Wales' Island, and established the Court of Judicature of Prince of Wales' Island, Singapore and Malaya.<br>In criminal proceedings, the court was "to administer criminal justice in such Manner and Form" as the courts in England, with "due attention being (given) to the several Religions, Manners and Usages of the native Inhabitants". The court was to "give and pass Judgment and Sentence according to Justice and Right" in civil proceedings. <br>The Governor and the Resident Councillor acted as two judges of the court. The third judge was the Recorder, who was based on the Prince of Wales' Island and had to travel on circuit to Malacca and Singapore from his home base. He was assisted in his duties by the Resident Councillors and the Governor, who sat as lay Judges.
+
+
 ---
 
 
