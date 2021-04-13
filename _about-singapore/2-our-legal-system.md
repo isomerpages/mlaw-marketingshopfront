@@ -26,6 +26,7 @@ accordion:
 
 ---
 
+{% include accordion.html %}  
 
 ## Singapore's Legal System
 
