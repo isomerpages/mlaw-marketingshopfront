@@ -2,7 +2,6 @@
 title: Our Legal System
 permalink: /about-singapore/our-legal-system/
 accordion:
-
   - title: The Founding of Singapore and The First Charter of Justice Singapore
     content: <br>The Founding of Singapore and The First Charter of Justice Singapore was founded on 6 February 1819, when a treaty of friendship and alliance was signed by Sir Thomas Stamford Raffles, Sultan Hussein of Johor and Temenggong Abdu'r Rahman. In 1807, the Crown granted the East India Company the First Charter of Justice, which set up a Court of Judicature in Penang.
 
