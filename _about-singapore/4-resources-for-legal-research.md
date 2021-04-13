@@ -4,8 +4,6 @@ permalink: /about-singapore/resources-for-legal-research/
 
 ---
 
-A*star 
-
 ### Singapore Statutes Online
 
 [Singapore Statutes Online](https://sso.agc.gov.sg/) is a free service provided by the Legislation Division of the Attorney-General’s Chambers and provides information on Singapore legislation. It contains the following:
