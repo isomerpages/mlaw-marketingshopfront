@@ -39,6 +39,8 @@ does not have a separate legal personality from its partners. While an individua
 general partner will be responsible for the actions of the LP and is liable for all its debts and obligations. The limited partner will not be liable for the LP’s debts and obligations beyond an agreed contribution, unless the partner took part in its management.
 
 
+The following are basic legislative acts that may be of interest to parties keen on setting up business in Singapore.
+
 ### Setting up Business
 There are a few options foreign companies can choose from when setting up business in Singapore.
 
