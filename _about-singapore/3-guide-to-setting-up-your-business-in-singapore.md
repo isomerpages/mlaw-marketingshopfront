@@ -7,7 +7,37 @@ permalink: /about-singapore/guide-to-setting-up-your-business-in-singapore
 
 For many years, the business world has regarded Singapore as a stable, thriving and efficient entry point into the Asian market. Singapore's strategic location at the crossroads of East and West has positioned the city-state as a major global business hub. Singapore’s location, infrastructure, workforce, legal system and business-friendly environment are fundamental factors attracting firms to set up business in Singapore.
 
-The following are basic legislative acts that may be of interest to parties keen on setting up business in Singapore.
+**Reasons for setting up business in Singapore:
+
+- Ease of doing business
+The World Bank has consistently ranked Singapore as the best country in Asia, and second best globally, to do business. 
+
+- Gateway to Asia
+Singapore offers extensive connectivity and has strong business cultural and linguistics links to the emerging Southeast Asian market. Home to more than 600 million people, of which 70 per cent are below the age of 40, ASEAN is on of the world’s largest untapped economies. 
+
+- Stability 
+The 2017 Euromoney Country Risk Survey ranked Singapore first for having the most stable political climate, with lowest sovereign risk globally. Singapore topped the ranks again for the Economist Intelligence Unit’s 2018 projection of the best business environment worldwide for the next five years. Singapore has held this position since 2013.
+
+**Types of local entity structures**
+
+*Sole Proprietorship*
+A sole proprietorship is a business owned by one person or one company.The sole proprietor has absolute say, but also unlimited liability, in the running of the business.
+
+*Partnership*
+A partnership is a business formed by at least two, or a maximum of 20, partners.Partners have unlimited liability, and will be personally liable for the partnership’s debts and losses incurred by other partners. Partners can also sue or be sued in the firm’s name, and cannot own property in the firm’s name.
+
+*Company*
+A company is a business entity registered under the Companies Act, Chapter 50. It has a legal personality (i.e. the rights to own properties, perpetual succession,and can sue or be sued in its own name). In contrast to sole proprietorships and partnerships, members of a company are not personally liable for debts and losses of a company. Companies tend to have higher set-up and maintenancecosts. Annual returns must also be filed. There are three types of companies:
+Exempt Private Company - 20 members or less and no corporation holds beneficial interest in the company’s shares. Private Company - 50 members or less. Public Company - more than 50 members.
+
+*Limited liability partnership*
+A Limited Liability Partnership (LLP) gives owners the flexibility of operating as a partnership, while having a separate legal identity like that of a private limited company. Since the LLP has a legal personality separate from its partners, the partners of the LLP will not be held personally liable for any business debts incurred by the LLP. Registration costs are lower than that of a company, and there are fewer formalities and procedures to comply with. However, an LLP still needs to keep accounting records, profit and loss accounts, and balance sheets that sufficiently explain its transactions and financial position.
+
+*Limited partnership*
+A Limited Partnership (LP) consists of a minimum of two partners, with at least one general partner and at least one limited partner. In contrast to an LLP, an LP
+does not have a separate legal personality from its partners. While an individual or a corporation may be a general partner or a limited partner of the LP, the
+general partner will be responsible for the actions of the LP and is liable for all its debts and obligations. The limited partner will not be liable for the LP’s debts and obligations beyond an agreed contribution, unless the partner took part in its management.
+
 
 ### Setting up Business
 There are a few options foreign companies can choose from when setting up business in Singapore.
