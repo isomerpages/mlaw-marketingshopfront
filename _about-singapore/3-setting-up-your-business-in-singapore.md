@@ -1,11 +1,11 @@
 ---
-title: Guide to Setting Up Your Business in Singapore
-permalink: /about-singapore/guide-to-setting-up-your-business-in-singapore
+title: Setting Up Your Business in Singapore
+permalink: /about-singapore/setting-up-your-business-in-singapore
 ---
 
-(This is a draft write up)
+[This is a draft write up.]
 
-For many years, the business world has regarded Singapore as a stable, thriving and efficient entry point into the Asian market. Singapore's strategic location at the crossroads of East and West has positioned the city-state as a major global business hub. Singapore’s location, infrastructure, workforce, legal system and business-friendly environment are fundamental factors attracting firms to set up business in Singapore.
+For many years, the business world has regarded Singapore as a stable, thriving and efficient entry point into the Asian market. Singapore's strategic location at the crossroads of East and West has positioned the city-state as a major global business hub, and with its robust economy and strong talent pool, Singapore offers businesses the ideal landscape to invest with confidence.
 
 **Reasons for setting up business in Singapore:**
 
@@ -44,9 +44,6 @@ The following are basic legislative acts that may be of interest to parties keen
 ### Setting up Business
 There are a few options foreign companies can choose from when setting up business in Singapore.
 
-**Financial services**
-
-The [MAS](https://www.mas.gov.sg/) website provides an overview on the finance landscape here. Most businesses start with opening a corporate bank account.  In Singapore, established local banks operate alongside international brand names. Different banks offer their own unique set of advantages. To choose the right bank for your business, refer to [MAS’ financial instituitions directory](https://eservices.mas.gov.sg/fid) for a list of local and international banks operating in Singapore.
 
 **Branch of Foreign Company**
 
@@ -56,7 +53,7 @@ A business entity that could be set up is a branch of a foreign company. Unlike 
 
 An RO can be registered in Singapore as a temporary arrangement for conducting market research and feasibility studies. The key benefit of an RO: it allows a foreign entity to assess Singapore’s business environment before setting up permanently. As an RO cannot generate income or solicit business, it will not have to pay taxes. An RO that decides to continue its presence in Singapore should register as a legal business with ACRA and, if necessary, obtain the relevant licence to perform any regulated activity. To open an RO in the manufacturing, international trade, wholesale, trade and trade-related business sectors, approach Enterprise Singapore (ESG). To register an RO in the legal sector, visit the [Legal Services Regulatory Authority (LSRA)](https://eservices.mlaw.gov.sg/lsra/search-lawyer-or-law-firm/), a department under the Ministry of Law. A bank or insurance company should approach the [Monetary Authority of Singapore (MAS)](https://www.mas.gov.sg/regulation/Banking/set-up-bank-representative-office) to discuss their plans for an RO. 
 
-Click to find additional information and related government agencies (link to pdf)
+Click [here](files/edb-guide-to-setting-up-business-in-singapore-2019.pdf) for more information and to learn more about the government agencies involved.
 
 
 ### Employment
