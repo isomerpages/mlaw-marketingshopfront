@@ -7,7 +7,7 @@ permalink: /about-singapore/setting-up-your-business-in-singapore
 
 For many years, the business world has regarded Singapore as a stable, thriving and efficient entry point into the Asian market. Singapore's strategic location at the crossroads of East and West has positioned the city-state as a major global business hub, and with its robust economy and strong talent pool, Singapore offers businesses the ideal landscape to invest with confidence.
 
-**Reasons for setting up business in Singapore:**
+**Reasons for setting up business in Singapore**
 
 - Ease of doing business
 The World Bank has consistently ranked Singapore as the best country in Asia, and second best globally, to do business. 
