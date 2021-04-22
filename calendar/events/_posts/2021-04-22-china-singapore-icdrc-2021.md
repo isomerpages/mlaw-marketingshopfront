@@ -1,7 +1,7 @@
 ---
 layout: post
 title: China-Singapore International Commercial Dispute Resolution Conference 2021
-date: 2021-06-22
+date: 2021-04-22
 permalink: /calendar/events/china-singapore-icdrc-2021/
 ---
 
