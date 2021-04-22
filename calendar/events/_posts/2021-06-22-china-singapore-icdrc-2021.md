@@ -11,4 +11,4 @@ The China-Singapore International Commercial Dispute Resolution Conference will 
 
 To view the conference website in English, please click [here](https://mlaw-ccpit-staging.netlify.app/).
 
-To view the conference in Chinese, please click [here](https://mlaw-ccpit-cn-staging.netlify.app/).
+To view the conference website in Chinese, please click [here](https://mlaw-ccpit-cn-staging.netlify.app/).
