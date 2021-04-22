@@ -7,4 +7,4 @@ permalink: /calendar/events/singapore-convention-week-2021/
 
 The Singapore Convention Week will feature a series of events related to dispute resolution.
 
-For information, please refer to this [link](https://www.singaporeconvention.org/singapore-convention-week/).
+For more information, please refer to this [link](https://www.singaporeconvention.org/singapore-convention-week/).
