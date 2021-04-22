@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tech.Law Fest
+title: TechLaw.Fest
 date: 2020-10-02
 permalink: /calendar/events/tech-law-fest/
 ---
