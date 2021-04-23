@@ -2,7 +2,7 @@
 layout: post
 title: China-Singapore International Commercial Dispute Resolution Conference 2021
 date: 2021-04-22
-permalink: /calendar/events/china-singapore-icdrc-2021/
+permalink: /media/events/china-singapore-icdrc-2021/
 ---
 
 The Council for the Promotion of International Trade (CCPIT) and the Singapore Ministry of Law will be co-organising the the China-Singapore International Commercial Dispute Resolution Conference on 22 June 2021 to support the development of the Belt & Road Initiative and advance China-Singapore cooperation in international commercial legal services.
