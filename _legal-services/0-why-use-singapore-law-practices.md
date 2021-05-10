@@ -3,8 +3,6 @@ title: Why Use Singapore Law Practices
 permalink: /singapore-law/why-use-singapore-law-practices
 ---
 
-[This is a draft write-up.]
-
 Singapore has a broad base of legal service providers to cater to the regional and international needs of businesses. The legal sector in Singapore contains a diverse range of law practice entities, each with a unique offering to meet every legal need.
 
 There are over 1,000 law firms and close to 5,700 lawyers, including around 130 foreign law firms and 1,200 foreign lawyers. Of the top 100 law firms in the world by revenue, about 40 have offices in Singapore.
