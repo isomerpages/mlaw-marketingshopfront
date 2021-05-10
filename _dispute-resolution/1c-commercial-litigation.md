@@ -7,14 +7,6 @@ accordion:
   - title: What is commercial litigation?
     content: <br>Litigation typically involves a plaintiff, who brings the matter before the court, and a defendant. Oftentimes, there could be several parties involved on each side. The judge is responsible for weighing the evidence presented against the applicable law, and making a ruling. Information conveyed in hearings and trials usually enters the public record.<br>If a party is not satisfied with the decision of the judge based on the findings of fact or the law applied, there is usually one level of appeal which in the SICC’s case, to the Singapore Court of Appeal.
 
-
-
-- [Can contracts not governed by Singapore law use commercial litigation services in Singapore?](#governing-law-for-litigation)
-- [Must parties appoint a Singapore lawyer?](#lawyers-commercial-litigation)
-- [What are some key features of SICC court procedures?](#key-features-SICC-procedures)
-
-
-
   - title: What are the differences between commercial litigation and arbitration?
     content: <br>The SICC complements existing international arbitration services. Parties may choose to resolve their disputes at SICC if they:<br>- Prefer that all adjudicators are independently appointed. In SICC proceedings, the Chief Justice assigns experienced specialist judges from the panel of International and Singapore judges to each case. In most arbitrations, arbitrators are generally appointed by parties to the arbitration.<br>- Desire to have a right of appeal, as decisions of the SICC may, by default, generally be appealed to the Singapore Court of Appeal. Parties may, however, contractually limit or waive their right of appeal.<br>- Require third and related parties to be joined in the proceedings, especially in multi-party situations.<br>- Prefer that the proceedings take place in open court and  with published judgments containing clear grounds of decision.
 
