@@ -4,7 +4,7 @@ permalink: /dispute-resolution/integrated-dispute-resolution-facilities/
 ---
 [This is a tentative text, pending discusssion with Maxwell Chambers on the content]
 
-![maxwell chambers](/images/maxwell-chambers.png)
+![maxwell chambers](/images/mock-15-2-maxwell-chambers.jpg)
 
 Parties seeking to resolve their disputes by alternative dispute resolution in Singapore can enjoy access to state-of-the-art support facilities at the **Maxwell Chambers**.
 
