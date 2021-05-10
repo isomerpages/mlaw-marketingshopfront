@@ -3,8 +3,6 @@ title: Research
 permalink: /dispute-resolution/research/
 ---
 
-[This is a tentative text, pending discusssion with SIDRA on the content]
-
 The Singapore International Dispute Resolution Academy (SIDRA) is a platform for thought leadership in international dispute resolution theory, practice and policy. 
 
 A research centre at the Singapore Management University Yong Pung How School of Law, SIDRA leads the way through projects, publications and events that promote dynamic and inclusive conversations on how to constructively engage with and resolve differences and disputes at global, regional and national levels. In particular, SIDRA differentiates itself through its focus on applied research that has practical impact on industry, including conducting SIMI Registered Training Programmes for mediator accreditation, and IMI-accredited training programmes for mediation advocacy.
@@ -18,6 +16,7 @@ SIDRA conducts regular research on topics related to:
 
 - [Belt and Road Intiative](#sidra-belt-and-road) which aims to contribute to the global  discourse on complexities that would arise in cross-border dispute resolution in under the Belt and Road Initiative (BRI). SIDRA's BRI program aims to provide a forum for academics, practitioners, judges, and policymakers to understand the practical and multi-faceted implications of the BRI in the region and globally, and to spotlight issues relating to dispute resolution under the BRI. SIDRA has a broad-based BRI research agenda and regularly holds events and seminars advancing discourse in this area.
 
+[text below not included in SIDRA's doc]
 ### <a name="sidra-international-dispute-resolution"></a> Research on International Dispute Resolution 
 
 SIDRA's International Dispute Resolution program aims to conduct leading research on the most challenging issues related to the ‘appropriate dispute resolution’ of cross-border disputes, and provide an Asian-based platform for robust global discourse on dispute resolution ecosystems, encompassing litigation, arbitration, mediation and mixed mode dispute resolution procedures.
