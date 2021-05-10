@@ -1,7 +1,6 @@
 ---
 title: Setting Up Your Business in Singapore
 permalink: /about-singapore/setting-up-your-business-in-singapore
-third_nav_title: Settin Up Your Business in Singapore
 accordion:
 
   - title: Setting up Business
