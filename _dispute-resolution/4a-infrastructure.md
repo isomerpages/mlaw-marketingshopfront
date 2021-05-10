@@ -1,6 +1,7 @@
 ---
 title: Infrastructure Dispute Management
-permalink: /dispute-resolution/infrastructure dispute management
+permalink: /dispute-resolution/specialist-dispute-resolution/infrastructure dispute management
+third_nav_title: Specialist Dispute Resolution
 
 ---
 ### Singapore Infrastructure Dispute Management Protocol
