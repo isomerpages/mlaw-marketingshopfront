@@ -26,7 +26,7 @@ Parties and tribunals can connect through an integrated platform for case prepar
 
 With effect from May 2020, Maxwell Chambers has entered into an International Arbitration Centre Alliance (IACA) as a founding centre alongside the International Dispute Resolution Centre of London and Arbitration Place of Toronto and Ottawa, under which the centres provide seamless hybrid hearing services for users globally.
 
-![Maxwell Chambers hearing room](/images/mock-16-maxwell.jpg) 
+![Maxwell Chambers hearing room](/images/coleman_room.jpeg) 
 *Note: To explore the possiblity of embedding the new video by Maxwell chambers on their hybrid/virtual hearing facilities*
 
 Click [here](https://www.maxwellchambers.com/2020/09/01/maxwell-chambers-hybrid-and-virtual-hearing-solutions-video-in-collaboration-with-the-ministry-of-law/) for more information on the virtual and hybrid hearing facilities at Maxwell Chambers.
