@@ -13,7 +13,7 @@ sections:
         button: Find out more
         url: /legal-system/
         key_highlights:
-            - title: Integrated Dispute Resolution Facilities
+            - title: Integrated Dispute Resolution Centres
               description: Add a description
               url: /private/
             - title: Find a lawyer
