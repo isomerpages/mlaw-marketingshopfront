@@ -34,4 +34,11 @@ The Secretariat helms the promotion and development of SCMA across the region. T
 The Registrar and Assistant Registrar provide on-demand administrative support to disputants and tribunals. They assist SCMA’s Chairperson in the exercise of powers under the SCMA Rules.<br>
 
 As part of SCMA’s commitment to meet the needs of its members and users, in 2021, SCMA will launch a new edition of its Rules after having conducted extensive consultation with its stakeholders.
-    
+
+## INTERNATIONAL INSTITUTIONS WITH PRESENCE IN SINGAPORE
+
+- **American Arbitration Association - International Centre for Dispute Resolution (ICDR)**
+- **International Chamber of Commerce (ICC) International Court of Arbitration**
+- **Permanent Court of Arbitration (PCA)**
+- **World Bank International Centre for Settlement of Investment Disputes (ICSID)**
+- **World Intellectual Property Office (WIPO) Arbitration and Mediation Center**
