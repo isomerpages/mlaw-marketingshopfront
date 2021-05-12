@@ -6,7 +6,7 @@ permalink: /about-singapore/setting-up-your-business-in-singapore
    
 For many years, the business world has regarded Singapore as a stable, thriving and efficient entry point into the Asian market. Singapore's strategic location at the crossroads of East and West has positioned the city-state as a major global business hub, and with its robust economy and strong talent pool, Singapore offers businesses the ideal landscape to invest with confidence.
 
-**Reasons for setting up business in Singapore**
+## Reasons for setting up business in Singapore
 
 - Ease of doing business
 The World Bank has consistently ranked Singapore as the best country in Asia, and second best globally, to do business. 
@@ -17,7 +17,7 @@ Singapore offers extensive connectivity and has strong business cultural and lin
 - Stability 
 The 2017 Euromoney Country Risk Survey ranked Singapore first for having the most stable political climate, with lowest sovereign risk globally. Singapore topped the ranks again for the Economist Intelligence Unit’s 2018 projection of the best business environment worldwide for the next five years. Singapore has held this position since 2013.
 
-**Types of local entity structures**
+## Types of local entity structures
 
 *Sole Proprietorship*<br>
 A sole proprietorship is a business owned by one person or one company.The sole proprietor has absolute say, but also unlimited liability, in the running of the business.
