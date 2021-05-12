@@ -1,5 +1,5 @@
 ---
-title: Dispute Resolution Centres in Singapore
+title: Commercial Arbitration
 permalink: /dispute-resolution/dispute-resolution-centres/commercial-arbitration/
 third_nav_title: Dispute Resolution Centres 
 ---
