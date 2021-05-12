@@ -14,12 +14,6 @@ Note: To explore possiblity of featuring successful case studies and testimonial
 [Example of case study](/files/sicc-testimonials-case-studies.pdf)
 
 
-## INTERNATIONAL INSTITUTIONS WITH PRESENCE IN SINGAPORE
 
-- **American Arbitration Association - International Centre for Dispute Resolution (ICDR)**
-- **International Chamber of Commerce (ICC) International Court of Arbitration**
-- **Permanent Court of Arbitration (PCA)**
-- **World Bank International Centre for Settlement of Investment Disputes (ICSID)**
-- **World Intellectual Property Office (WIPO) Arbitration and Mediation Center**
 
 
