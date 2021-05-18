@@ -5,7 +5,7 @@ permalink: /other-legal-services/legal-tech-landscape-in-singapore/
 
 ### A Global Hub for Legal Tech
 
-Singapore boasts the largest legaltech ecosystem in Southeast Asia with 25 LegalTech firms in 2019 [Note: I don’t have the latest figures]. 
+Singapore boasts one of the largest legaltech ecosystem in Southeast Asia. 
 
 Singapore’s legaltech ecosystem is at a mature stage of development, attributed by the technology agenda spearheaded by the Smart Nations initiative, the high concentration of multinational companies, and its mature financial market. Because of these, Singapore has become a fertile bed for innovation where fast-growing start-ups and global talent congregate.  
 
