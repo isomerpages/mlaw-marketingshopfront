@@ -8,13 +8,13 @@ For many years, the business world has regarded Singapore as a stable, thriving 
 
 ## Reasons for setting up business in Singapore
 
-- Ease of doing business
+- Ease of doing business<br>
 The World Bank has consistently ranked Singapore as the best country in Asia, and second best globally, to do business. 
 
-- Gateway to Asia
+- Gateway to Asia<br>
 Singapore offers extensive connectivity and has strong business cultural and linguistics links to the emerging Southeast Asian market. Home to more than 600 million people, of which 70 per cent are below the age of 40, ASEAN is of the world’s largest untapped economies. 
 
-- Stability 
+- Stability<br>
 The 2017 Euromoney Country Risk Survey ranked Singapore first for having the most stable political climate, with lowest sovereign risk globally. Singapore topped the ranks again for the Economist Intelligence Unit’s 2018 projection of the best business environment worldwide for the next five years. Singapore has held this position since 2013.
 
 ## Types of local entity structures
