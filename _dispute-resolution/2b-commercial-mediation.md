@@ -4,8 +4,6 @@ permalink: /dispute-resolution/dispute-resolution-centres/commercial-mediation/
 third_nav_title: Dispute Resolution Centres
 ---
 
-## COMMERCIAL MEDIATION 
-
 ### Singapore International Mediation Centre
 
 The [Singapore International Mediation Centre (SIMC)](https://simc.com.sg/) is a not-for-profit organisation that offers professional dispute resolution services tailored to the evolving needs of businesses in Asia. SIMC works across multiple jurisdictions covering both common and civil law traditions. Its panel of over 70 international independent mediators have extensive experience resolving cross-border disputes and are highly regarded for delivering successful outcomes in complex, high-stakes commercial disputes. 
