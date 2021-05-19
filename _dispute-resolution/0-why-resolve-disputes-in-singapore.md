@@ -3,15 +3,6 @@ title: Why Resolve Disputes in Singapore
 permalink: /dispute-resolution/why-resolve-disputes-in-singapore/
 ---
 
-
- - **Trusted legal system**
- - **Efficiency, economy and innovation**
- - **Enforceability**
- - **Judicial Support**
- - **Choice of dispute resolution mechanisms, institutions and people**
- - **Diverse range of international expertise**
-
-
 *Note: Video for illustrative purposes, will explore possibility of embedding the new DR video on this page*
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CnO9jgl7kIE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
