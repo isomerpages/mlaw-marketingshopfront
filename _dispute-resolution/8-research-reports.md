@@ -1,6 +1,6 @@
 ---
-title: Research
-permalink: /dispute-resolution/research/
+title: Research Centre
+permalink: /dispute-resolution/research-centre/
 ---
 
 The Singapore International Dispute Resolution Academy (SIDRA) is a platform for thought leadership in international dispute resolution theory, practice and policy. 
