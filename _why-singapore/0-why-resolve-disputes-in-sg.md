@@ -1,6 +1,6 @@
 ---
 title: Why Resolve Disputes in Singapore
-permalink: /dispute-resolution/why-resolve-disputes-in-singapore/
+permalink: /why-singapore/why-resolve-disputes-in-singapore/
 ---
 
 *Note: Video for illustrative purposes, will explore possibility of embedding the new DR video on this page*
