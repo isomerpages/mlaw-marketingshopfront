@@ -29,7 +29,7 @@ Against the backdrop of COVID-19 pandemic, here are some laws which may address 
  - Singapore COVID-19 (Temporary Measures) Act 2020 provides temporary relief from the inability to perform contractual obligations under   certain contracts, if that inability is materially caused by a
    COVID-19 event. For more information, please click  here.
    
- - Singapore Insolvency, Restructuring and Dissolution Act 2018 include provisions relating to debtor-in-possession rescue financing, cross-border debt restructuring, cross-class “cram down” mechanisms   and a worldwide stay on proceedings, not only for Singapore   incorporated debtors, but also foreign debtors. For more information,
+ - Singapore Insolvency, Restructuring and Dissolution Act 2018 include provisions relating to debtor-in-possession rescue financing, cross-border debt restructuring, cross-class “cram down” mechanisms   and a worldwide stay on proceedings, not only for Singapore incorporated debtors, but also foreign debtors. 
   
 Click [here](#top) to return to the top
 
