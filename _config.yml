@@ -22,6 +22,8 @@ colors:
 collections:
   about-singapore:
     output: true
+  why-singapore:
+    output: true
   singapore-law:
     output: true
   dispute-resolution:
