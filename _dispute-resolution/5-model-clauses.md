@@ -5,14 +5,6 @@ permalink: /dispute-resolution/model-clauses/
 
 ## Model Clauses on Dispute Resolution for Commercial Contracts
 
-- **SIAC Model Clause**
-
-- **SIMC Model Clause**
-
-- **SIAC-SIMC Arb-Med-Arb Model Clause**
-
-- **SICC Model Clauses**
-
 ### SIAC Model Clause
 
 _Any dispute arising out of or in connection with this contract, including any question regarding its existence, validity or termination, shall be referred to and finally resolved by arbitration administered by the Singapore International Arbitration Centre (“SIAC”) in accordance with the Arbitration Rules of the Singapore International Arbitration Centre ("SIAC Rules") for the time being in force, which rules are deemed to be incorporated by reference in this clause._
