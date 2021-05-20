@@ -25,7 +25,7 @@ collections:
   why-singapore:
     output: true
   doing-business-in-singapore:
-  output: true
+    output: true
   singapore-law:
     output: true
   dispute-resolution:
