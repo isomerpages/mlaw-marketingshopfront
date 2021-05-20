@@ -1,12 +1,12 @@
 ---
-title: Setting Up Your Business in Singapore
-permalink: /about-singapore/setting-up-your-business-in-singapore
+title: Doing Business in Singapore
+permalink: /doing-business-in-singapore
 ---
     
    
 For many years, the business world has regarded Singapore as a stable, thriving and efficient entry point into the Asian market. Singapore's strategic location at the crossroads of East and West has positioned the city-state as a major global business hub, and with its robust economy and strong talent pool, Singapore offers businesses the ideal landscape to invest with confidence.
 
-## Reasons for setting up business in Singapore
+## Reasons for doing business in Singapore
 
 - Ease of doing business<br>
 The World Bank has consistently ranked Singapore as the best country in Asia, and second best globally, to do business. 
@@ -41,8 +41,8 @@ general partner will be responsible for the actions of the LP and is liable for 
 Click [here](https://www.edb.gov.sg/) for more infomation.
 
 
-## Setting up Business
-There are a few options foreign companies can choose from when setting up business in Singapore.
+## Doing Business
+There are a few options foreign companies can choose from when doing business in Singapore.
 
 **Branch of Foreign Company**
 
