@@ -2,7 +2,7 @@
 layout: post
 title: Singapore Convention Week 2021
 date: 2021-04-22
-permalink: /media/events/singapore-convention-week-2021/
+permalink: /resources/events/singapore-convention-week-2021/
 ---
 
 The Singapore Convention Week will feature a series of events related to dispute resolution.
