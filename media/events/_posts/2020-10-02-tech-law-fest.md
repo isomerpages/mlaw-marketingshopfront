@@ -2,7 +2,7 @@
 layout: post
 title: TechLaw.Fest
 date: 2020-10-02
-permalink: /resources/events/tech-law-fest/
+permalink: /media/events/tech-law-fest/
 ---
 
 TechLaw.Fest is a signature Law & Technology event that brings together the international community to debate, deliberate, act and innovate in both the law of technology (policies, regulations, legislation, case law and governance) and the technology of law (infrastructure, business transformation and people development).
