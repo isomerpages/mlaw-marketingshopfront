@@ -30,8 +30,6 @@ collections:
     output: true
   legal-services:
     output: true
-  restructuring-and-insolvency:
-    output: true
 google_analytics: UA-192255298-2
 resources_name: media
 
