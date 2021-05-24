@@ -1,7 +1,7 @@
 ---
 title: Commercial Mediation
-permalink: /dispute-resolution/dispute-resolution-centres/commercial-mediation/
-third_nav_title: Dispute Resolution Centres
+permalink: /dispute-resolution/dispute-resolution-institutions/commercial-mediation/
+third_nav_title: Dispute Resolution Institutions
 ---
 
 ### Singapore International Mediation Centre
