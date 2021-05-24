@@ -8,14 +8,12 @@ For many years, the business world has regarded Singapore as a stable, thriving 
 
 ## Reasons for doing business in Singapore
 
-- Ease of doing business<br>
-The World Bank has consistently ranked Singapore as the best country in Asia, and second best globally, to do business. 
+The World Bank Doing Business Report 2020 ranks Singapore first globally in the contract enforcement variable. This measures the efficiency of a judicial system in resolving a commercial dispute. 
+- Based on the study, resolving a commercial dispute through the Singapore Courts takes just 164 days, the shortest time recorded worldwide – under half the time in New York, and about a third the time in London. 
+- Costs are comparable to that of New York, and are about half of what it would cost in London. 
 
-- Gateway to Asia<br>
-Singapore offers extensive connectivity and has strong business cultural and linguistics links to the emerging Southeast Asian market. Home to more than 600 million people, of which 70 per cent are below the age of 40, ASEAN is of the world’s largest untapped economies. 
+According to the latest survey by survey by Queen Mary University of London and White & Case, Singapore has been identified as one of the two most preferred seats of arbitration in the world, together with London. Singapore is among the top 4 most preferred seats of arbitration across all regions – Africa, South America, the Americas, and so on. SIAC is also the 2nd most preferred arbitral institution in the world, after ICC. It is again among the top 4 arbitral institutions in all regions. This shows that Singapore is accepted by parties around the world.
 
-- Stability<br>
-The 2017 Euromoney Country Risk Survey ranked Singapore first for having the most stable political climate, with lowest sovereign risk globally. Singapore topped the ranks again for the Economist Intelligence Unit’s 2018 projection of the best business environment worldwide for the next five years. Singapore has held this position since 2013.
 
 ## Types of local entity structures
 
