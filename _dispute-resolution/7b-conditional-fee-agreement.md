@@ -2,6 +2,8 @@
 title: Conditional Fee Agreement
 permalink: /dispute-resolution/conditional-fee-agreement/
 ---
+*Kindly note that this page is currently subject to review.*
+
 MinLaw proposes to enact through legislative amendments, a legal framework for CFAs to be entered into in relation to international and domestic arbitration proceedings, certain prescribed proceedings in the SICC, including mediation proceedings arising out of or in any way connected with such proceedings. This will align the prospective CFA framework with the third party funding framework (once expanded), to better serve the needs of commercial parties and their counsel.
 
 Under the framework, CFAs would be available in addition to traditional options for payment of legal fees, for the prescribed categories of proceedings.
