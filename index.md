@@ -29,7 +29,7 @@ sections:
         description: If you would like to be added to our mailing list, please fill in your contact details via this form.
         button: Click here
         url: https://form.gov.sg/6073eba4f4601500115e17d7
-        image: 
+        image: /images/closeup-open-law-book.jpg.jp2
         alt: Mock image
         
     - infopic:
