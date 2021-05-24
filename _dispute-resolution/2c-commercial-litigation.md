@@ -1,7 +1,7 @@
 ---
 title: Commercial Litigation
-permalink: /dispute-resolution/dispute-resolution-centres/commercial-litigation/
-third_nav_title: Dispute Resolution Centres 
+permalink: /dispute-resolution/dispute-resolution-institutions/commercial-litigation/
+third_nav_title: Dispute Resolution Institutions
 ---
 
 ### Singapore International Commercial Court
