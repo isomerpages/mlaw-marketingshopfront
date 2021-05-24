@@ -13,7 +13,7 @@ sections:
         button: Join our Mailing List today
         url: https://form.gov.sg/6073eba4f4601500115e17d7
         key_highlights:
-            - title: Dispute Resolution Facilities
+            - title: Dispute Resolution Institutions
               description: Add a description
               url: /private/
             - title: Find a lawyer
