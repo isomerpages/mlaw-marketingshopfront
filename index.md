@@ -23,6 +23,14 @@ sections:
               description: Find out more about how the Convention enables disputing parties to enforce and invoke settlement agreements across borders
               url: https://www.singaporeconvention.org
    
+    - infopic:
+        title: Mailing List
+        subtitle: Contact Us
+        description: If you would like to be added to our mailing list, please fill in your contact details via this form.
+        button: Click here
+        url: https://form.gov.sg/6073eba4f4601500115e17d7
+        image: 
+        alt: Mock image
         
     - infopic:
         title: Singapore Law
