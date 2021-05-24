@@ -34,7 +34,7 @@ The Registrar and Assistant Registrar provide on-demand administrative support t
 
 As part of SCMA’s commitment to meet the needs of its members and users, in 2021, SCMA will launch a new edition of its Rules after having conducted extensive consultation with its stakeholders.
 
-## INTERNATIONAL INSTITUTIONS WITH PRESENCE IN SINGAPORE
+## INTERNATIONAL INSTITUTIONS WITH A PRESENCE IN SINGAPORE
 
 - **American Arbitration Association - International Centre for Dispute Resolution (ICDR)**
 - **International Chamber of Commerce (ICC) International Court of Arbitration**
