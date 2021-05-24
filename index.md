@@ -10,8 +10,8 @@ sections:
         title: Singapore Legal Gateway
         subtitle: 
         background: /images/stock-photo-singapore-downtown-skyline-with-the-supreme-court-building-325857437.jpg
-        button: Find out more
-        url: /legal-system/
+        button: Join our Mailing List today
+        url: https://form.gov.sg/6073eba4f4601500115e17d7
         key_highlights:
             - title: Dispute Resolution Facilities
               description: Add a description
@@ -22,15 +22,7 @@ sections:
             - title: Singapore Convention on Mediation
               description: Find out more about how the Convention enables disputing parties to enforce and invoke settlement agreements across borders
               url: https://www.singaporeconvention.org
-   
-    - infopic:
-        title: Mailing List
-        subtitle: Contact Us
-        description: If you would like to be added to our mailing list, please fill in your contact details via this form.
-        button: Click here
-        url: https://form.gov.sg/6073eba4f4601500115e17d7
-        image: /images/closeup-open-law-book.jpg.jp2
-        alt: Mock image
+ 
         
     - infopic:
         title: Singapore Law
