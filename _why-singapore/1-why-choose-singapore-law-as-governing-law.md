@@ -1,6 +1,6 @@
 ---
-title: Why Choose Singapore Law
-permalink: /why-singapore/why-choose-Singapore-law/
+title: Why Choose Singapore Law as governing law
+permalink: /why-singapore/why-choose-Singapore-law-as-governing-law/
 ---
 
 ### Transparent, neutral and predictable
