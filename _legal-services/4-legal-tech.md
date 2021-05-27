@@ -17,7 +17,7 @@ The Technology & Innovation Roadmap (TIR) is a sector-wide plan by the Ministry 
 
 ![TIR](/images/tir.jpeg)
 
-Click [here](files/minlaw-tech-and-innovation-roadmap-report.pdf) to understand more about TIR.
+Click [here](/files/minlaw-tech-and-innovation-roadmap-report.pdf) to understand more about TIR.
 
 ### Tech-celerate for Law
 
