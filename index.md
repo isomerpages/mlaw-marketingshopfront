@@ -14,7 +14,7 @@ sections:
         url: https://form.gov.sg/6073eba4f4601500115e17d7
         key_highlights:
             - title: Dispute Resolution Institutions
-              description: Add a description
+              description: Find out more about the various dispute resolution institutions in Singapore
               url: /dispute-resolution/dispute-resolution-mechanisms/commercial-arbitration/
             - title: Find a lawyer
               description: Find a lawyer or search for a law practice by specialisation
