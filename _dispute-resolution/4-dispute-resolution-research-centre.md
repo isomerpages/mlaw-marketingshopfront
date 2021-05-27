@@ -1,5 +1,5 @@
 ---
-title: Research Centre
+title: Dispute Resolution Research Centre
 permalink: /dispute-resolution/research-centre/
 ---
 
