@@ -1,6 +1,6 @@
 ---
-title: Infrastructure Dispute Management
-permalink: /dispute-resolution/specialist-dispute-resolution/infrastructure dispute management
+title: Infrastructure Dispute Management Protocol
+permalink: /dispute-resolution/specialist-dispute-resolution/infrastructure-dispute-management
 third_nav_title: Specialist Dispute Resolution
 ---
 
