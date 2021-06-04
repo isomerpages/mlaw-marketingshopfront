@@ -13,4 +13,4 @@ The Singapore Convention Week 2021, a series of events related to dispute resolu
 
 As part of the Singapore Convention Week, the inaugural UNCITRAL Academy is taking place on 7 and 8 September 2021 at Marina Bay Sands Expo and Convention Centre, Singapore. The UNCITRAL Academy is co-organised by the Singapore Ministry of Law and UNCITRAL, and will comprise of the Singapore Convention Conference and UNCITRAL Academy Workshops. The UNCITRAL Academy of 2021 will bring together legal practitioners, dispute resolution specialists, business executives and government officials from around the world to discuss emerging issues relating to dispute resolution, and international trade law and business. 
 
-Click here [link](https://www.singaporeconvention.org/singapore-convention-week/) to find out more about the Singapore Convention Week. 
+Click [here](https://www.singaporeconvention.org/singapore-convention-week/) to find out more about the Singapore Convention Week. 
