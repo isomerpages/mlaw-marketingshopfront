@@ -10,6 +10,7 @@ Released on 11 Mar 2019
 1. The Ministry of Law (MinLaw) launched a public consultation today to seek feedback on a draft Intellectual Property (IP) (Dispute Resolution) Bill. The public consultation will conclude on 5 April 2019.
 
 2. The Bill makes several improvements to the IP dispute resolution system in Singapore such as:
+
 a. Consolidating most civil IP disputes in the High Court, thereby simplifying the current system, where they are heard in multiple forums.
 
 b. Making it easier to ensure that only deserving inventions enjoy patent protection. By doing so, it will enhance Singapore’s patent regime by increasing the quality of patents and making it more user-friendly.
@@ -21,6 +22,7 @@ c. Providing clarity that IP disputes can be arbitrated in Singapore.
 **Summary of Key Provisions of Proposed Bill**
 
 4. The key features of the Bill fall into the following three categories:
+
 a. Consolidate most civil IP proceedings in the High Court. Currently, IP disputes are heard in the High Court, State Courts or Intellectual Property Office of Singapore (IPOS), depending on the nature of the IP right, the type of proceeding or the value of the claim. The Bill will amend several IP Acts, as well as the State Courts Act, to grant the High Court exclusive jurisdiction over most civil IP disputes – for example infringement of all forms of IP and passing off.
 
 b. Formalise third party observations on patent applications, introduce post-grant patent re-examination.The Bill will formalise the third party observation process for patent applications. When a patent application has been published, and before an examination report is issued, the Registrar can consider observations submitted by third parties on the patentability of the invention contained in the application. The Bill will also introduce a new post-grant patent re-examination process. A person may request for a patent to be re-examined, with accompanying reasons and documents. If the Registrar finds that an alleged ground is made out and not resolved by the proprietor of the patent, the patent may be revoked.
