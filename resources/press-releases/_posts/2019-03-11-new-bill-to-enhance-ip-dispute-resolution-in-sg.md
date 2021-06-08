@@ -5,7 +5,7 @@ date: 2019-03-11
 permalink: /resources/press-releases/new-bill-to-enhance-ip-dispute-resolution-in-singapore/
 ---
 
-11 Mar 2019 Posted in [Press releases](https://www.mlaw.gov.sg/news/press-releases/)
+11 Mar 2019 
 
 1. The Ministry of Law (MinLaw) launched a public consultation today to seek feedback on a draft Intellectual Property (IP) (Dispute Resolution) Bill. The public consultation will conclude on 5 April 2019.
 
