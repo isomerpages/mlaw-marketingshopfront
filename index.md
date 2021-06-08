@@ -15,7 +15,7 @@ sections:
         key_highlights:
             - title: Dispute Resolution Institutions
               description: Find out more about the various dispute resolution institutions in Singapore
-              url: /dispute-resolution/dispute-resolution-mechanisms/commercial-arbitration/
+              url: /dispute-resolution/dispute-resolution-institutions/commercial-arbitration/
             - title: Find a lawyer
               description: Find a lawyer or search for a law practice by specialisation
               url: https://www.lawsociety.org.sg/our-community/find-a-lawyer/
