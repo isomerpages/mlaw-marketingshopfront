@@ -33,12 +33,11 @@ permalink: /resources/press-releases/2020-09-12-singapore-convention-on-mediatio
 {:start="9"}
 9. 	To mark the entry into force, a digital event featuring a series of high-level speeches, followed by a commemoration ceremony will be screened on the Singapore Convention on Mediation website at [www.singaporeconvention.org/events/scm2020](https://www.singaporeconvention.org/events/scm2020) from 12pm Singapore time (GMT+8) today. The video of the event will also be accessible for viewing on the Singapore Convention website after the event.
 
-
 **MINISTRY OF LAW**
 <br>**12 SEP 2020**
 
 
-[Annex A - List of states that signed and ratified the Singapore Convention on Mediation (123KB)](/files/news/press-releases/2020/9/AnnexACountriesSCM.pdf)<br>
-[Annex B - Factsheet on Singapore Convention on Mediation (342KB)](/files/news/press-releases/2020/9/AnnexBSCMFactsheet.pdf)<br>
+[Annex A - List of states that signed and ratified the Singapore Convention on Mediation (123KB)](https://www.mlaw.gov.sg/files/news/press-releases/2020/9/AnnexACountriesSCM.pdf)<br>
+[Annex B - Factsheet on Singapore Convention on Mediation (342KB)](https://www.mlaw.gov.sg/files/news/press-releases/2020/9/AnnexBSCMFactsheet.pdf)<br>
 
 [Source](https://www.mlaw.gov.sg/news/press-releases/2020-09-12-singapore-convention-on-mediation-enters-into-force)
