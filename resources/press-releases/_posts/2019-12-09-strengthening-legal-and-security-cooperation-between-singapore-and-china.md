@@ -21,6 +21,6 @@ permalink: /resources/press-releases/2019-12-09-strengthening-legal-and-security
 
 **MINISTRY OF LAW AND MINISTRY OF HOME AFFAIRS**
 <br>
-**09 December 2019** 
+**09 DEC 2019** 
 
-[Source}(https://www.mlaw.gov.sg/news/press-releases/press-release-on-%20strengthening-legal-and-security-cooperation-between-singapore-and-china)
+[Source](https://www.mlaw.gov.sg/news/press-releases/press-release-on-%20strengthening-legal-and-security-cooperation-between-singapore-and-china)
