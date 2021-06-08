@@ -5,8 +5,6 @@ date: 2020-09-12
 permalink: /resources/press-releases/2020-09-12-singapore-convention-on-mediation-enters-to-force/
 ---
 
-12 Sep 2020
-
 1. 	The Singapore Convention on Mediation (Convention) entered into force today, marking a significant development in international commercial dispute resolution. Businesses around the world will now have greater certainty in resolving cross-border disputes through mediation, as the Convention provides a more effective means for mediated outcomes to be enforced. 
 
 {:start="2"}
