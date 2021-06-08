@@ -5,8 +5,6 @@ date: 2020-10-02
 permalink: /resources/press-releases/2020-10-02-technology-and-innovation-roadmap-launched-to-support-legal-industry-in-adoption-of-legaltech/
 ---
 
-02 Oct 2020
-
 {:start="1"}
 1.	The Ministry of Law (MinLaw) launched the Legal Industry Technology and Innovation Roadmap (TIR) today, outlining its plans to promote innovation, technology adoption and development in Singapore’s legal industry in the next decade. The full report can be found at [https://go.gov.sg/minlaw-tech-and-innovation-roadmap](/files/news/press-releases/2020/10/Minlaw_Tech_and_innovation_Roadmap_Report.pdf).
 
@@ -51,5 +49,8 @@ permalink: /resources/press-releases/2020-10-02-technology-and-innovation-roadma
 
 {:start="9"}
 9.	Further research and consultations were then conducted with industry players at the forefront of legal innovation, to validate the workshop findings and sharpen ideas into initiatives. 
+
+**MINISTRY OF LAW**
+<br>**02 OCT 2020**
 
 [Source](https://www.mlaw.gov.sg/news/press-releases/2020-10-02-technology-and-innovation-roadmap-launched-to-support-legal-industry-in-adoption-of-legaltech)
