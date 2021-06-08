@@ -52,7 +52,7 @@ permalink: /resources/press-releases/2019-08-08-maxwell-chambers-suites-official
  **MINISTRY OF LAW**
 <br>**08 AUG 2019**
 
-    **<u>Annex A: International Institutions at Maxwell Chambers Suites</u>** 
+ **<u>Annex A: International Institutions at Maxwell Chambers Suites</u>** 
 
  {:start="1"}
  1. American Arbitration Association, International Centre for Dispute Resolution (AAA-ICDR)*
