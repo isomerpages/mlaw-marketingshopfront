@@ -2,7 +2,7 @@
 layout: post
 title: New Bill to Enhance IP Dispute Resolution in Singapore
 date: 2019-03-11
-permalink: /resources/press-releases/new-bill-to-enhance-ip-dispute-resolution-in-singapore/
+permalink: /resources/press-releases/2019-03-11-new-bill-to-enhance-ip-dispute-resolution-in-singapore/
 ---
 
 11 Mar 2019 
