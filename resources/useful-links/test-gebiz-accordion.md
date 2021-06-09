@@ -3,6 +3,6 @@ title: Test GeBiz Accordion
 permalink: /resources/useful-links/
 ---
 
-### Here are the five different types of business structures:
+### This is to test accordion from GeBiz:
 
 {% include accordion.html accordions=site.data.acc01-test-links %}
