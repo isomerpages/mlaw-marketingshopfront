@@ -1,9 +1,9 @@
 ---
 title: Test GeBiz Accordion
 permalink: /resources/useful-links/
-accordiontest: /includes/acc01-test-links
+accordion: /includes/acc01-test-links
 ---
 
 ### If you see this means Joy is attempting to add a sample accordion from GovTech GoBiz:
 
-{% include accordiontest.html accordions=site.includes.acc01-test-links.accordiontest %}
+{% include accordiontest.html accordions=site.includes.acc01-test-links.accordion %}
