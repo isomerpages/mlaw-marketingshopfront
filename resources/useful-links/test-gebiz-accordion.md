@@ -1,7 +1,6 @@
 ---
 title: Choose a business structure
-permalink: /start-a-business/choose-a-business-structure/
-third_nav_title: Key Steps to Start
+permalink: /resources/useful-links/
 ---
 
 ### Here are the five different types of business structures:
