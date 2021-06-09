@@ -1,7 +1,6 @@
 ---
 title: Test GeBiz Accordion
 permalink: /resources/useful-links/
-accordion: 
 accordion:
   - title: Sole Proprietorship
     content: |
