@@ -1,6 +1,7 @@
 ---
 title: Test GeBiz Accordion
 permalink: /resources/useful-links/
+accordiontest: /includes/acc01-test-links
 ---
 
 ### If you see this means Joy is attempting to add a sample accordion from GovTech GoBiz:
