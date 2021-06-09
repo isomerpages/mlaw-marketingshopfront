@@ -1,5 +1,5 @@
 ---
-title: Choose a business structure
+title: Test GeBiz Accordion
 permalink: /resources/useful-links/
 ---
 
