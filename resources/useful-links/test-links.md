@@ -1,5 +1,5 @@
 ---
-title: Partners
+title: Useful-Links
 permalink: /partners/
 breadcrumb: Partners
 ---
