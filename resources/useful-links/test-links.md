@@ -1,7 +1,7 @@
 ---
 title: Useful-Links
-permalink: /partners/
-breadcrumb: Partners
+permalink: /resources/useful-links
+breadcrumb: Useful Links
 ---
 
 The National Reading Movement would like to thank organisations for their support and participation.
