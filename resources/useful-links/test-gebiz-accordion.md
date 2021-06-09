@@ -5,4 +5,4 @@ permalink: /resources/useful-links/
 
 ### This is to test accordion from GeBiz:
 
-{% include accordion.html accordion=site.data.acc01-test-links %}
+{% include acc01-test-links.yml %}
