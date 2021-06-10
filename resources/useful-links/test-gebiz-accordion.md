@@ -31,6 +31,6 @@ accordiontest:
 
 ---
 
-### If you see this means Joy is attempting to add a sample accordion from GovTech GoBiz:
+### Test for Imported Panel Display :
 
 {% include accordiontest.html %}
