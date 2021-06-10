@@ -1,7 +1,7 @@
 ---
 title: Test GeBiz Accordion
 permalink: /resources/useful-links/
-accordion:
+accordiontest:
   - title: Sole Proprietorship
     content: |
       A sole proprietorship is run by only one business owner and it is the simplest type of business structure. While a sole proprietor has complete control over the business and its operations, he is also personally responsible for all debts and legal actions against the business.
