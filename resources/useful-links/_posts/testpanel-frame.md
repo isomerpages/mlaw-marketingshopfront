@@ -9,4 +9,4 @@ For enquiries on specific matters related to starting a business, licences and p
 
 Here is a list of their contact information and the types of enquiries each agency handles:
 
-{% include panels.html panels=site.useful-links.testpanel-data %}
+{% include panels.html panels=site.useful-links.posts.testpanel-data %}
