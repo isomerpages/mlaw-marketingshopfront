@@ -1,6 +1,6 @@
 ---
 title: Test Panel Agencies
-permalink: /useful-links/agencies/
+permalink: /useful-links/_posts/test-panel
 ---
 
 ##  THIS IS A TEST PANEL 
