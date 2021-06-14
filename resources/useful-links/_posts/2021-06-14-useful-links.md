@@ -13,7 +13,6 @@ permalink: /resources/useful-links
 
 ## Relevant  Statutory Boards
 
-* [Insolvency & Public Trustee’s Office](https://www.insolvencyreg.org/)
 * [Intellectual Property Office of Singapore](https://www.ipos.gov.sg/)
 
 
@@ -30,7 +29,7 @@ permalink: /resources/useful-links
 
 ## Societies and Academies
 * [Singapore International Dispute Resolution Academy](https://sidra.smu.edu.sg/)
-* [The Law Society Of Singapore](https://www.lawsociety.org.sg/)
+* [The Law Society of Singapore](https://www.lawsociety.org.sg/)
 * [Asian Business Law Institute](https://abli.asia/)
 * [Singapore Academy of Law](https://www.sal.org.sg/)
 
