@@ -33,3 +33,6 @@ permalink: /resources/useful-links
 * [The Law Society Of Singapore](https://www.lawsociety.org.sg/)
 * [Asian Business Law Institute](https://abli.asia/)
 * [Singapore Academy of Law](https://www.sal.org.sg/)
+
+##Services
+* [The Singapore Lawyer](https://www.thesingaporelawyer.com/)
