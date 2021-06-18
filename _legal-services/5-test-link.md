@@ -1,6 +1,6 @@
 ---
 title: Test Box Links
-permalink: /legal-services/useful-links-test/
+permalink: /other-legal-services/test-links
 ---
 
 **Test for box links**
