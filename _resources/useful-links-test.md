@@ -1,6 +1,6 @@
 ---
 title: Test Box Links
-permalink: /_resources/useful-links-test/
+permalink: /resources/useful-links-test/
 ---
 
 **Test for box links**
