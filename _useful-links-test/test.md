@@ -1,6 +1,6 @@
 ---
 title: Test Links
-permalink: /resources/
+permalink: /resources/useful-links-test
 ---
 
 **Test #2 for box links in resource tab**
