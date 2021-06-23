@@ -7,10 +7,10 @@ permalink: /resources/useful-links
 # List of links to key organisations
 
 ## Key Institutions
-*[Intellectual Property Office of Singapore](https://www.ipos.gov.sg/)
-*[Singapore International Commercial Court](https://www.sicc.gov.sg/)
-*[Singapore Ministry of Law](https://www.mlaw.gov.sg/)
-*[The Supreme Court of Singapore](https://www.supremecourt.gov.sg/)
+*[Intellectual Property Office of Singapore](https://www.ipos.gov.sg/) <br>
+*[Singapore International Commercial Court](https://www.sicc.gov.sg/) <br>
+*[Singapore Ministry of Law](https://www.mlaw.gov.sg/) <br>
+*[The Supreme Court of Singapore](https://www.supremecourt.gov.sg/) <br>
 
 ## Singapore Dispute Resolution Institutions
 *[Singapore Chamber of Maritime Arbitration](https://www.scma.org.sg/)
