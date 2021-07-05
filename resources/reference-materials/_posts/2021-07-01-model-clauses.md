@@ -14,7 +14,7 @@ The seat of the arbitration shall be [Singapore].*
 The Tribunal shall consist of _________________** arbitrator(s).
 The language of the arbitration shall be ________________.
 
-##APPLICABLE LAW
+APPLICABLE LAW
 _Parties should also include an applicable law clause. The following is recommended:_
 This contract is governed by the laws of _________________.***
 
@@ -33,14 +33,14 @@ All disputes, controversies or differences arising out of or in connection with 
 [The Singapore Arb-Med-Arb Clause](https://simc.com.sg/dispute-resolution/mediation/)
 
 Any dispute arising out of or in connection with this contract, including any question regarding its existence, validity or termination, shall be referred to and finally resolved by arbitration administered by the Singapore International Arbitration Centre (“SIAC”) in accordance with the Arbitration Rules of the Singapore International Arbitration Centre (“SIAC Rules”) for the time being in force, which rules are deemed to be incorporated by reference in this clause.
-The seat of the arbitration shall be [Singapore].*
-The Tribunal shall consist of _________________** arbitrator(s).
+The seat of the arbitration shall be [Singapore].#
+The Tribunal shall consist of _________________ ## arbitrator(s).
 The language of the arbitration shall be ________________.
 The parties further agree that following the commencement of arbitration, they will attempt in good faith to resolve the Dispute through mediation at the Singapore International Mediation Centre (“SIMC”), in accordance with the SIAC-SIMC Arb-Med-Arb Protocol for the time being in force. Any settlement reached in the course of the mediation shall be referred to the arbitral tribunal appointed by SIAC and may be made a consent award on agreed terms.
 
 ______________________________________________
-* Parties should specify the seat of arbitration of their choice. If the parties wish to select an alternative seat to Singapore, please replace “[Singapore]” with the city and country of choice (e.g., “[City, Country]”).
-** State an odd number. Either state one, or state three.
+# Parties should specify the seat of arbitration of their choice. If the parties wish to select an alternative seat to Singapore, please replace “[Singapore]” with the city and country of choice (e.g., “[City, Country]”).
+## State an odd number. Either state one, or state three.
 
 Sources: [SIMC](https://simc.com.sg/dispute-resolution/arb-med-arb/), [SIAC](https://www.siac.org.sg/model-clauses/the-singapore-arb-med-arb-clause)
 
