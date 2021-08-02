@@ -8,28 +8,28 @@ breadcrumb: 'Useful Links'
 
 ## List of links to key organisations
 
-** Key Institutions
+**Key Institutions
 
 * [Intellectual Property Office of Singapore](https://www.ipos.gov.sg/){:target="_blank"} 
 * [Singapore International Commercial Court](https://www.sicc.gov.sg/){:target="_blank"} 
 * [Singapore Ministry of Law](https://www.mlaw.gov.sg/){:target="_blank"} 
 * [The Supreme Court of Singapore](https://www.supremecourt.gov.sg/){:target="_blank"} 
 
-** Singapore Dispute Resolution Institutions
-* [Singapore Chamber of Maritime Arbitration](https://www.scma.org.sg/) <br>
-* [Singapore International Arbitration Centre](http://www.siac.org.sg/) <br>
-* [Singapore International Mediation Centre ](https://simc.com.sg/) <br>
-* [Singapore International Mediation Institute](https://www.simi.org.sg/) <br>
-* [Singapore Mediation Centre](https://www.mediation.com.sg/) <br>
+**Singapore Dispute Resolution Institutions
+* [Singapore Chamber of Maritime Arbitration](https://www.scma.org.sg/){:target="_blank"} 
+* [Singapore International Arbitration Centre](http://www.siac.org.sg/){:target="_blank"} 
+* [Singapore International Mediation Centre ](https://simc.com.sg/){:target="_blank"} 
+* [Singapore International Mediation Institute](https://www.simi.org.sg/){:target="_blank"} 
+* [Singapore Mediation Centre](https://www.mediation.com.sg/){:target="_blank"} 
 
-## Research Centres
-*[Asian Business Law Institute](https://abli.asia/) <br>
-*[Singapore International Dispute Resolution Academy](https://sidra.smu.edu.sg/) <br>
+**Research Centres
+* [Asian Business Law Institute](https://abli.asia/) <br>
+* [Singapore International Dispute Resolution Academy](https://sidra.smu.edu.sg/){:target="_blank"} 
 
-## Societies and Associations
-*[Singapore Academy of Law](https://abli.asia/) <br>
-*[Singapore Corporate Counsel Association](https://www.scca.org.sg/) <br>
-*[The Law Society of Singapore](https://www.lawsociety.org.sg/) <br>
+**Societies and Associations
+* [Singapore Academy of Law](https://abli.asia/){:target="_blank"} 
+* [Singapore Corporate Counsel Association](https://www.scca.org.sg/){:target="_blank"} 
+* [The Law Society of Singapore](https://www.lawsociety.org.sg/){:target="_blank"} 
 
-## Others
-*[The Singapore Lawyer by the Law Society of Singapore](https://www.thesingaporelawyer.com/) <br>
+**Others
+* [The Singapore Lawyer by the Law Society of Singapore](https://www.thesingaporelawyer.com/){:target="_blank"} 
