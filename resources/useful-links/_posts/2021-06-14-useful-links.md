@@ -4,20 +4,20 @@ permalink: /resources/useful-links
 breadcrumb: 'Useful Links'
 ---
 
-# List of links to key organisations
+## List of links to key organisations
 
-## Key Institutions
+** Key Institutions **
 * [Intellectual Property Office of Singapore](https://www.ipos.gov.sg/){:target="_blank"} 
 * [Singapore International Commercial Court](https://www.sicc.gov.sg/) {:target="_blank"} 
 * [Singapore Ministry of Law](https://www.mlaw.gov.sg/) {:target="_blank"} 
 * [The Supreme Court of Singapore](https://www.supremecourt.gov.sg/) {:target="_blank"} 
 
-## Singapore Dispute Resolution Institutions
-*[Singapore Chamber of Maritime Arbitration](https://www.scma.org.sg/) <br>
-*[Singapore International Arbitration Centre](http://www.siac.org.sg/) <br>
-*[Singapore International Mediation Centre ](https://simc.com.sg/) <br>
-*[Singapore International Mediation Institute](https://www.simi.org.sg/) <br>
-*[Singapore Mediation Centre](https://www.mediation.com.sg/) <br>
+** Singapore Dispute Resolution Institutions **
+* [Singapore Chamber of Maritime Arbitration](https://www.scma.org.sg/) <br>
+* [Singapore International Arbitration Centre](http://www.siac.org.sg/) <br>
+* [Singapore International Mediation Centre ](https://simc.com.sg/) <br>
+* [Singapore International Mediation Institute](https://www.simi.org.sg/) <br>
+* [Singapore Mediation Centre](https://www.mediation.com.sg/) <br>
 
 ## Research Centres
 *[Asian Business Law Institute](https://abli.asia/) <br>
