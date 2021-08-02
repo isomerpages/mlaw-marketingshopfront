@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Useful Links
-date: 2021-06-14
 permalink: /resources/useful-links
 ---
+
+{% include panels.html panels=site.data.sme_centres %}
+
 # List of links to key organisations
 
 ## Key Institutions
