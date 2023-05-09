@@ -1,6 +1,6 @@
 ---
 title: Test Page for Kylie
-permalink: /test/Kylie
+permalink: /test/kylie/
 ---
 
 Kylie

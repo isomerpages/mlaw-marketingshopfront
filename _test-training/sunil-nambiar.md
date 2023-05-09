@@ -1,4 +1,4 @@
 ---
 title: Test page for Sunil
-permalink: /test/sunil
+permalink: /test/sunil/
 ---

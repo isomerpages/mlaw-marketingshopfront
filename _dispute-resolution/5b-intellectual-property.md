@@ -1,6 +1,6 @@
 ---
 title: Intellectual Property Dispute Resolution
-permalink: /dispute-resolution/specialist-dispute-resolution/intellectual property dispute resolution
+permalink: /dispute-resolution/specialist-dispute-resolution/intellectual property dispute resolution/
 third_nav_title: Specialist Dispute Resolution
 ---
 

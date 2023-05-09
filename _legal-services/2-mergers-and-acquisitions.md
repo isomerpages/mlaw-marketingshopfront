@@ -1,4 +1,4 @@
 ---
 title: Mergers and Acquisitions
-permalink: /other-legal-services/mergers-and-acquisitions
+permalink: /other-legal-services/mergers-and-acquisitions/
 ---

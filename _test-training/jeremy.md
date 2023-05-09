@@ -1,6 +1,6 @@
 ---
 title: Test Page for Jeremy
-permalink: /test/Jeremy
+permalink: /test/jeremy/
 ---
 
 Jeremy

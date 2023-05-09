@@ -1,6 +1,6 @@
 ---
 title: Useful Links
-permalink: /resources/useful-links
+permalink: /resources/useful-links/
 breadcrumb: 'Useful Links'
 
 

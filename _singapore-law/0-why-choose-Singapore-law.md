@@ -1,6 +1,6 @@
 ---
 title: Why Choose Singapore Law
-permalink: /singapore-law/why-choose-Singapore-law/
+permalink: /singapore-law/why-choose-singapore-law/
 ---
 
  - **Transparent, neutral and predictable**

@@ -1,6 +1,6 @@
 ---
 title: Why Use Law Practices in Singapore
-permalink: /legal-services/why-use-law-practices-in-Singapore/
+permalink: /legal-services/why-use-law-practices-in-singapore/
 ---
 
 *[This is a draft write-up.]* 

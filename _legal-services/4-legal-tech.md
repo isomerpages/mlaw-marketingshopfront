@@ -1,6 +1,6 @@
 ---
 title: LegalTech 
-permalink: /other-legal-services/legal-tech
+permalink: /other-legal-services/legal-tech/
 ---
 
 ### A Global Hub for LegalTech

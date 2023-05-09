@@ -1,4 +1,4 @@
 ---
 title: Intellectual Property
-permalink: /other-legal-services/intellectual-property
+permalink: /other-legal-services/intellectual-property/
 ---

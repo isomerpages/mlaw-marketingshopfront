@@ -1,6 +1,6 @@
 ---
 title: Why Choose Singapore Law as governing law in contracts
-permalink: /why-singapore/why-choose-Singapore-law-as-governing-law-in-contracts/
+permalink: /why-singapore/why-choose-singapore-law-as-governing-law-in-contracts/
 ---
 
 ### Transparent, neutral and predictable

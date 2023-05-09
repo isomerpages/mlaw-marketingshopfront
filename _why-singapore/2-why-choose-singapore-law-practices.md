@@ -1,6 +1,6 @@
 ---
 title: Why Choose Singapore Law Practices
-permalink: /why-singapore/why-choose-singapore-law-practices
+permalink: /why-singapore/why-choose-singapore-law-practices/
 ---
 
 Singapore has a broad base of legal service providers to cater to the regional and international needs of businesses. The legal sector in Singapore contains a diverse range of law practice entities, each with a unique offering to meet every legal need.

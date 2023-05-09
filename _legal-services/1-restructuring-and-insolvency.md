@@ -1,6 +1,6 @@
 ---
 title: Restructuring and Insolvency
-permalink: /other-legal-services/restructuring-and-insolvency
+permalink: /other-legal-services/restructuring-and-insolvency/
 ---
 
 The personal and corporate insolvency and debt restructuring framework in Singapore is set out in the [Insolvency, Restructuring and Dissolution Act 2018 (IRDA)](https://sso.agc.gov.sg/Acts-Supp/40-2018/Published/20181107?DocDate=20181107), which commenced on 30 Jul 2020.  

@@ -1,6 +1,6 @@
 ---
 title: Practising Law in Singapore
-permalink: /legal-services/practising-law-in-Singapore/
+permalink: /legal-services/practising-law-in-singapore/
 ---
 
 [This is a draft write-up.]

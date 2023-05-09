@@ -1,6 +1,6 @@
 ---
 title: Test Page for Jason
-permalink: test/jason-lek
+permalink: test/jason-lek/
 ---
 |Header|Header|Header| 
 |-|-|-|

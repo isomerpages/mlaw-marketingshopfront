@@ -1,6 +1,6 @@
 ---
 title: Doing Business in Singapore
-permalink: /why-singapore/doing-business-in-singapore
+permalink: /why-singapore/doing-business-in-singapore/
 ---
     
    
