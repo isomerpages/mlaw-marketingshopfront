@@ -9,6 +9,6 @@ The Singapore Ministry of Law and the China Council for the Promotion of Interna
 
 The Singapore-China International Commercial Dispute Resolution Conference will explore new opportunities for commercial legal services under the Belt and Road Initiative and discuss how China and Singapore can work together to help businesses resolve commercial disputes more effectively, conveniently and fairly through the use of mediation, arbitration and/or litigation, to advance cross-border commerce, investment and economic cooperation.
 
-To view the conference website in English, please click [here](https://mlaw-ccpit-staging.netlify.app/).
+To view the conference website in English, please click [here](https://scdr-conference.mlaw.gov.sg/).
 
-To view the conference website in Chinese, please click [here](https://mlaw-ccpit-cn-staging.netlify.app/).
+To view the conference website in Chinese, please click [here](https://cn.scdr-conference.mlaw.gov.sg/).
